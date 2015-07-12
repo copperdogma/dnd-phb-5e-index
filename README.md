@@ -1,7 +1,7 @@
 # Dungeons &amp; Dragons 5th Edition Revised Index
 
 ## Why?
-My buddies and I play D&D. We have since first edition. And as much respect as we have for the creators of each edition, the index of the Fifth Edition Player's Handbook is the worst by far. What do I mean? Take this example, where we want to look up listening at a door:
+My buddies and I play D&D. We have since first edition. And as much respect as we have for the creators of each edition, the index of the Fifth Edition Player's Handbook is just terrible. What do I mean? Take this example, where we want to look up listening at a door:
 
 - Look up listening. We find:
 	- listening. See Wisdom: Perception
@@ -23,7 +23,7 @@ So to find the page we wanted we needed to look up the index, look up a page, re
 
 What it the index was better? What if the listening section looked like this:
 
-listening
+- listening
 	- defeaned, 290
 	- Perception (Wisdom), 178
 	
@@ -31,9 +31,9 @@ There! Now it shows us both thing we may be looking for with a single page numbe
 
 Even more annoying are entries like this (it's on three lines because that's the way it wraps in the narrow index columns):
 
-Destructive Wrath (cleric). See
-	under Channel Divinity cleric
-	options
+Destructive Wrath (cleric). See<br/>
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;under Channel Divinity cleric<br/>
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;options<br/>
 	
 Wouldn't this be better?
 
