@@ -47,6 +47,9 @@ Anyway, we were annoyed enough that I decided to fix it.
 - Replace all "See X" entries with the actual page.
 - Replace all vague page ranges with the actual page.
 - Bold the page entries that are the primary source vs. incidental mentions.
+- Add older terms whose name has changed in 5e, like: holding your action (now called Ready)
 - Decide how to convert the final result into a printable format that can be slotted into the back of a Player's Handbook.
 	- I think HTML would be the best final format. The only downside would be we'd need to use cutting-edge CSS styling to get the layout perfect, but we can produce a PDF, too, for final printing.
 	- Markdown would be the easiest format to edit, and you can produce HTML from it.
+- Create a home on a forum where we can accept feedback/manual revisions/etc.
+	- If Wizards isn't opposing it, it would be best to do it on Wizards' forums.
