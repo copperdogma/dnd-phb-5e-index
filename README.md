@@ -53,3 +53,4 @@ Anyway, we were annoyed enough that I decided to fix it.
 	- Markdown would be the easiest format to edit, and you can produce HTML from it.
 - Create a home on a forum where we can accept feedback/manual revisions/etc.
 	- If Wizards isn't opposing it, it would be best to do it on Wizards' forums.
+- Make a mobile-first online version with live search.
