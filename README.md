@@ -27,7 +27,7 @@ What it the index was better? What if the listening section looked like this:
 	- defeaned, 290
 	- Perception (Wisdom), 178
 	
-There! Now it shows us both thing we may be looking for with a single page number.
+There! Now it shows us both things we may be looking for with a single page number.
 
 Even more annoying are entries like this (it's on three lines because that's the way it wraps in the narrow index columns):
 
