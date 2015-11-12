@@ -412,7 +412,7 @@ demiplanes. See planes of existence
 Destroy Undead. See under Channel Divinity cleric options
 Destructive Wrath (cleric). See under Channel Divinity cleric options
 Devil's Sight (warlock). See eldritch invocations
-Dexterity. 12, 176-177
+Dexterity, 12, 176-177
 	Acrobatics, 176
 	checks, 176-177
 	Sleight of Hand, 177

@@ -43,5 +43,9 @@ Just tell me what page it's on! Don't make me look up something else AND take tw
 
 Anyway, we were annoyed enough that I decided to fix it.
 
+## NOTES
+
+- Fonts: http://rpg.brainclouds.net/2014/11/24/the-fonts-of-dd-5th-edition/
+
 ## TO DO
 See <https://github.com/copperdogma/dnd-phb-5e-index/issues>
