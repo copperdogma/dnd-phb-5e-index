@@ -1386,7 +1386,7 @@ Superior Critical (fighter), 73
 Superior Darkvision (drow), 24
 Superior Hunter's Defense (ranger), 93
 Superior Inspiration (bard), 54
-superior dice (fighter), 73
+superiority dice (fighter), 73
 Supreme Healing (cleric), 60
 Supreme Sneak (rogue), 97
 surprise, 189
