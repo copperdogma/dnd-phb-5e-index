@@ -1,5 +1,7 @@
 # Dungeons &amp; Dragons 5th Edition Revised Index
 
+<a href='https://github.com/copperdogma/dnd-phb-5e-index/raw/master/PHB%20Index%20Improved.pdf'>Download the PDF here.</a>
+
 ## Why?
 My buddies and I play D&D. We have since first edition. And as much respect as we have for the creators of each edition, the index of the Fifth Edition Player's Handbook is just terrible. What do I mean? Take this example, where we want to look up listening at a door:
 
@@ -42,6 +44,16 @@ Destructive Wrath (cleric), 62
 Just tell me what page it's on! Don't make me look up something else AND take two extra lines to do it!
 
 Anyway, we were annoyed enough that I decided to fix it.
+
+## WHAT I'VE CHANGED
+
+- typed out the original 5e PHB index, retaining a copy as a starting point
+- made a copy ("Improved") and improved the following things:
+   - looked up every "See X" reference and added the actual page number (and expanded the reference where it made sense)
+   - added abbreviation expansions where they were missing
+   - added a page number to the start of the section every time it references a section (like Classes)
+   - added a number of entries that users of previous versions might look up, with their 5e references: Holding your action.
+
 
 ## NOTES
 

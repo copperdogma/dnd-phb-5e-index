@@ -757,6 +757,7 @@ hit points, 12, 13, 15, 177, 196-198
 	subtracting damage from, 196
 	temporary, 198
 holding breath, 183
+holding your action (Ready action), 193
 Holy Nimbus (paladin), 86
 holy symbol
 	cleric, 57, 58
@@ -1634,7 +1635,7 @@ wolf (creature), 311
 wood elf (race; elf), 24
 world, 5-6, 8
 	planes of existence: Material Plane, 302
-Wraith of the Storm (cleric), 62
+Wrath of the Storm (cleric), 62
 XP (experience points), 15
 Ysgard (plane of existence), 302
 zombie (creature), 311
