@@ -969,7 +969,7 @@ movement, 181-183, 190-192
 	speed, 14, 17, 181
 	squeezing, 192
 	stand up, 190-191
-	swimming, 182, 190
+	swimming, 175 (Athletics), 182, 190
 	travel pace, 181
 	using different speeds, 190
 moving a grappled creature, 195
@@ -1446,6 +1446,7 @@ Survivor (fighter), 73
 svirfneblin (deep gnome) (race; gnome), 36
 Sweeping Attack maneuver (fighter maneuver), 74
 Sweeping Cinder Strike (monk Elemental Discipline), 81
+swimming, 175 (Athletics), 182, 190
 Sylvan (language), 123
 targeting a spell (casting a spell: targeting), 204
 target number, 7
