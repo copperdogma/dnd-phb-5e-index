@@ -60,6 +60,8 @@ alignment, 122
 Alter Memories (wizard), 117
 ammunition (weapon property), 146
 Animal Handling (Wisdom skill), 178
+appraise item value (Intelligence check), 177-178
+	bonus with magnifying glass, 153
 Aquan (language), 123
 Arborea (plane of existence), 302
 Arcadia (plane of existence), 302
@@ -418,6 +420,7 @@ deities, 293-299
 demiplanes (plane of existence), 302
 Destroy Undead (Channel Divinity cleric option), 59
 Destructive Wrath (Channel Divinity cleric option), 62
+detect lie (Insight) (Wisdom skill), 178
 Devil's Sight (warlock eldritch invocation), 110
 Dexterity, 12, 176-177
 	Acrobatics, 176
@@ -471,6 +474,11 @@ DM (Dungeon Master), 5
 Dodge action, 192
 domain spells (Divine Domain), 59
 donning and doffing armor (armor and shields: getting into and out of), 146
+door, opening
+	picking lock (thieves' tools), 154
+	breaking down (improvised action), 193
+	breaking down (Portable Ram), 153
+	forcing open (Strength ability check), 175-176
 downtime activities, 187
 draconians, 34
 Draconic
@@ -553,6 +561,7 @@ Enchantment Savant (wizard), 117
 enchanter, 117
 encounters (travel), 183
 encumbrance (lifting and carrying), 176
+endurance check (Constitution check), 177
 entertainer (background), 130-131
 Entropic Ward (warlock), 110
 environment, 14, 125, 143-161
@@ -670,6 +679,10 @@ frightened (condition), 290
 frog (creature), 305
 gaining a level, 15
 Gargantuan (size category), 191
+gather information
+	researching (downtime activity), 187
+	intimidation (Charisma check), 179
+	investigation (Intelligence check), 178
 Gaze of Two Minds (warlock eldritch invocation), 111
 Gehenna (plane of existence), 302
 gender (character: sex and gender), 121
@@ -1393,6 +1406,7 @@ spider, giant (creature), 306
 Spirit Seeker (barbarian), 50
 Spirit Walker (barbarian), 50
 Split Enchantment (wizard), 118
+spot (Perception) (Wisdom skill), 178
 sprite (creature), 310
 spy (background), 130
 squeezing (movement), 192
@@ -1495,7 +1509,12 @@ total, 7
 total cover, 196
 Totemic Attunement (barbarian), 50
 Totem Spirit (barbarian), 50
-tracking (travel), 183
+tracking
+	as a wolf (barbarian primal path), 50
+	favored enemy (ranger), 91
+	Natural Explorer (ranger), 92
+	survival (Wisdom skill), 178
+	while travelling, 183
 trade goods, 144, 157
 training (downtime activity), 187
 traits (personality), 123
