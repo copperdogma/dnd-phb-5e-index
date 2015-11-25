@@ -364,7 +364,7 @@ Cutting Words (bard), 54-55
 cylinder (area effect), 204
 damage, 14, 196-197
 	at O hit points (death saving throw), 197
-damage resistance, 97
+damage resistance, 197
 Damage Resistance (dragonborn), 34
 damage roll, 14, 176, 177, 196
 	Dexterity-based, 177
@@ -1207,7 +1207,7 @@ Remarkable Athlete (fighter), 72
 Repelling Blast (warlock eldritch invocation), 111
 research (downtime activity), 187
 Researcher (sage), 138
-resistance (damage resistance), 97
+resistance (damage resistance), 197
 	Damage Resistance (dragonborn), 34
 resting, 186
 restrained (condition), 292

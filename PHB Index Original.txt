@@ -357,7 +357,7 @@ Cutting Words (bard), 54-55
 cylinder. See area effect
 damage, 14, 196-197
 	at O hit points. See under death saving throws
-damage resistance, 97
+damage resistance, 197
 Damage Resistance (dragonborn), 34
 damage roll, 14, 176, 177, 196
 	Dexterity-based, 177
