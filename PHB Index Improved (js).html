@@ -1,0 +1,269 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="utf-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+    <title>PHB Improved Index</title>
+    <style>
+        * {
+            -webkit-box-sizing: border-box;
+            -moz-box-sizing: border-box;
+            box-sizing: border-box;
+        }
+        body,html {
+            background: #eee;
+            font-family: sans-serif;
+            line-height: 1.3em;
+        }
+        #header { text-align: center; }
+        #filters {
+            margin: 0 auto;
+            text-align: center;
+        }
+        .quicksearch {
+            padding: 4px 6px;
+            font-size: 16px;
+            line-height: 22px;
+            width: 300px;
+            border: 1px solid #aaa;
+            border-radius: 3px;
+        }
+        .pages {
+            color: #777;
+            font-size: 14px;
+            font-weight: bold;
+            font-family: monospace;
+        }
+        .section {
+            float: left;
+            width: 300px; /* masonry columnWidth */
+            margin-bottom: 20px; /* masonry gutter */
+            padding: 6px 12px;
+            background: #fff;
+            box-shadow: 0 0 5px #bbb;
+        }
+        .section-item {}
+        .section-item .name {
+            font-weight: bold;
+        }
+        .section-item .pages {
+            display: block;
+            text-align: right;
+        }
+
+        .subsection {
+            list-style: none;
+            padding: 6px 0 6px 12px;
+            margin: 6px 0 0 0;
+            border-top: 1px solid #ddd;
+        }
+        .subsection-item {}
+        .subsection-item .name {}
+        .subsection-item .name:after {
+            content: " - ";
+        }
+        .subsection-item .pages {}
+    </style>
+</head>
+<body>
+
+<div class="wrap">
+    <div id="header">
+        <h1>PHB Improved Index</h1>
+    </div>
+
+    <div id="filters">
+        <p><input type="text" class="quicksearch" placeholder="Search" /></p>
+    </div>
+
+    <div id="phb-index" class="row"></div>
+</div>
+
+<!-- SECTION TEMPLATES -->
+
+<!-- subsection item wrapper -->
+<script type="text/html" id="subsection-item-wrapper-template">
+    <li class="subsection-item">
+        <span class="name">{{name}}</span>
+        <span class="pages">{{pages}}</span>
+    </li>
+</script>
+
+<!-- subsection wrapper -->
+<script type="text/html" id="subsection-wrapper-template">
+    <ul class="subsection">
+        {{subsection_items}}
+    </ul>
+</script>
+
+<!-- section item wrapper-->
+<script type="text/html" id="section-item-wrapper-template">
+    <div class="section-item">
+        <span class="pages">{{pages}}</span>
+        <span class="name">{{name}}</span>
+    </div>
+</script>
+
+<!-- section -->
+<script type="text/html" id="section-template">
+    <div class="section" {{section_attributes}}>
+        {{section_item}}
+        {{subsection}}
+    </div>
+</script>
+
+
+
+<!-- jQuery -->
+<script
+    src="http://ajax.googleapis.com/ajax/libs/jquery/1.11.3/jquery.min.js"></script>
+<script src="http://cdnjs.cloudflare.com/ajax/libs/jquery.isotope/2.2.2/isotope.pkgd.min.js"></script>
+<script>
+    (function ($) {
+
+        var json_url = 'https://raw.githubusercontent.com/daggerhart/dnd-phb-5e-index/json/PHB%20Index%20Improved.json';
+        var container_id = '#phb-index';
+
+        /**
+         * Simple templating system
+         *
+         * @param id
+         */
+        function getTemplate( id ){
+            return $( '<div>' ).html( $('#'+id +'-template').html() );
+        }
+
+        /**
+         * Render a template with data replacements
+         *
+         * @param id
+         * @param data
+         * @returns {*}
+         */
+        function renderTemplate( id, data ){
+            var template = getTemplate( id );
+
+            $.each(data, function( key, value ){
+                if ( typeof value === 'string' ) {
+                    template.html( function ( i, html ) {
+                        return html.replace( '{{' + key + '}}', value );
+                    } );
+                }
+            });
+
+            return template.html();
+        }
+
+        /**
+         *  Convert possible .pages array into csv
+         */
+        function makePages( item ) {
+            var pages = '';
+            if ( item.pages ){
+                pages = item.pages.join(', ');
+            }
+            return pages;
+        }
+
+        /**
+         * Add an index section to the page
+         *
+         * @param html
+         */
+        function addSectionToContainer( html ){
+            $( container_id ).append( html );
+        }
+
+        /**
+         * Initialize Isotope
+         */
+        function doIsotope(){
+            // quick search regex
+            var qsRegex;
+
+            // init Isotope
+            var $grid = $(container_id).isotope({
+                itemSelector: '.section',
+                //layoutMode: 'rowFit',
+                masonry: {
+                    columnWidth: 300,
+                    gutter: 20
+                },
+                filter: function() {
+                    return qsRegex ? $(this).text().match( qsRegex ) : true;
+                }
+            });
+
+            // use value of search field to filter
+            var $quicksearch = $('.quicksearch').keyup( debounce( function() {
+                qsRegex = new RegExp( $quicksearch.val(), 'gi' );
+                $grid.isotope();
+            }, 250 ) );
+        }
+
+        /**
+         * Debounce so filtering doesn't happen every millisecond
+         */
+        function debounce( fn, threshold ) {
+            var timeout;
+            return function debounced() {
+                if ( timeout ) {
+                    clearTimeout( timeout );
+                }
+                function delayed() {
+                    fn();
+                    timeout = null;
+                }
+                timeout = setTimeout( delayed, threshold || 100 );
+            }
+        }
+
+        /**
+         * Process the given index array
+         *
+         * @param data
+         */
+        function processData( data ){
+            $.each( data, function(i, section_data){
+                var section_item = renderTemplate('section-item-wrapper', {
+                    name: section_data.name,
+                    pages: makePages( section_data )
+                });
+                var subsection_items = '';
+                var subsection = '';
+
+                if ( section_data.children ) {
+                    $.each( section_data.children, function(j, subsection_item_data ){
+                        // template the subsection item
+                        subsection_items += renderTemplate('subsection-item-wrapper', {
+                            name: subsection_item_data.name,
+                            pages: makePages( subsection_item_data )
+                        });
+                    });
+                }
+
+                if ( subsection_items !== '' ) {
+                    subsection = renderTemplate( 'subsection-wrapper', {
+                        subsection_items: subsection_items
+                    });
+                }
+
+                addSectionToContainer( renderTemplate('section', {
+                    section_item: section_item,
+                    subsection: subsection
+                }));
+            });
+        }
+
+        $( document ).ready(function(){
+            $.getJSON( json_url, function(data){
+                processData(data);
+                doIsotope();
+            });
+        });
+    })(jQuery);
+
+</script>
+</body>
+</html>

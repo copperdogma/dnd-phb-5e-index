@@ -1,0 +1,7427 @@
+[
+    {
+        "name": "0 hit points (hit points: dropping to 0)",
+        "pages": ["197-198"]
+    },
+    {
+        "name": "ability check",
+        "pages": [
+            7,
+            12,
+            "173-179",
+            186
+        ],
+        "children": [
+            {
+                "name": "contest",
+                "pages": [174]
+            },
+            {
+                "name": "group",
+                "pages": [175]
+            },
+            {
+                "name": "passive",
+                "pages": [175]
+            },
+            {
+                "name": "skill",
+                "pages": ["174-175"]
+            },
+            {
+                "name": "skills with different abilities (variant)",
+                "pages": [175]
+            },
+            {
+                "name": "working together",
+                "pages": [175]
+            }
+        ]
+    },
+    {
+        "name": "ability modifier",
+        "pages": [
+            7,
+            13,
+            173
+        ],
+        "children": [
+            {
+                "name": "determining",
+                "pages": [
+                    13,
+                    173
+                ]
+            },
+            {
+                "name": "table",
+                "pages": [
+                    13,
+                    173
+                ]
+            }
+        ]
+    },
+    {
+        "name": "ability score",
+        "pages": [
+            7,
+            "12-13",
+            173
+        ],
+        "children": [
+            {
+                "name": "customizing (variant)",
+                "pages": [13]
+            },
+            {
+                "name": "determining",
+                "pages": ["12-13"]
+            },
+            {
+                "name": "increase (racial traits)",
+                "pages": [
+                    12,
+                    17
+                ]
+            },
+            {
+                "name": "point cost table",
+                "pages": [13]
+            },
+            {
+                "name": "rolling",
+                "pages": [13]
+            },
+            {
+                "name": "standard set",
+                "pages": [13]
+            },
+            {
+                "name": "summary",
+                "pages": [
+                    12,
+                    173
+                ]
+            },
+            {
+                "name": "using",
+                "pages": ["173-179"]
+            }
+        ]
+    },
+    {
+        "name": "Ability Score Improvement. See specific class entries",
+        "pages": [45]
+    },
+    {
+        "name": "abjuration",
+        "pages": [
+            115,
+            204
+        ],
+        "children": [
+            {
+                "name": "school (wizard)",
+                "pages": ["115-116"]
+            }
+        ]
+    },
+    {
+        "name": "Abjuration Savant (wizard)",
+        "pages": [115]
+    },
+    {
+        "name": "Abjure Enemy (paladin)",
+        "pages": [88]
+    },
+    {
+        "name": "abjurer",
+        "pages": [115]
+    },
+    {
+        "name": "Abyss, the (plane of existence)",
+        "pages": [302]
+    },
+    {
+        "name": "Abyssal (language)",
+        "pages": [123]
+    },
+    {
+        "name": "AC (Armor Class)",
+        "pages": [
+            7,
+            14,
+            144,
+            177
+        ]
+    },
+    {
+        "name": "Archeron (plane of existence)",
+        "pages": [302]
+    },
+    {
+        "name": "acid damage (damage type)",
+        "pages": [196]
+    },
+    {
+        "name": "acolyte (background)",
+        "pages": [127]
+    },
+    {
+        "name": "Acolyte of Nature (cleric)",
+        "pages": [62]
+    },
+    {
+        "name": "Acrobatics (Dexterity skill)",
+        "pages": [176]
+    },
+    {
+        "name": "action",
+        "pages": [
+            189,
+            "192-193"
+        ],
+        "children": [
+            {
+                "name": "Attack action",
+                "pages": [192]
+            },
+            {
+                "name": "cast a spell (casting a spell: casting time)",
+                "pages": [202]
+            },
+            {
+                "name": "Dash action",
+                "pages": [192]
+            },
+            {
+                "name": "Disengage action",
+                "pages": [192]
+            },
+            {
+                "name": "Dodge action",
+                "pages": [192]
+            },
+            {
+                "name": "Help action",
+                "pages": [192]
+            },
+            {
+                "name": "Hide action",
+                "pages": [192]
+            },
+            {
+                "name": "improvising",
+                "pages": [193]
+            },
+            {
+                "name": "Ready action",
+                "pages": [193]
+            },
+            {
+                "name": "Search action",
+                "pages": [193]
+            },
+            {
+                "name": "Use an Object action",
+                "pages": [193]
+            }
+        ]
+    },
+    {
+        "name": "Action Surge (fighter)",
+        "pages": [72]
+    },
+    {
+        "name": "advancement (character)",
+        "pages": [15]
+    },
+    {
+        "name": "advantage",
+        "pages": [
+            7,
+            173
+        ]
+    },
+    {
+        "name": "adventure",
+        "pages": [
+            5,
+            "7-8"
+        ],
+        "children": [
+            {
+                "name": "adventuring",
+                "pages": ["181-187"]
+            }
+        ]
+    },
+    {
+        "name": "adventurer (character)",
+        "pages": [
+            5,
+            "11-15"
+        ]
+    },
+    {
+        "name": "adventuring",
+        "pages": ["181-187"]
+    },
+    {
+        "name": "adventuring gear",
+        "pages": [
+            148,
+            "150-153"
+        ],
+        "children": [
+            {
+                "name": "table",
+                "pages": [150]
+            }
+        ]
+    },
+    {
+        "name": "age (character). See specific race entries",
+        "pages": [17]
+    },
+    {
+        "name": "Agonizing Blast (warlock eldritch invocation)",
+        "pages": [110]
+    },
+    {
+        "name": "alignment",
+        "pages": [122],
+        "children": [
+            {
+                "name": "of planes",
+                "pages": [302]
+            }
+        ]
+    },
+    {
+        "name": "Alter Memories (wizard)",
+        "pages": [117]
+    },
+    {
+        "name": "ammunition (weapon property)",
+        "pages": [146]
+    },
+    {
+        "name": "Animal Handling (Wisdom skill)",
+        "pages": [178]
+    },
+    {
+        "name": "Aquan (language)",
+        "pages": [123]
+    },
+    {
+        "name": "Arborea (plane of existence)",
+        "pages": [302]
+    },
+    {
+        "name": "Arcadia (plane of existence)",
+        "pages": [302]
+    },
+    {
+        "name": "Arcana (Intelligence skill)",
+        "pages": [177]
+    },
+    {
+        "name": "Arcane Charge (fighter)",
+        "pages": [75]
+    },
+    {
+        "name": "arcane magic",
+        "pages": [205],
+        "children": [
+            {
+                "name": "bard",
+                "pages": [51]
+            },
+            {
+                "name": "fighter (Eldritch Knight martial archetype)",
+                "pages": [74]
+            },
+            {
+                "name": "rogue (Arcane Trickster roguish archetype)",
+                "pages": [97]
+            },
+            {
+                "name": "sorcerer",
+                "pages": [99]
+            },
+            {
+                "name": "warlock",
+                "pages": [105]
+            },
+            {
+                "name": "wizard",
+                "pages": [112]
+            }
+        ]
+    },
+    {
+        "name": "Arcane Recovery (wizard)",
+        "pages": [115]
+    },
+    {
+        "name": "Arcane Tradition (wizard)",
+        "pages": [115]
+    },
+    {
+        "name": "arcane traditions",
+        "pages": ["115-119"],
+        "children": [
+            {
+                "name": "School of Abjuration",
+                "pages": ["115-116"]
+            },
+            {
+                "name": "School of Conjuration",
+                "pages": [116]
+            },
+            {
+                "name": "School of Divination",
+                "pages": ["116-117"]
+            },
+            {
+                "name": "School of Enchantment",
+                "pages": [117]
+            },
+            {
+                "name": "School of Evocation",
+                "pages": ["117-118"]
+            },
+            {
+                "name": "School of Illusion",
+                "pages": [118]
+            },
+            {
+                "name": "School of Necromancy",
+                "pages": ["118-119"]
+            },
+            {
+                "name": "School of Transmutation",
+                "pages": [119]
+            }
+        ]
+    },
+    {
+        "name": "Arcane Trickster (roguish archetype)",
+        "pages": [97]
+    },
+    {
+        "name": "Arcane Ward (wizard)",
+        "pages": [115]
+    },
+    {
+        "name": "Archdruid (druid)",
+        "pages": ["67-68"]
+    },
+    {
+        "name": "Archery (fighting style)",
+        "pages": [
+            72,
+            91
+        ]
+    },
+    {
+        "name": "Archfey, the (warlock otherworldly patron)",
+        "pages": ["108-109"]
+    },
+    {
+        "name": "area of effect",
+        "pages": ["204-205"]
+    },
+    {
+        "name": "armor and shields",
+        "pages": ["144-146"],
+        "children": [
+            {
+                "name": "barding",
+                "pages": [
+                    155,
+                    310
+                ]
+            },
+            {
+                "name": "casting a spell in armor",
+                "pages": [201]
+            },
+            {
+                "name": "getting into and out of",
+                "pages": [146]
+            },
+            {
+                "name": "refitting plate armor (variant: equipment sizes)",
+                "pages": [144]
+            },
+            {
+                "name": "Stealth",
+                "pages": [144]
+            },
+            {
+                "name": "table",
+                "pages": [145]
+            }
+        ]
+    },
+    {
+        "name": "Armor Class (AC)",
+        "pages": [
+            7,
+            14,
+            144,
+            177
+        ]
+    },
+    {
+        "name": "Armor of Shadows (warlock eldritch invocation)",
+        "pages": [110]
+    },
+    {
+        "name": "armor proficiency",
+        "pages": [144],
+        "children": [
+            {
+                "name": "See also specific class entries",
+                "pages": [45]
+            }
+        ]
+    },
+    {
+        "name": "Artificer's Lore (rock gnome)",
+        "pages": [37]
+    },
+    {
+        "name": "Ascendant Step (warlock eldritch invocation)",
+        "pages": [110]
+    },
+    {
+        "name": "Aspect of the Beast (barbarian)",
+        "pages": [50]
+    },
+    {
+        "name": "Assassin (rogue)",
+        "pages": [97]
+    },
+    {
+        "name": "Assassinate (rogue)",
+        "pages": [97]
+    },
+    {
+        "name": "Astral Plane (plane of existence)",
+        "pages": [302]
+    },
+    {
+        "name": "Athletics (Strength skill)",
+        "pages": [175]
+    },
+    {
+        "name": "attack of opportunity",
+        "pages": [195]
+    },
+    {
+        "name": "attack",
+        "pages": [
+            14,
+            "193-196"
+        ]
+    },
+    {
+        "name": "Attack action",
+        "pages": [192]
+    },
+    {
+        "name": "attack modifier",
+        "pages": [
+            14,
+            194
+        ],
+        "children": [
+            {
+                "name": "spell (attack roll)",
+                "pages": [205]
+            }
+        ]
+    },
+    {
+        "name": "attack roll",
+        "pages": [
+            7,
+            14,
+            176,
+            177,
+            194
+        ],
+        "children": [
+            {
+                "name": "ability modifier",
+                "pages": [194]
+            },
+            {
+                "name": "Dexterity-based",
+                "pages": [
+                    177,
+                    194
+                ]
+            },
+            {
+                "name": "modifiers to",
+                "pages": [194]
+            },
+            {
+                "name": "proficiency bonus",
+                "pages": [194]
+            },
+            {
+                "name": "rolling a 1 (automatic miss)",
+                "pages": [194]
+            },
+            {
+                "name": "rolling a 20 (automatic hit)",
+                "pages": [194]
+            },
+            {
+                "name": "spell (attack roll)",
+                "pages": [205]
+            },
+            {
+                "name": "Strength-based",
+                "pages": [
+                    176,
+                    194
+                ]
+            }
+        ]
+    },
+    {
+        "name": "Auran (language)",
+        "pages": [123]
+    },
+    {
+        "name": "Aura of Courage (paladin)",
+        "pages": [85]
+    },
+    {
+        "name": "Aura of Devotion (paladin)",
+        "pages": [86]
+    },
+    {
+        "name": "Aura of Protection (paladin)",
+        "pages": [85]
+    },
+    {
+        "name": "Aura of Warding (paladin)",
+        "pages": [87]
+    },
+    {
+        "name": "automatic hit (rolling a 20)",
+        "pages": [194]
+    },
+    {
+        "name": "automatic miss (rolling a 1)",
+        "pages": [194]
+    },
+    {
+        "name": "Avatar of Battle (cleric)",
+        "pages": [63]
+    },
+    {
+        "name": "Avenging Angel (paladin)",
+        "pages": [88]
+    },
+    {
+        "name": "Awakened Mind (warlock)",
+        "pages": [110]
+    },
+    {
+        "name": "background",
+        "pages": [
+            11,
+            12,
+            "13-14",
+            "125-141"
+        ],
+        "children": [
+            {
+                "name": "acolyte",
+                "pages": [127]
+            },
+            {
+                "name": "charlatan",
+                "pages": [128]
+            },
+            {
+                "name": "criminal",
+                "pages": ["129-130"]
+            },
+            {
+                "name": "customizing",
+                "pages": ["125-126"]
+            },
+            {
+                "name": "entertainer",
+                "pages": ["130-131"]
+            },
+            {
+                "name": "equipment",
+                "pages": [125]
+            },
+            {
+                "name": "folk hero",
+                "pages": ["131-132"]
+            },
+            {
+                "name": "gladiator (variant)",
+                "pages": [131]
+            },
+            {
+                "name": "guild artisan",
+                "pages": ["132-133"]
+            },
+            {
+                "name": "guild merchant (variant)",
+                "pages": [133]
+            },
+            {
+                "name": "hermit",
+                "pages": ["134-135"]
+            },
+            {
+                "name": "languages",
+                "pages": [125]
+            },
+            {
+                "name": "noble",
+                "pages": ["135-136"]
+            },
+            {
+                "name": "noble knight (variant)",
+                "pages": [136]
+            },
+            {
+                "name": "outlander",
+                "pages": ["136-137"]
+            },
+            {
+                "name": "pirate (variant)",
+                "pages": [139]
+            },
+            {
+                "name": "proficiencies",
+                "pages": [125]
+            },
+            {
+                "name": "sage",
+                "pages": ["137-138"]
+            },
+            {
+                "name": "sailor",
+                "pages": [139]
+            },
+            {
+                "name": "soldier",
+                "pages": ["140-141"]
+            },
+            {
+                "name": "spy (variant)",
+                "pages": [130]
+            },
+            {
+                "name": "suggested characteristics",
+                "pages": [125]
+            },
+            {
+                "name": "urchin",
+                "pages": [141]
+            }
+        ]
+    },
+    {
+        "name": "Bad Reputation (pirate variant feature)",
+        "pages": [139]
+    },
+    {
+        "name": "barbarian",
+        "pages": [
+            45,
+            "46-50"
+        ],
+        "children": [
+            {
+                "name": "primal paths",
+                "pages": ["49-50"]
+            },
+            {
+                "name": "quick build",
+                "pages": [47]
+            }
+        ]
+    },
+    {
+        "name": "bard",
+        "pages": [
+            45,
+            "51-55"
+        ],
+        "children": [
+            {
+                "name": "colleges",
+                "pages": ["54-55"]
+            },
+            {
+                "name": "quick build",
+                "pages": [52]
+            },
+            {
+                "name": "spell list",
+                "pages": [207]
+            }
+        ]
+    },
+    {
+        "name": "Bard College (bard)",
+        "pages": [54]
+    },
+    {
+        "name": "bard colleges",
+        "pages": ["54-55"],
+        "children": [
+            {
+                "name": "College of Lore",
+                "pages": ["54-55"]
+            },
+            {
+                "name": "College of Valor",
+                "pages": [55]
+            }
+        ]
+    },
+    {
+        "name": "Bardic Inspiration (bard)",
+        "pages": ["53-54"]
+    },
+    {
+        "name": "barding",
+        "pages": [
+            155,
+            310
+        ]
+    },
+    {
+        "name": "base attack bonus (proficiency bonus)",
+        "pages": [
+            12,
+            "15 (table)",
+            173
+        ]
+    },
+    {
+        "name": "base save bonus (proficiency bonus)",
+        "pages": [
+            12,
+            "15 (table)",
+            173
+        ]
+    },
+    {
+        "name": "bat (creature)",
+        "pages": [304]
+    },
+    {
+        "name": "Battle Magic (bard)",
+        "pages": [55]
+    },
+    {
+        "name": "Battle Master (fighter martial archetype)",
+        "pages": [73]
+    },
+    {
+        "name": "bear, black (creature)",
+        "pages": [304]
+    },
+    {
+        "name": "bear, brown (creature)",
+        "pages": [304]
+    },
+    {
+        "name": "Beastlands, the (plane of existence)",
+        "pages": [302]
+    },
+    {
+        "name": "Beast Master (ranger archetype)",
+        "pages": [93]
+    },
+    {
+        "name": "Beast Speech (warlock eldritch invocation)",
+        "pages": [110]
+    },
+    {
+        "name": "Beast Spells (druid)",
+        "pages": [67]
+    },
+    {
+        "name": "Beguiling Defenses (warlock)",
+        "pages": [109]
+    },
+    {
+        "name": "Beguiling Influence (warlock eldritch invocation)",
+        "pages": [110]
+    },
+    {
+        "name": "Bend Luck (sorcerer)",
+        "pages": [103]
+    },
+    {
+        "name": "Benign Transposition (wizard)",
+        "pages": [116]
+    },
+    {
+        "name": "Bestial Fury (ranger)",
+        "pages": [93]
+    },
+    {
+        "name": "Bewitching Whispers (warlock eldritch invocation)",
+        "pages": [110]
+    },
+    {
+        "name": "Blessed Healer (cleric)",
+        "pages": [60]
+    },
+    {
+        "name": "Blessings of Knowledge (cleric)",
+        "pages": [59]
+    },
+    {
+        "name": "Blessing of the Trickster (cleric)",
+        "pages": [63]
+    },
+    {
+        "name": "blinded (condition)",
+        "pages": [290]
+    },
+    {
+        "name": "Blindsense (rogue)",
+        "pages": [96]
+    },
+    {
+        "name": "blindsignt",
+        "pages": [183]
+    },
+    {
+        "name": "bludgeoning damage (damage type)",
+        "pages": [196]
+    },
+    {
+        "name": "boar (creature)",
+        "pages": [304]
+    },
+    {
+        "name": "bonds (personality)",
+        "pages": [124]
+    },
+    {
+        "name": "bonus",
+        "pages": [7]
+    },
+    {
+        "name": "bonus action",
+        "pages": [189],
+        "children": [
+            {
+                "name": "See also casting a spell: casting time",
+                "pages": [202]
+            }
+        ]
+    },
+    {
+        "name": "Book of Ancient Secrets (warlock eldritch invocation)",
+        "pages": [110]
+    },
+    {
+        "name": "Book of Shadows (warlock)",
+        "pages": [108]
+    },
+    {
+        "name": "Border Ethereal (plane of existence)",
+        "pages": [302]
+    },
+    {
+        "name": "Brave (halfling)",
+        "pages": [28]
+    },
+    {
+        "name": "breaking concentration",
+        "pages": [203]
+    },
+    {
+        "name": "Breath of Winter (monk Elemental Discipline)",
+        "pages": [81]
+    },
+    {
+        "name": "Breath Weapon (dragonborn)",
+        "pages": [34]
+    },
+    {
+        "name": "bright light",
+        "pages": [183]
+    },
+    {
+        "name": "bringing back the dead, See the spell descriptions for raise dead (270), reincarnate (271), resurrection (272), revivify (272), true resurrection (284)"
+    },
+    {
+        "name": "Brutal Critical (barbarian)",
+        "pages": [49]
+    },
+    {
+        "name": "bull rush (shoving)",
+        "pages": [195]
+    },
+    {
+        "name": "By Popular Demand (entertainer)",
+        "pages": [130]
+    },
+    {
+        "name": "Bytopia (plane of existence)",
+        "pages": [302]
+    },
+    {
+        "name": "Calishite (human ethnicity)",
+        "pages": [30]
+    },
+    {
+        "name": "campaign",
+        "pages": [
+            5,
+            6
+        ]
+    },
+    {
+        "name": "cantrips",
+        "pages": [201],
+        "children": [
+            {"name": "See also Spellcasting: bard (52); cleric (58); druid (66); fighter, Eldritch Knight (75); rogue, Arcane Trickster (98); sorcerer (101); warlock (107); wizard (114)"}
+        ]
+    },
+    {
+        "name": "Carceri (plane of existence)",
+        "pages": [302]
+    },
+    {
+        "name": "Careful Spell (sorcerer Metamagic)",
+        "pages": [102]
+    },
+    {
+        "name": "carrying capacity (lifting and carrying)",
+        "pages": [176]
+    },
+    {
+        "name": "casting a spell",
+        "pages": ["201-205"],
+        "children": [
+            {
+                "name": "area of effect",
+                "pages": ["204-205"]
+            },
+            {
+                "name": "at a higher level",
+                "pages": [201]
+            },
+            {
+                "name": "attack roll",
+                "pages": [205]
+            },
+            {
+                "name": "casting time",
+                "pages": [202]
+            },
+            {
+                "name": "combining effects",
+                "pages": [205]
+            },
+            {
+                "name": "components",
+                "pages": [203]
+            },
+            {
+                "name": "duration",
+                "pages": ["203-204"]
+            },
+            {
+                "name": "in armor",
+                "pages": [201]
+            },
+            {
+                "name": "multiclassing",
+                "pages": [164]
+            },
+            {
+                "name": "range",
+                "pages": ["202-203"]
+            },
+            {
+                "name": "saving throw",
+                "pages": [205]
+            },
+            {
+                "name": "targeting",
+                "pages": [204]
+            },
+            {"name": "See also Spellcasting: bard (52); cleric (58); druid (66); fighter, Eldritch Knight (75); ranger (91); rogue, Arcane Trickster (98); sorcerer (101); warlock (107); wizard (114)"}
+        ]
+    },
+    {
+        "name": "casting time",
+        "pages": [202]
+    },
+    {
+        "name": "cat (creature)",
+        "pages": [305]
+    },
+    {
+        "name": "Celestial (language)",
+        "pages": [123]
+    },
+    {
+        "name": "Chains of Carceri (warlock eldritch invocation)",
+        "pages": [110]
+    },
+    {
+        "name": "Champion (fighter martial archetype)",
+        "pages": [72]
+    },
+    {
+        "name": "Channel Divinity, cleric",
+        "pages": ["58-63"],
+        "children": [
+            {
+                "name": "Charm Animals and Plants (Nature Domain)",
+                "pages": [62]
+            },
+            {
+                "name": "Cloak of Shadows (Trickery domain)",
+                "pages": [63]
+            },
+            {
+                "name": "Destroy Undead",
+                "pages": [59]
+            },
+            {
+                "name": "Destructive Wrath (Tempest domain)",
+                "pages": [62]
+            },
+            {
+                "name": "Guided Strike (War domain)",
+                "pages": [63]
+            },
+            {
+                "name": "Invoke Duplicity (Trickery domain)",
+                "pages": [63]
+            },
+            {
+                "name": "Knowledge of the Ages (Knowledge domain)",
+                "pages": [59]
+            },
+            {
+                "name": "multiclassing and",
+                "pages": [164]
+            },
+            {
+                "name": "Preserve Life (Life domain)",
+                "pages": [60]
+            },
+            {
+                "name": "Radiance of the Dawn (Light domain)",
+                "pages": [61]
+            },
+            {
+                "name": "Read Thoughts (Knowledge domain)",
+                "pages": ["59-60"]
+            },
+            {
+                "name": "Turn Undead",
+                "pages": [59]
+            },
+            {
+                "name": "War God's Blessing (War domain)",
+                "pages": [63]
+            }
+        ]
+    },
+    {
+        "name": "Channel Divinity, paladin",
+        "pages": ["86-88"],
+        "children": [
+            {
+                "name": "Abjure Enemy (Oath of Vengeance)",
+                "pages": [88]
+            },
+            {
+                "name": "Nature’s Wrath (Oath of the Ancients)",
+                "pages": [87]
+            },
+            {
+                "name": "Sacred Weapon (Oath of Devotion)",
+                "pages": [86]
+            },
+            {
+                "name": "Turn the Faithless (Oath of the Ancients)",
+                "pages": [87]
+            },
+            {
+                "name": "Turn the Unholy (Oath of Devotion)",
+                "pages": [86]
+            },
+            {
+                "name": "Vow of Enmity (Oath of Vengeance)",
+                "pages": [88]
+            }
+        ]
+    },
+    {
+        "name": "chaotic evil (alignment)",
+        "pages": [122]
+    },
+    {
+        "name": "chaotic evil (alignment)",
+        "pages": [122]
+    },
+    {
+        "name": "chaotic good (alignment)",
+        "pages": [122]
+    },
+    {
+        "name": "chaotic neutral (alignment)",
+        "pages": [122]
+    },
+    {
+        "name": "character",
+        "pages": [
+            5,
+            "11-15"
+        ],
+        "children": [
+            {
+                "name": "advancement",
+                "pages": [15]
+            },
+            {
+                "name": "age. See specific race entries",
+                "pages": [17]
+            },
+            {
+                "name": "alignment",
+                "pages": [122]
+            },
+            {
+                "name": "creating a",
+                "pages": ["11-15"]
+            },
+            {
+                "name": "describing your",
+                "pages": ["13-14"]
+            },
+            {
+                "name": "equipping your",
+                "pages": [
+                    14,
+                    125,
+                    "143-157"
+                ]
+            },
+            {
+                "name": "height and weight",
+                "pages": [121]
+            },
+            {
+                "name": "name",
+                "pages": [
+                    121,
+                    "See also specific race entries pages 17"
+                ]
+            },
+            {
+                "name": "personality",
+                "pages": ["122-124"]
+            },
+            {
+                "name": "sex and gender",
+                "pages": [121]
+            }
+        ]
+    },
+    {
+        "name": "character sheet",
+        "pages": [
+            11,
+            "317-319"
+        ]
+    },
+    {
+        "name": "Charisma",
+        "pages": [
+            12,
+            "178-179"
+        ],
+        "children": [
+            {
+                "name": "checks",
+                "pages": ["178-179"]
+            },
+            {
+                "name": "Deception",
+                "pages": [178]
+            },
+            {
+                "name": "Intimidation",
+                "pages": [179]
+            },
+            {
+                "name": "Performance",
+                "pages": [179]
+            },
+            {
+                "name": "Persuasion",
+                "pages": [179]
+            }
+        ]
+    },
+    {
+        "name": "charlatan (background)",
+        "pages": [128]
+    },
+    {
+        "name": "Charm Animals and plants (Channel Divinity cleric option)",
+        "pages": [62]
+    },
+    {
+        "name": "charmed (condition)",
+        "pages": [290]
+    },
+    {
+        "name": "check. See ability check"
+    },
+    {
+        "name": "Chondathan (human ethnicity)",
+        "pages": [30]
+    },
+    {
+        "name": "Circle Forms (druid)",
+        "pages": [69]
+    },
+    {
+        "name": "Circle of the Land (druid circle)",
+        "pages": [68]
+    },
+    {
+        "name": "Circle of the Moon (druid circle)",
+        "pages": [69]
+    },
+    {
+        "name": "Circle Spells (druid)",
+        "pages": [68]
+    },
+    {
+        "name": "City Secrets (urchin)",
+        "pages": [141]
+    },
+    {
+        "name": "Cleansing Touch (paladin)",
+        "pages": [85]
+    },
+    {
+        "name": "Cloak of Shadows",
+        "children": [
+            {
+                "name": "Channel Divinity cleric options",
+                "pages": [63]
+            },
+            {
+                "name": "monk",
+                "pages": [80]
+            }
+        ]
+    },
+    {
+        "name": "class",
+        "pages": [
+            11,
+            45
+        ],
+        "children": [
+            {
+                "name": "choosing a",
+                "pages": [11]
+            },
+            {
+                "name": "features",
+                "pages": [
+                    11,
+                    15
+                ]
+            },
+            {
+                "name": "proficiencies",
+                "pages": [12]
+            },
+            {
+                "name": "quick build",
+                "pages": [11]
+            },
+            {
+                "name": "See also specific class entries",
+                "pages": [45]
+            }
+        ]
+    },
+    {
+        "name": "clear path to the target (casting a spell: targeting)",
+        "pages": [204]
+    },
+    {
+        "name": "Clench of the North Wind (monk Elemental Discipline)",
+        "pages": [81]
+    },
+    {
+        "name": "cleric",
+        "pages": [
+            45,
+            "56-63"
+        ],
+        "children": [
+            {
+                "name": "divine domains",
+                "pages": [59]
+            },
+            {
+                "name": "quick build",
+                "pages": [57]
+            },
+            {
+                "name": "spell list",
+                "pages": ["207-208"]
+            }
+        ]
+    },
+    {
+        "name": "climbing (movement)",
+        "pages": [
+            182,
+            190
+        ]
+    },
+    {
+        "name": "coinage",
+        "pages": [143]
+    },
+    {
+        "name": "cold damage (damage type)",
+        "pages": [196]
+    },
+    {
+        "name": "College of Lore (bard college)",
+        "pages": [54]
+    },
+    {
+        "name": "College of Valor (bard college)",
+        "pages": [55]
+    },
+    {
+        "name": "Colossus Slayer (ranger Hunter's Prey)",
+        "pages": [93]
+    },
+    {
+        "name": "combat",
+        "pages": [
+            8,
+            "189-198"
+        ],
+        "children": [
+            {
+                "name": "mounted",
+                "pages": [198]
+            },
+            {
+                "name": "step by step",
+                "pages": [189]
+            },
+            {
+                "name": "underwater",
+                "pages": [198]
+            }
+        ]
+    },
+    {
+        "name": "Combat Inspiration (bard)",
+        "pages": [55]
+    },
+    {
+        "name": "combat round (time)",
+        "pages": [
+            181,
+            189
+        ]
+    },
+    {
+        "name": "Combat Superiority (fighter)",
+        "pages": [73]
+    },
+    {
+        "name": "Combat Wild Shape (druid)",
+        "pages": [69]
+    },
+    {
+        "name": "combining spell effects (casting a spell)",
+        "pages": [205]
+    },
+    {
+        "name": "Commander's Strike maneuver (fighter maneuver)",
+        "pages": [74]
+    },
+    {
+        "name": "Common (language)",
+        "pages": [123]
+    },
+    {
+        "name": "common races",
+        "pages": [17]
+    },
+    {
+        "name": "Command Undead (wizard)",
+        "pages": [119]
+    },
+    {
+        "name": "component, spell (casting a spell)",
+        "pages": [203],
+        "children": [
+            {
+                "name": "material spell component",
+                "pages": [203]
+            },
+            {
+                "name": "somatic spell component",
+                "pages": [203]
+            },
+            {
+                "name": "verbal spell component",
+                "pages": [203]
+            }
+        ]
+    },
+    {
+        "name": "concentration",
+        "pages": ["203-204"]
+    },
+    {
+        "name": "conditions",
+        "pages": ["290-292"]
+    },
+    {
+        "name": "cone (area of effect)",
+        "pages": [204]
+    },
+    {
+        "name": "conjuration",
+        "pages": [
+            116,
+            203
+        ],
+        "children": [
+            {
+                "name": "school (wizard arcane tradition)",
+                "pages": [116]
+            }
+        ]
+    },
+    {
+        "name": "Conjuration Savant (wizard)",
+        "pages": [116]
+    },
+    {
+        "name": "conjurer",
+        "pages": [116]
+    },
+    {
+        "name": "Constitution",
+        "pages": [
+            12,
+            172
+        ],
+        "children": [
+            {
+                "name": "checks",
+                "pages": [177]
+            },
+            {
+                "name": "hit points and",
+                "pages": [177]
+            }
+        ]
+    },
+    {
+        "name": "container capacity",
+        "pages": [153]
+    },
+    {
+        "name": "contest (ability check)",
+        "pages": [174]
+    },
+    {
+        "name": "Controlled Chaos (sorcerer)",
+        "pages": [103]
+    },
+    {
+        "name": "Converting a spell slot to sorcery points (sorcerer Font of Magic)",
+        "pages": [101]
+    },
+    {
+        "name": "copper piece (cp) (coinage)",
+        "pages": [143]
+    },
+    {
+        "name": "Corona of Light (cleric)",
+        "pages": [61]
+    },
+    {
+        "name": "Countercharm (bard)",
+        "pages": [54]
+    },
+    {
+        "name": "cover",
+        "pages": [196]
+    },
+    {
+        "name": "crafting (downtime activity)",
+        "pages": [187]
+    },
+    {
+        "name": "crawling (movement)",
+        "pages": [
+            182,
+            191
+        ]
+    },
+    {
+        "name": "Create Thrall (warlock)",
+        "pages": [110]
+    },
+    {
+        "name": "creating a character",
+        "pages": ["11-15"]
+    },
+    {
+        "name": "creating spell slots (sorcerer Font of Magic)",
+        "pages": [101]
+    },
+    {
+        "name": "creature statistics",
+        "pages": ["304-311"]
+    },
+    {
+        "name": "criminal (background)",
+        "pages": ["129-130"]
+    },
+    {
+        "name": "Criminal Contact (criminal)",
+        "pages": [129]
+    },
+    {
+        "name": "critical hit",
+        "pages": [197]
+    },
+    {
+        "name": "crocodile (creature)",
+        "pages": [305]
+    },
+    {
+        "name": "cube (area of effect)",
+        "pages": [204]
+    },
+    {
+        "name": "Cunning Action (rogue)",
+        "pages": [96]
+    },
+    {
+        "name": "current hit points (current)",
+        "pages": [196]
+    },
+    {
+        "name": "Cutting Words (bard)",
+        "pages": ["54-55"]
+    },
+    {
+        "name": "cylinder (area effect)",
+        "pages": [204]
+    },
+    {
+        "name": "damage",
+        "pages": [
+            14,
+            "196-197"
+        ],
+        "children": [
+            {
+                "name": "at O hit points (death saving throw)",
+                "pages": [197]
+            }
+        ]
+    },
+    {
+        "name": "damage resistance",
+        "pages": [97]
+    },
+    {
+        "name": "Damage Resistance (dragonborn)",
+        "pages": [34]
+    },
+    {
+        "name": "damage roll",
+        "pages": [
+            14,
+            176,
+            177,
+            196
+        ],
+        "children": [
+            {
+                "name": "Dexterity-based",
+                "pages": [177]
+            },
+            {
+                "name": "spell",
+                "pages": [196]
+            },
+            {
+                "name": "Strength-based",
+                "pages": [76]
+            },
+            {
+                "name": "more than one target",
+                "pages": [196]
+            },
+            {
+                "name": "weapon",
+                "pages": [
+                    14,
+                    196
+                ]
+            }
+        ]
+    },
+    {
+        "name": "damage types",
+        "pages": [196]
+    },
+    {
+        "name": "damage vulnerability",
+        "pages": [197]
+    },
+    {
+        "name": "Damaran (human ethnicity)",
+        "pages": [31]
+    },
+    {
+        "name": "Dampen Elements (cleric)",
+        "pages": [62]
+    },
+    {
+        "name": "Danger Sense (barbarian)",
+        "pages": [48]
+    },
+    {
+        "name": "Dark Delirium (warlock)",
+        "pages": [109]
+    },
+    {
+        "name": "dark elf",
+        "pages": [24]
+    },
+    {
+        "name": "darkness",
+        "pages": [183]
+    },
+    {
+        "name": "Dark One's Blessing (warlock)",
+        "pages": [109]
+    },
+    {
+        "name": "Dark One's Own Luck (warlock)",
+        "pages": [109]
+    },
+    {
+        "name": "darkvision",
+        "pages": [
+            183,
+            185
+        ],
+        "children": [
+            {
+                "name": "See also specific race entries",
+                "pages": [45]
+            }
+        ]
+    },
+    {
+        "name": "Dash action",
+        "pages": [192]
+    },
+    {
+        "name": "DC (Difficulty Class)",
+        "pages": [
+            7,
+            174
+        ]
+    },
+    {
+        "name": "dead",
+        "pages": [197],
+        "children": [
+            {"name": "bringing back the, See the spell descriptions for raise dead (270), reincarnate (271), resurrection (272), revivify (272), true resurrection (284)"}
+        ]
+    },
+    {
+        "name": "deafened (condition)",
+        "pages": [290]
+    },
+    {
+        "name": "death",
+        "pages": [197],
+        "children": [
+            {
+                "name": "instant",
+                "pages": [197]
+            },
+            {
+                "name": "monsters and",
+                "pages": [198]
+            }
+        ]
+    },
+    {
+        "name": "Death domain",
+        "pages": [293]
+    },
+    {
+        "name": "death saving throw",
+        "pages": [197],
+        "children": [
+            {
+                "name": "damage at O hit points",
+                "pages": [197]
+            },
+            {
+                "name": "rolling a 1 or 20 on",
+                "pages": [197]
+            }
+        ]
+    },
+    {
+        "name": "Death Strike (rogue)",
+        "pages": [97]
+    },
+    {
+        "name": "Deception (Charisma skill)",
+        "pages": [178]
+    },
+    {
+        "name": "deep gnome",
+        "pages": [36]
+    },
+    {
+        "name": "Deep Speech (language)",
+        "pages": [123]
+    },
+    {
+        "name": "Defense (fighting style)",
+        "pages": [
+            72,
+            84,
+            91
+        ]
+    },
+    {
+        "name": "Defensive Tactics (ranger)",
+        "pages": [93]
+    },
+    {
+        "name": "Deflect Missiles (monk)",
+        "pages": [78]
+    },
+    {
+        "name": "dehydration (food and drink: water requirements)",
+        "pages": [185]
+    },
+    {
+        "name": "deities",
+        "pages": ["293-299"],
+        "children": [
+            {
+                "name": "Celtic",
+                "pages": [
+                    297,
+                    298
+                ]
+            },
+            {
+                "name": "Dragonlance",
+                "pages": [
+                    293,
+                    295
+                ]
+            },
+            {
+                "name": "Eberron",
+                "pages": [
+                    293,
+                    296
+                ]
+            },
+            {
+                "name": "Egyptian",
+                "pages": [
+                    "297-298",
+                    299
+                ]
+            },
+            {
+                "name": "Forgotten Realms",
+                "pages": [
+                    293,
+                    294
+                ]
+            },
+            {
+                "name": "Greek",
+                "pages": [
+                    297,
+                    298
+                ]
+            },
+            {
+                "name": "Greyhawk",
+                "pages": [
+                    293,
+                    295
+                ]
+            },
+            {
+                "name": "nonhuman",
+                "pages": [
+                    293,
+                    296
+                ]
+            },
+            {
+                "name": "Norse",
+                "pages": [
+                    298,
+                    299
+                ]
+            },
+            {"name": "See also cleric (56); druid (64); paladin (82)"}
+        ]
+    },
+    {
+        "name": "demiplanes (plane of existence)",
+        "pages": [302]
+    },
+    {
+        "name": "Destroy Undead (Channel Divinity cleric option)",
+        "pages": [59]
+    },
+    {
+        "name": "Destructive Wrath (Channel Divinity cleric option)",
+        "pages": [62]
+    },
+    {
+        "name": "Devil's Sight (warlock eldritch invocation)",
+        "pages": [110]
+    },
+    {
+        "name": "Dexterity",
+        "pages": [
+            12,
+            "176-177"
+        ],
+        "children": [
+            {
+                "name": "Acrobatics",
+                "pages": [176]
+            },
+            {
+                "name": "checks",
+                "pages": ["176-177"]
+            },
+            {
+                "name": "Sleight of Hand",
+                "pages": [177]
+            },
+            {
+                "name": "Stealth",
+                "pages": [177]
+            }
+        ]
+    },
+    {
+        "name": "Diamond Soul (monk)",
+        "pages": [79]
+    },
+    {
+        "name": "d (die)",
+        "pages": ["6-7"]
+    },
+    {
+        "name": "dice",
+        "pages": ["6-7"],
+        "children": [
+            {
+                "name": "d2 or d3",
+                "pages": [7]
+            },
+            {
+                "name": "percentile",
+                "pages": [6]
+            }
+        ]
+    },
+    {
+        "name": "difficult terrain (movement)",
+        "pages": [
+            182,
+            190
+        ]
+    },
+    {
+        "name": "Difficulty Class (DC)",
+        "pages": [
+            7,
+            174
+        ],
+        "children": [
+            {
+                "name": "typical DCs table",
+                "pages": [174]
+            }
+        ]
+    },
+    {
+        "name": "dim light",
+        "pages": [183]
+    },
+    {
+        "name": "disadvantage",
+        "pages": [
+            7,
+            173
+        ]
+    },
+    {
+        "name": "Disarming Attack maneuver (fighter maneuver)",
+        "pages": [74]
+    },
+    {
+        "name": "Disciple of Life (cleric)",
+        "pages": [60]
+    },
+    {
+        "name": "Disciple of the Elements (monk)",
+        "pages": [80]
+    },
+    {
+        "name": "Discovery (hermit)",
+        "pages": [134]
+    },
+    {
+        "name": "Disengage action",
+        "pages": [192]
+    },
+    {
+        "name": "Distant Spell (sorcerer Metamagic)",
+        "pages": [102]
+    },
+    {
+        "name": "Distracting Strike maneuver (fighter maneuver)",
+        "pages": [74]
+    },
+    {
+        "name": "divination",
+        "pages": [
+            "116-117",
+            203
+        ],
+        "children": [
+            {
+                "name": "school (wizard arcane tradition)",
+                "pages": ["116-117"]
+            }
+        ]
+    },
+    {
+        "name": "Divination Savant (wizard)",
+        "pages": [116]
+    },
+    {
+        "name": "Divine Domain (cleric)",
+        "pages": [58],
+        "children": [
+            {
+                "name": "domain spells",
+                "pages": [58]
+            }
+        ]
+    },
+    {
+        "name": "divine domains",
+        "pages": [59],
+        "children": [
+            {
+                "name": "Knowledge",
+                "pages": ["59-60"]
+            },
+            {
+                "name": "life",
+                "pages": [60]
+            },
+            {
+                "name": "Light",
+                "pages": ["60-61"]
+            },
+            {
+                "name": "Nature",
+                "pages": ["61-62"]
+            },
+            {
+                "name": "Tempest",
+                "pages": [62]
+            },
+            {
+                "name": "Trickery",
+                "pages": ["62-63"]
+            },
+            {
+                "name": "War",
+                "pages": [63]
+            }
+        ]
+    },
+    {
+        "name": "Divine Health (paladin)",
+        "pages": [85]
+    },
+    {
+        "name": "Divine Intervention (cleric)",
+        "pages": [59]
+    },
+    {
+        "name": "divine magic",
+        "pages": [205],
+        "children": [
+            {"name": "See also cleric (56); druid (64); paladin (82); ranger (89)"}
+        ]
+    },
+    {
+        "name": "diviner",
+        "pages": [116]
+    },
+    {
+        "name": "Divine Sense (paladin)",
+        "pages": [84]
+    },
+    {
+        "name": "Divine Smite (paladin)",
+        "pages": [85]
+    },
+    {
+        "name": "Divine Strike (cleric)",
+        "children": [
+            {
+                "name": "Life domain",
+                "pages": [60]
+            },
+            {
+                "name": "Nature domain",
+                "pages": [62]
+            },
+            {
+                "name": "Tempest domain",
+                "pages": [62]
+            },
+            {
+                "name": "Trickery domain",
+                "pages": [63]
+            },
+            {
+                "name": "War domain",
+                "pages": [63]
+            }
+        ]
+    },
+    {
+        "name": "DM (Dungeon Master)",
+        "pages": [5]
+    },
+    {
+        "name": "Dodge action",
+        "pages": [192]
+    },
+    {
+        "name": "domain spells (Divine Domain)",
+        "pages": [59]
+    },
+    {
+        "name": "donning and doffing armor (armor and shields: getting into and out of)",
+        "pages": [146]
+    },
+    {
+        "name": "downtime activities",
+        "pages": [187]
+    },
+    {
+        "name": "draconians",
+        "pages": [34]
+    },
+    {
+        "name": "Draconic",
+        "children": [
+            {
+                "name": "ancestry",
+                "pages": [34]
+            },
+            {
+                "name": "alphabet",
+                "pages": [124]
+            },
+            {
+                "name": "language",
+                "pages": [
+                    17,
+                    34,
+                    123
+                ]
+            }
+        ]
+    },
+    {
+        "name": "Draconic Ancestry (dragonborn)",
+        "pages": [24]
+    },
+    {
+        "name": "Draconic Presence (sorcerer)",
+        "pages": [102]
+    },
+    {
+        "name": "Draconic Resilience (sorcerer)",
+        "pages": [102]
+    },
+    {
+        "name": "Dragon Ancestor (sorcerer)",
+        "pages": [102]
+    },
+    {
+        "name": "dragonborn",
+        "pages": ["32-34"]
+    },
+    {
+        "name": "dragonborn names",
+        "pages": ["33-34"]
+    },
+    {
+        "name": "dragonborn traits",
+        "pages": [34]
+    },
+    {
+        "name": "Dragon Wings (sorcerer)",
+        "pages": [103]
+    },
+    {
+        "name": "draw or sheathe a weapon (objects: using during combat)",
+        "pages": [190]
+    },
+    {
+        "name": "Dreadful Word (warlock eldritch invocation)",
+        "pages": [110]
+    },
+    {
+        "name": "drink (expenses)",
+        "pages": [158]
+    },
+    {
+        "name": "drop an object (objects: using during combat)",
+        "pages": [190]
+    },
+    {
+        "name": "drow (race; elf: dark elf)",
+        "pages": [24]
+    },
+    {
+        "name": "Drow Magic",
+        "pages": [24]
+    },
+    {
+        "name": "druid",
+        "pages": [
+            45,
+            "64-69"
+        ],
+        "children": [
+            {
+                "name": "druid circles",
+                "pages": [68]
+            },
+            {
+                "name": "quick build",
+                "pages": [65]
+            },
+            {
+                "name": "spell list",
+                "pages": [208]
+            }
+        ]
+    },
+    {
+        "name": "Druid Circle",
+        "pages": [67]
+    },
+    {
+        "name": "druid circles",
+        "pages": ["68-69"],
+        "children": [
+            {
+                "name": "Circle of the Land",
+                "pages": ["68-69"]
+            },
+            {
+                "name": "Circle of the Moon",
+                "pages": [69]
+            }
+        ]
+    },
+    {
+        "name": "Druidic",
+        "pages": [66]
+    },
+    {
+        "name": "druidic focus",
+        "pages": [
+            150,
+            151
+        ],
+        "children": [
+            {
+                "name": "spellcasting focus: druid",
+                "pages": [66]
+            }
+        ]
+    },
+    {
+        "name": "druids and the gods",
+        "pages": [69]
+    },
+    {
+        "name": "Dueling (fighting style)",
+        "pages": [
+            72,
+            84,
+            91
+        ]
+    },
+    {
+        "name": "duergar (gray dwarf) (race; dwarf)",
+        "pages": [20]
+    },
+    {
+        "name": "Dungeon Master (DM)",
+        "pages": [5]
+    },
+    {
+        "name": "Durable Summons (wizard)",
+        "pages": [116]
+    },
+    {
+        "name": "duration (casting a spell)",
+        "pages": ["203-204"]
+    },
+    {
+        "name": "dwarf",
+        "pages": ["18-20"]
+    },
+    {
+        "name": "dwarf names",
+        "pages": [20]
+    },
+    {
+        "name": "dwarf traits",
+        "pages": [20]
+    },
+    {
+        "name": "Dwarven Armor Training (mountain dwarf)",
+        "pages": [20]
+    },
+    {
+        "name": "Dwarven Combat Training",
+        "pages": [20]
+    },
+    {
+        "name": "Dwarven Resilience",
+        "pages": [20]
+    },
+    {
+        "name": "Dwarven Toughness (hill dwarf)",
+        "pages": [20]
+    },
+    {
+        "name": "Dwarvish",
+        "pages": [20],
+        "children": [
+            {
+                "name": "alphabet",
+                "pages": [122]
+            },
+            {
+                "name": "language",
+                "pages": [
+                    20,
+                    123
+                ]
+            }
+        ]
+    },
+    {
+        "name": "eagle, giant (creature)",
+        "pages": [306]
+    },
+    {
+        "name": "effect",
+        "pages": [201]
+    },
+    {
+        "name": "Elder Champion (paladin)",
+        "pages": [87]
+    },
+    {
+        "name": "Eldritch Invocations (warlock)",
+        "pages": [107]
+    },
+    {
+        "name": "eldritch invocations",
+        "pages": ["110-111"]
+    },
+    {
+        "name": "Eldritch Knight (fighter martial archetype)",
+        "pages": [74]
+    },
+    {
+        "name": "Eldritch Master (warlock)",
+        "pages": [108]
+    },
+    {
+        "name": "Eldritch Sight (warlock eldritch invocation)",
+        "pages": [110]
+    },
+    {
+        "name": "Eldritch Spear (warlock eldritch invocation)",
+        "pages": [111]
+    },
+    {
+        "name": "Eldritch Strike (fighter)",
+        "pages": [75]
+    },
+    {
+        "name": "electrum piece (ep) (coinage)",
+        "pages": [143]
+    },
+    {
+        "name": "Elemental Affinity (sorcerer)",
+        "pages": [103]
+    },
+    {
+        "name": "Elemental Attunement (monk Elemental Discipline)",
+        "pages": [81]
+    },
+    {
+        "name": "Elemental Chaos (plane of existence)",
+        "pages": [301]
+    },
+    {
+        "name": "Elemental Disciplines (monk)",
+        "pages": [81]
+    },
+    {
+        "name": "Elemental Planes (plane of existence)",
+        "pages": [301]
+    },
+    {
+        "name": "Elemental Wild Shape (druid)",
+        "pages": [69]
+    },
+    {
+        "name": "elf",
+        "pages": ["21-24"]
+    },
+    {
+        "name": "elf names",
+        "pages": ["22-23"]
+    },
+    {
+        "name": "elf traits",
+        "pages": ["23-24"]
+    },
+    {
+        "name": "Elf Weapon Training",
+        "pages": [
+            23,
+            24
+        ]
+    },
+    {
+        "name": "Elusive (rogue)",
+        "pages": [96]
+    },
+    {
+        "name": "Elvish",
+        "pages": [23],
+        "children": [
+            {
+                "name": "alphabet",
+                "pages": [123]
+            },
+            {
+                "name": "language",
+                "pages": [
+                    23,
+                    123
+                ]
+            }
+        ]
+    },
+    {
+        "name": "Elysium (plane of existence)",
+        "pages": [302]
+    },
+    {
+        "name": "Empowered Evocation (wizard)",
+        "pages": [117]
+    },
+    {
+        "name": "Empowered Spell (sorcerer Metamagic)",
+        "pages": [102]
+    },
+    {
+        "name": "Empty Body (monk)",
+        "pages": [79]
+    },
+    {
+        "name": "enchantment",
+        "pages": [
+            117,
+            203
+        ],
+        "children": [
+            {
+                "name": "school (wizard arcane tradition)",
+                "pages": [117]
+            }
+        ]
+    },
+    {
+        "name": "Enchantment Savant (wizard)",
+        "pages": [117]
+    },
+    {
+        "name": "enchanter",
+        "pages": [117]
+    },
+    {
+        "name": "encounters (travel)",
+        "pages": [183]
+    },
+    {
+        "name": "encumbrance (lifting and carrying)",
+        "pages": [176]
+    },
+    {
+        "name": "entertainer (background)",
+        "pages": ["130-131"]
+    },
+    {
+        "name": "Entropic Ward (warlock)",
+        "pages": [110]
+    },
+    {
+        "name": "environment",
+        "pages": [
+            14,
+            125,
+            "143-161"
+        ],
+        "children": [
+            {
+                "name": "adventuring gear",
+                "pages": [
+                    148,
+                    "150-153"
+                ]
+            },
+            {
+                "name": "armor and shields",
+                "pages": ["144-146"]
+            },
+            {
+                "name": "background",
+                "pages": [125]
+            },
+            {
+                "name": "mounts and vehicles",
+                "pages": [
+                    155,
+                    157
+                ]
+            },
+            {
+                "name": "packs",
+                "pages": [151]
+            },
+            {
+                "name": "size (variant)",
+                "pages": [144]
+            },
+            {
+                "name": "starting",
+                "pages": [143]
+            },
+            {
+                "name": "tools",
+                "pages": [154]
+            },
+            {
+                "name": "weapon",
+                "pages": [
+                    14,
+                    "146-148",
+                    149
+                ]
+            },
+            {
+                "name": "See also specific background entries under background",
+                "pages": [125]
+            }
+        ]
+    },
+    {
+        "name": "equipment",
+        "pages": [143]
+    },
+    {
+        "name": "equipment packs",
+        "pages": [151],
+        "children": [
+            {
+                "name": "See also specific class entries: quick build",
+                "pages": [45]
+            }
+        ]
+    },
+    {
+        "name": "Escape the Horde (ranger Defensive Tactics)",
+        "pages": [93]
+    },
+    {
+        "name": "escaping a grapple",
+        "pages": [195]
+    },
+    {
+        "name": "Eternal Mountain Defense (monk Elemental Discipline)",
+        "pages": [81]
+    },
+    {
+        "name": "Ethereal Plane (plane of existence)",
+        "pages": [301]
+    },
+    {
+        "name": "Evasion",
+        "children": [
+            {
+                "name": "monk",
+                "pages": [79]
+            },
+            {
+                "name": "ranger (Superior Hunter's Defense)",
+                "pages": [93]
+            },
+            {
+                "name": "rogue",
+                "pages": [96]
+            }
+        ]
+    },
+    {
+        "name": "Evasive Footwork maneuver (fighter maneuver)",
+        "pages": [74]
+    },
+    {
+        "name": "evocation",
+        "pages": [
+            "117-118",
+            203
+        ],
+        "children": [
+            {
+                "name": "school (wizard arcane tradition)",
+                "pages": ["117-118"]
+            }
+        ]
+    },
+    {
+        "name": "Evocation Savant (wizard)",
+        "pages": [117]
+    },
+    {
+        "name": "evoker",
+        "pages": [117]
+    },
+    {
+        "name": "Exceptional Training (ranger)",
+        "pages": [93]
+    },
+    {
+        "name": "exception-based rules",
+        "pages": [7]
+    },
+    {
+        "name": "exhaustion",
+        "pages": [
+            181,
+            185,
+            291
+        ]
+    },
+    {
+        "name": "exotic language (language)",
+        "pages": [123]
+    },
+    {
+        "name": "expenses",
+        "pages": [
+            "157-158",
+            187
+        ]
+    },
+    {
+        "name": "experience points (XP)",
+        "pages": [15],
+        "children": [
+            {
+                "name": "multiclassing and",
+                "pages": [163]
+            }
+        ]
+    },
+    {
+        "name": "Expert Divination (wizard)",
+        "pages": [116]
+    },
+    {
+        "name": "Expertise",
+        "children": [
+            {
+                "name": "bard",
+                "pages": [54]
+            },
+            {
+                "name": "rogue",
+                "pages": [96]
+            }
+        ]
+    },
+    {
+        "name": "exploration",
+        "pages": [8]
+    },
+    {
+        "name": "Extended Spell (sorcerer Metamagic)",
+        "pages": [102]
+    },
+    {
+        "name": "Extra Attack",
+        "children": [
+            {
+                "name": "barbarian",
+                "pages": [49]
+            },
+            {
+                "name": "bard",
+                "pages": [55]
+            },
+            {
+                "name": "fighter",
+                "pages": [72]
+            },
+            {
+                "name": "monk",
+                "pages": [79]
+            },
+            {
+                "name": "paladin",
+                "pages": [85]
+            },
+            {
+                "name": "ranger",
+                "pages": [92]
+            }
+        ]
+    },
+    {
+        "name": "Eyes of the Rune Keeper (warlock eldritch invocation)",
+        "pages": [111]
+    },
+    {
+        "name": "Faerie (Feywild, the; plane of existence)",
+        "pages": [300]
+    },
+    {
+        "name": "falling",
+        "pages": [183]
+    },
+    {
+        "name": "False Identity (charlatan)",
+        "pages": [128]
+    },
+    {
+        "name": "familiar (warlock)",
+        "pages": [107]
+    },
+    {
+        "name": "Fangs of the Fire Snake (monk Elemental Discipline)",
+        "pages": [81]
+    },
+    {
+        "name": "Far Realm (plane of existence)",
+        "pages": [302]
+    },
+    {
+        "name": "Fast Hands (rogue)",
+        "pages": [97]
+    },
+    {
+        "name": "Fast Movement (barbarian)",
+        "pages": [49]
+    },
+    {
+        "name": "Favored Enemy (ranger)",
+        "pages": [91]
+    },
+    {
+        "name": "feats",
+        "pages": ["165-170"],
+        "children": [
+            {
+                "name": "gaining",
+                "pages": [165]
+            },
+            {
+                "name": "prerequisites",
+                "pages": [165]
+            }
+        ]
+    },
+    {
+        "name": "Feinting Attack maneuver (fighter maneuver)",
+        "pages": [74]
+    },
+    {
+        "name": "Feral Instinct (barbarian)",
+        "pages": [49]
+    },
+    {
+        "name": "Feral Senses (ranger)",
+        "pages": [92]
+    },
+    {
+        "name": "Fey Ancestry",
+        "children": [
+            {
+                "name": "elf",
+                "pages": [23]
+            },
+            {
+                "name": "half-elf",
+                "pages": [39]
+            }
+        ]
+    },
+    {
+        "name": "Fey Presence (warlock)",
+        "pages": [108]
+    },
+    {
+        "name": "Feywild, the (plane of existence)",
+        "pages": [300]
+    },
+    {
+        "name": "Fiendish Resilience (warlock)",
+        "pages": [10]
+    },
+    {
+        "name": "Fiendish Vigor (warlock eldritch invocation)",
+        "pages": [111]
+    },
+    {
+        "name": "Fiend, the (warlock otherworldly patron)",
+        "pages": [109]
+    },
+    {
+        "name": "fighter",
+        "pages": [
+            45,
+            "70-75"
+        ],
+        "children": [
+            {
+                "name": "martial archetypes",
+                "pages": [72]
+            },
+            {
+                "name": "quick build",
+                "pages": [71]
+            }
+        ]
+    },
+    {
+        "name": "Fighting Style",
+        "children": [
+            {
+                "name": "fighter",
+                "pages": [72]
+            },
+            {
+                "name": "paladin",
+                "pages": [84]
+            },
+            {
+                "name": "ranger",
+                "pages": [91]
+            }
+        ]
+    },
+    {
+        "name": "fighting styles",
+        "pages": [
+            72,
+            84,
+            91
+        ],
+        "children": [
+            {
+                "name": "Archery",
+                "pages": [
+                    72,
+                    91
+                ]
+            },
+            {
+                "name": "Defense",
+                "pages": [
+                    72,
+                    84,
+                    91
+                ]
+            },
+            {
+                "name": "Dueling",
+                "pages": [
+                    72,
+                    84,
+                    91
+                ]
+            },
+            {
+                "name": "Great Weapon Fighting",
+                "pages": [
+                    72,
+                    84
+                ]
+            },
+            {
+                "name": "Protection",
+                "pages": [
+                    72,
+                    84
+                ]
+            },
+            {
+                "name": "Two-Weapon Fighting",
+                "pages": [
+                    72,
+                    91
+                ]
+            }
+        ]
+    },
+    {
+        "name": "finding a hidden creature",
+        "pages": [177]
+    },
+    {
+        "name": "finding a hidden object",
+        "pages": [178]
+    },
+    {
+        "name": "finesse (weapon property)",
+        "pages": [147]
+    },
+    {
+        "name": "fire damage (damage type)",
+        "pages": [196]
+    },
+    {
+        "name": "Fist of Four Thunders (monk Elemental Discipline)",
+        "pages": [81]
+    },
+    {
+        "name": "Fist of Unbroken Air (monk Elemental Discipline)",
+        "pages": [81]
+    },
+    {
+        "name": "Flames of the phoenix (monk Elemental Discipline)",
+        "pages": [81]
+    },
+    {
+        "name": "flaws (personality)",
+        "pages": [124]
+    },
+    {
+        "name": "Fleet of Foot (wood elf)",
+        "pages": [24]
+    },
+    {
+        "name": "Flexible Casting (sorcerer Font of Magic)",
+        "pages": [101]
+    },
+    {
+        "name": "Flurry of Blows (monk Ki)",
+        "pages": [78]
+    },
+    {
+        "name": "flying (movement)",
+        "pages": [191]
+    },
+    {
+        "name": "Focused Conjuration (wizard)",
+        "pages": [116]
+    },
+    {
+        "name": "Foe Slayer (ranger)",
+        "pages": [92]
+    },
+    {
+        "name": "folk hero (background)",
+        "pages": ["131-132"]
+    },
+    {
+        "name": "Font of Inspiration (bard)",
+        "pages": [54]
+    },
+    {
+        "name": "Font of Magic (sorcerer)",
+        "pages": [101]
+    },
+    {
+        "name": "food and drink",
+        "pages": [
+            158,
+            185
+        ],
+        "children": [
+            {
+                "name": "expenses",
+                "pages": [158]
+            },
+            {
+                "name": "food requirements",
+                "pages": [185]
+            },
+            {
+                "name": "water requirements",
+                "pages": [185]
+            }
+        ]
+    },
+    {
+        "name": "foraging (travel)",
+        "pages": [183]
+    },
+    {
+        "name": "force damage (damage type)",
+        "pages": [196]
+    },
+    {
+        "name": "forced march (movement)",
+        "pages": [181]
+    },
+    {
+        "name": "forest gnome (race; gnome)",
+        "pages": [37]
+    },
+    {
+        "name": "Frenzy (barbarian)",
+        "pages": [49]
+    },
+    {
+        "name": "frightened (condition)",
+        "pages": [290]
+    },
+    {
+        "name": "frog (creature)",
+        "pages": [305]
+    },
+    {
+        "name": "gaining a level",
+        "pages": [15]
+    },
+    {
+        "name": "Gargantuan (size category)",
+        "pages": [191]
+    },
+    {
+        "name": "Gaze of Two Minds (warlock eldritch invocation)",
+        "pages": [111]
+    },
+    {
+        "name": "Gehenna (plane of existence)",
+        "pages": [302]
+    },
+    {
+        "name": "gender (character: sex and gender)",
+        "pages": [121]
+    },
+    {
+        "name": "getting into and out of armor (armor and shields)",
+        "pages": [146]
+    },
+    {
+        "name": "Giant (language)",
+        "pages": [123]
+    },
+    {
+        "name": "Giant Killer (ranger Hunter's Prey)",
+        "pages": [93]
+    },
+    {
+        "name": "gladiator (background)",
+        "pages": [131]
+    },
+    {
+        "name": "gnome",
+        "pages": ["35-37"]
+    },
+    {
+        "name": "Gnome Cunning (gnome)",
+        "pages": [37]
+    },
+    {
+        "name": "gnome names",
+        "pages": [36]
+    },
+    {
+        "name": "gnome traits",
+        "pages": ["36-37"]
+    },
+    {
+        "name": "Gnomish (language)",
+        "pages": [
+            37,
+            123
+        ]
+    },
+    {
+        "name": "Goading Attack maneuver (fighter maneuver)",
+        "pages": [74]
+    },
+    {
+        "name": "gold dwarf (race; dwarf: hill dwarf)",
+        "pages": [20]
+    },
+    {
+        "name": "gold piece (gp)",
+        "pages": [14],
+        "children": [
+            {
+                "name": "coinage",
+                "pages": [143]
+            }
+        ]
+    },
+    {
+        "name": "Gong of the Summit (monk Elemental Discipline)",
+        "pages": [81]
+    },
+    {
+        "name": "grappled (condition)",
+        "pages": [290]
+    },
+    {
+        "name": "grappling",
+        "pages": [195]
+    },
+    {
+        "name": "gray dwarf (duergar) (race; dwarf)",
+        "pages": [20]
+    },
+    {
+        "name": "Greater Portent (wizard)",
+        "pages": [117]
+    },
+    {
+        "name": "Great Old One, the (warlock otherworldly patron)",
+        "pages": ["109-110"]
+    },
+    {
+        "name": "Great Weapon Fighting (fighting style)",
+        "pages": [
+            72,
+            84
+        ]
+    },
+    {
+        "name": "Great Wheel, the (plane of existence)",
+        "pages": [302]
+    },
+    {
+        "name": "grid (variant)",
+        "pages": [192]
+    },
+    {
+        "name": "Grim Harvest (wizard)",
+        "pages": [118]
+    },
+    {
+        "name": "group checks (ability check)",
+        "pages": [175]
+    },
+    {
+        "name": "Guided Strike (Channel Divinity cleric option)",
+        "pages": [63]
+    },
+    {
+        "name": "guild artisan (background)",
+        "pages": ["132-133"]
+    },
+    {
+        "name": "Guild Membership (guild artisan)",
+        "pages": [133]
+    },
+    {
+        "name": "guild merchant (background)",
+        "pages": [133]
+    },
+    {
+        "name": "Hades (plane of existence)",
+        "pages": [302]
+    },
+    {
+        "name": "half cover (cover)",
+        "pages": [196]
+    },
+    {
+        "name": "half-elf",
+        "pages": ["38-39"]
+    },
+    {
+        "name": "half-elf names",
+        "pages": [39]
+    },
+    {
+        "name": "half-elf traits",
+        "pages": [39]
+    },
+    {
+        "name": "halfling",
+        "pages": ["26-28"]
+    },
+    {
+        "name": "Hallfing (language)",
+        "pages": [
+            28,
+            123
+        ]
+    },
+    {
+        "name": "halfling names",
+        "pages": [27]
+    },
+    {
+        "name": "Halfling Nimbleness",
+        "pages": [28]
+    },
+    {
+        "name": "halfling traits",
+        "pages": [28]
+    },
+    {
+        "name": "half-orc",
+        "pages": ["40-41"]
+    },
+    {
+        "name": "half-orc names",
+        "pages": [41]
+    },
+    {
+        "name": "half-orc traits",
+        "pages": [41]
+    },
+    {
+        "name": "hawk (falcon) (creature)",
+        "pages": [306]
+    },
+    {
+        "name": "healing",
+        "pages": [197]
+    },
+    {
+        "name": "hearing (Wisdom: Perception)",
+        "pages": [178],
+        "children": [
+            {
+                "name": "condition: deafened",
+                "pages": [290]
+            }
+        ]
+    },
+    {
+        "name": "heavily obscured",
+        "pages": [183]
+    },
+    {
+        "name": "heavy (weapon property)",
+        "pages": [147]
+    },
+    {
+        "name": "heavy armor (armor and shields)",
+        "pages": [145],
+        "children": [
+            {
+                "name": "movement: in heavy armor",
+                "pages": [144]
+            }
+        ]
+    },
+    {
+        "name": "heavy weapons and Small creatures",
+        "pages": [147]
+    },
+    {
+        "name": "height and weight (character)",
+        "pages": [121]
+    },
+    {
+        "name": "Heightened Spell (sorcerer Metamagic)",
+        "pages": [102]
+    },
+    {
+        "name": "Hellish Resistance (tiefling)",
+        "pages": [43]
+    },
+    {
+        "name": "Help action",
+        "pages": [192]
+    },
+    {
+        "name": "hermit (background)",
+        "pages": ["134-135"]
+    },
+    {
+        "name": "hidden",
+        "pages": [
+            177,
+            178
+        ],
+        "children": [
+            {
+                "name": "Dexterity: Stealth",
+                "pages": [177]
+            },
+            {
+                "name": "finding a hidden creature",
+                "pages": [177]
+            },
+            {
+                "name": "finding a hidden object",
+                "pages": [178]
+            },
+            {
+                "name": "hiding",
+                "pages": [177]
+            },
+            {
+                "name": "unseen attackers and targets",
+                "pages": ["194-195"]
+            }
+        ]
+    },
+    {
+        "name": "Hide action",
+        "pages": [192]
+    },
+    {
+        "name": "Hide in Plain Sight (ranger)",
+        "pages": [92]
+    },
+    {
+        "name": "hiding",
+        "pages": [177]
+    },
+    {
+        "name": "high elf (race; elf)",
+        "pages": [23]
+    },
+    {
+        "name": "hill dwarf (race; dwarf)",
+        "pages": [20]
+    },
+    {
+        "name": "hirelings",
+        "pages": [159]
+    },
+    {
+        "name": "History (Intelligence skill)",
+        "pages": ["177-178"]
+    },
+    {
+        "name": "Hit Dice",
+        "pages": [12],
+        "children": [
+            {
+                "name": "multiclassing and",
+                "pages": [163]
+            },
+            {
+                "name": "See also specific class entries",
+                "pages": [45]
+            }
+        ]
+    },
+    {
+        "name": "hit point maximum",
+        "pages": [
+            12,
+            15,
+            177
+        ]
+    },
+    {
+        "name": "hit points",
+        "pages": [
+            12,
+            13,
+            15,
+            177,
+            "196-198"
+        ],
+        "children": [
+            {
+                "name": "Constitution and",
+                "pages": [177]
+            },
+            {
+                "name": "current",
+                "pages": [196]
+            },
+            {
+                "name": "damage at 0 (death saving throw)",
+                "pages": [197]
+            },
+            {
+                "name": "dropping to 0",
+                "pages": ["197-198"]
+            },
+            {
+                "name": "increasing with level",
+                "pages": [15]
+            },
+            {
+                "name": "multiclassing and",
+                "pages": [163]
+            },
+            {
+                "name": "starting",
+                "pages": [
+                    12,
+                    13
+                ]
+            },
+            {
+                "name": "subtracting damage from",
+                "pages": [196]
+            },
+            {
+                "name": "temporary",
+                "pages": [198]
+            }
+        ]
+    },
+    {
+        "name": "holding breath",
+        "pages": [183]
+    },
+    {
+        "name": "Holy Nimbus (paladin)",
+        "pages": [86]
+    },
+    {
+        "name": "holy symbol",
+        "children": [
+            {
+                "name": "cleric",
+                "pages": [
+                    57,
+                    58
+                ]
+            },
+            {
+                "name": "paladin",
+                "pages": [
+                    84,
+                    85
+                ]
+            }
+        ]
+    },
+    {
+        "name": "Horde Breaker (ranger Hunter's Prey)",
+        "pages": [93]
+    },
+    {
+        "name": "horse, riding (creature)",
+        "pages": [310],
+        "children": [
+            {
+                "name": "See also mounts and vehicles",
+                "pages": [
+                    155,
+                    157
+                ]
+            }
+        ]
+    },
+    {
+        "name": "how to play (rules)",
+        "pages": [6]
+    },
+    {
+        "name": "Huge (size category)",
+        "pages": [191]
+    },
+    {
+        "name": "human",
+        "pages": ["29-31"]
+    },
+    {
+        "name": "human ethnicities",
+        "pages": ["30-31"]
+    },
+    {
+        "name": "human names",
+        "pages": [
+            30,
+            31
+        ]
+    },
+    {
+        "name": "human traits",
+        "pages": [31],
+        "children": [
+            {
+                "name": "variant",
+                "pages": [31]
+            }
+        ]
+    },
+    {
+        "name": "Hunter (ranger archetype)",
+        "pages": [93]
+    },
+    {
+        "name": "Hunter's Prey (ranger)",
+        "pages": [93]
+    },
+    {
+        "name": "Hurl Through Hell (warlock)",
+        "pages": [109]
+    },
+    {
+        "name": "hustle (Dash action)",
+        "pages": [192]
+    },
+    {
+        "name": "Hypnotic Gaze (wizard)",
+        "pages": [117]
+    },
+    {
+        "name": "ideals (personality)",
+        "pages": [124]
+    },
+    {
+        "name": "Ignan (language)",
+        "pages": [123]
+    },
+    {
+        "name": "illusion",
+        "pages": [
+            118,
+            203
+        ],
+        "children": [
+            {
+                "name": "school (wizard arcane tradition)",
+                "pages": [118]
+            }
+        ]
+    },
+    {
+        "name": "illusionist",
+        "pages": [118]
+    },
+    {
+        "name": "Illusion Savant (wizard)",
+        "pages": [118]
+    },
+    {
+        "name": "Illuskan (human ethnicity)",
+        "pages": [31]
+    },
+    {
+        "name": "Illusory Reality (wizard)",
+        "pages": [118]
+    },
+    {
+        "name": "Illusory Self (wizard)",
+        "pages": [118]
+    },
+    {
+        "name": "imp (creature)",
+        "pages": [306]
+    },
+    {
+        "name": "Impostor (rogue)",
+        "pages": [97]
+    },
+    {
+        "name": "Improved Abjuration (wizard)",
+        "pages": [115]
+    },
+    {
+        "name": "Improved Combat Superiority (fighter)",
+        "pages": [74]
+    },
+    {
+        "name": "Improved Critical (fighter)",
+        "pages": [72]
+    },
+    {
+        "name": "Improved Divine Smite (paladin)",
+        "pages": [85]
+    },
+    {
+        "name": "Improved Duplicity (cleric)",
+        "pages": [63]
+    },
+    {
+        "name": "Improved Flare (cleric)",
+        "pages": [61]
+    },
+    {
+        "name": "Improved Minor Illusion (wizard)",
+        "pages": [118]
+    },
+    {
+        "name": "Improved War Magic (fighter)",
+        "pages": [75]
+    },
+    {
+        "name": "improvised weapons",
+        "pages": ["147-148"]
+    },
+    {
+        "name": "incapacitated (condition)",
+        "pages": [290]
+    },
+    {
+        "name": "Indomitable (fighter)",
+        "pages": [72]
+    },
+    {
+        "name": "Indomitable Might (barbarian)",
+        "pages": [49]
+    },
+    {
+        "name": "Infernal (language)",
+        "pages": [123]
+    },
+    {
+        "name": "Infernal Legacy (tiefling)",
+        "pages": [43]
+    },
+    {
+        "name": "Infiltration Expertise (rogue)",
+        "pages": [97]
+    },
+    {
+        "name": "initiative",
+        "pages": [
+            177,
+            189
+        ]
+    },
+    {
+        "name": "Inner Planes (plane of existence)",
+        "pages": [301]
+    },
+    {
+        "name": "Insight (Wisdom skill)",
+        "pages": [178]
+    },
+    {
+        "name": "inspiration",
+        "pages": [125]
+    },
+    {
+        "name": "instantaneous (spell duration)",
+        "pages": [203]
+    },
+    {
+        "name": "Instinctive Charm (wizard)",
+        "pages": [117]
+    },
+    {
+        "name": "Intelligence",
+        "pages": [
+            12,
+            "177-178"
+        ],
+        "children": [
+            {
+                "name": "Arcana",
+                "pages": [177]
+            },
+            {
+                "name": "checks",
+                "pages": ["177-178"]
+            },
+            {
+                "name": "History",
+                "pages": ["177-178"]
+            },
+            {
+                "name": "Investigation",
+                "pages": [178]
+            },
+            {
+                "name": "Nature",
+                "pages": [178]
+            },
+            {
+                "name": "Religion",
+                "pages": [178]
+            }
+        ]
+    },
+    {
+        "name": "Intimidating Presence (barbarian)",
+        "pages": ["49-50"]
+    },
+    {
+        "name": "Intimidation (Charisma skill)",
+        "pages": [179]
+    },
+    {
+        "name": "Inured to Undeath (wizard)",
+        "pages": [119]
+    },
+    {
+        "name": "Investigation (Intelligence skill)",
+        "pages": [178]
+    },
+    {
+        "name": "invisible (condition)",
+        "pages": [291],
+        "children": [
+            {
+                "name": "unseen attackers and targets",
+                "pages": ["194-195"]
+            }
+        ]
+    },
+    {
+        "name": "Invoke Duplicity (Channel Divinity cleric option)",
+        "pages": [63]
+    },
+    {
+        "name": "Jack of All Trades (bard)",
+        "pages": [54]
+    },
+    {
+        "name": "jumping (movement)",
+        "pages": [
+            182,
+            190
+        ]
+    },
+    {
+        "name": "Keen Senses (elf)",
+        "pages": [23]
+    },
+    {
+        "name": "Ki (monk)",
+        "pages": [78],
+        "children": [
+            {
+                "name": "saving throws",
+                "pages": [78]
+            }
+        ]
+    },
+    {
+        "name": "Ki-Empowered Strikes (monk)",
+        "pages": [79]
+    },
+    {
+        "name": "ki points",
+        "pages": [78],
+        "children": [
+            {
+                "name": "spells and",
+                "pages": [80]
+            }
+        ]
+    },
+    {
+        "name": "knight (background: noble knight)",
+        "pages": [136]
+    },
+    {
+        "name": "knocking a creature out",
+        "pages": [198]
+    },
+    {
+        "name": "Know Your Enemy (fighter)",
+        "pages": ["73-74"]
+    },
+    {
+        "name": "Knowledge domain (cleric divine domain)",
+        "pages": ["59-60"]
+    },
+    {
+        "name": "Knowledge of the Ages (Channel Divinity cleric option)",
+        "pages": [59]
+    },
+    {
+        "name": "Land's Stride",
+        "children": [
+            {
+                "name": "druid",
+                "pages": [69]
+            },
+            {
+                "name": "ranger",
+                "pages": [92]
+            }
+        ]
+    },
+    {
+        "name": "language",
+        "pages": [
+            17,
+            123,
+            125
+        ],
+        "children": [
+            {
+                "name": "Druidic",
+                "pages": [66]
+            },
+            {
+                "name": "thieves' cant",
+                "pages": [96]
+            }
+        ]
+    },
+    {
+        "name": "Large (size category)",
+        "pages": [191]
+    },
+    {
+        "name": "lawful evil (alignment)",
+        "pages": [122]
+    },
+    {
+        "name": "lawful good (alignment)",
+        "pages": [122]
+    },
+    {
+        "name": "lawful neutral (alignment)",
+        "pages": [122]
+    },
+    {
+        "name": "Lay on Hands (paladin)",
+        "pages": [84]
+    },
+    {
+        "name": "learning spells. See specific class Spellcasting entries: bard (52); cleric (58); druid (66); fighter, Eldritch Knight (75); ranger (91); rogue, Arcane Trickster (98); sorcerer (101); warlock (107); wizard (114)"
+    },
+    {
+        "name": "lethal damage",
+        "pages": [197]
+    },
+    {
+        "name": "level",
+        "pages": [
+            11,
+            15
+        ]
+    },
+    {
+        "name": "Life domain (cleric divine domain)",
+        "pages": [60]
+    },
+    {
+        "name": "Lifedrinker (warlock eldritch invocation)",
+        "pages": [111]
+    },
+    {
+        "name": "lifestyle (expenses)",
+        "pages": [157]
+    },
+    {
+        "name": "lifting and carrying",
+        "pages": [176],
+        "children": [
+            {
+                "name": "carrying capacity",
+                "pages": [176]
+            },
+            {
+                "name": "encumbrance (variant)",
+                "pages": [176]
+            },
+            {
+                "name": "size and",
+                "pages": [176]
+            }
+        ]
+    },
+    {
+        "name": "light",
+        "pages": [183]
+    },
+    {
+        "name": "light (weapon property)",
+        "pages": [147]
+    },
+    {
+        "name": "light armor (armor and shields)",
+        "pages": [144]
+    },
+    {
+        "name": "light domain (cleric divine domain)",
+        "pages": ["60-61"]
+    },
+    {
+        "name": "lightly obscured",
+        "pages": [183]
+    },
+    {
+        "name": "lightning damage (damage type)",
+        "pages": [196]
+    },
+    {
+        "name": "Limbo (plane of existence)",
+        "pages": [302]
+    },
+    {
+        "name": "line (area of effect)",
+        "pages": [205]
+    },
+    {
+        "name": "line of sight (casting a spell: targeting)",
+        "pages": [204]
+    },
+    {
+        "name": "lion (creature)",
+        "pages": [307]
+    },
+    {
+        "name": "listening (Wisdom: Perception)",
+        "pages": [178],
+        "children": [
+            {
+                "name": "deafened (condition)",
+                "pages": [290]
+            }
+        ]
+    },
+    {
+        "name": "loading (weapon property)",
+        "pages": [147]
+    },
+    {
+        "name": "lock, opening or picking (thieves' tools)",
+        "pages": [154]
+    },
+    {
+        "name": "lodging (expenses)",
+        "pages": [158]
+    },
+    {
+        "name": "Lolth",
+        "pages": [
+            24,
+            296
+        ]
+    },
+    {
+        "name": "long rest (resting)",
+        "pages": [186]
+    },
+    {
+        "name": "Lower Planes (plane of existence)",
+        "pages": [302]
+    },
+    {
+        "name": "low-light vision (darkvision)",
+        "pages": [
+            183,
+            185
+        ]
+    },
+    {
+        "name": "Lucky (halfling)",
+        "pages": [28]
+    },
+    {
+        "name": "Lunging Attack maneuver (fighter maneuver)",
+        "pages": [74]
+    },
+    {
+        "name": "Mage Hand Legerdemain (rogue)",
+        "pages": [98]
+    },
+    {
+        "name": "Magical Ambush (rogue)",
+        "pages": [98]
+    },
+    {
+        "name": "Magical Secrets (bard)",
+        "pages": [54]
+    },
+    {
+        "name": "magic",
+        "pages": [
+            8,
+            "201-289"
+        ],
+        "children": [
+            {
+                "name": "See also specific class entries",
+                "pages": [45]
+            }
+        ]
+    },
+    {
+        "name": "magic item (wealth)",
+        "pages": [144]
+    },
+    {
+        "name": "magic-user (wizard)",
+        "pages": [
+            45,
+            "112-119"
+        ],
+        "children": [
+            {
+                "name": "arcane magic",
+                "pages": [205]
+            }
+        ]
+    },
+    {
+        "name": "Malleable Illusions (wizard)",
+        "pages": [118]
+    },
+    {
+        "name": "maneuver (fighter)",
+        "pages": [73]
+    },
+    {
+        "name": "Maneuvering Attack maneuver (fighter maneuver)",
+        "pages": [74]
+    },
+    {
+        "name": "maneuvers",
+        "pages": [
+            73,
+            74
+        ],
+        "children": [
+            {
+                "name": "list",
+                "pages": [74]
+            },
+            {
+                "name": "saving throws",
+                "pages": [73]
+            }
+        ]
+    },
+    {
+        "name": "mapping (travel)",
+        "pages": [183]
+    },
+    {
+        "name": "marching order (travel)",
+        "pages": [182]
+    },
+    {
+        "name": "Martial Archetype (fighter)",
+        "pages": [72]
+    },
+    {
+        "name": "martial archetypes",
+        "pages": ["72-75"],
+        "children": [
+            {
+                "name": "Battle Master",
+                "pages": ["73-74"]
+            },
+            {
+                "name": "Champion",
+                "pages": ["72-73"]
+            },
+            {
+                "name": "Eldritch Knight",
+                "pages": ["74-75"]
+            }
+        ]
+    },
+    {
+        "name": "Martial Arts (monk)",
+        "pages": [78]
+    },
+    {
+        "name": "martial weapon (weapon category)",
+        "pages": [146]
+    },
+    {
+        "name": "Mask of Many Faces (warlock eldritch invocation)",
+        "pages": [111]
+    },
+    {
+        "name": "Mask of the Wild (wood elf)",
+        "pages": [24]
+    },
+    {
+        "name": "Master of Myriad Forms (warlock eldritch invocation)",
+        "pages": [111]
+    },
+    {
+        "name": "Master of Nature (cleric)",
+        "pages": [62]
+    },
+    {
+        "name": "Master Transmuter (wizard)",
+        "pages": [119]
+    },
+    {
+        "name": "mastiff (creature)",
+        "pages": [307],
+        "children": [
+            {
+                "name": "mounts and vehicles",
+                "pages": [
+                    155,
+                    157
+                ]
+            }
+        ]
+    },
+    {
+        "name": "material spell component",
+        "pages": [203]
+    },
+    {
+        "name": "Material Plane (plane of existence)",
+        "pages": [300]
+    },
+    {
+        "name": "Mechanus (plane of existence)",
+        "pages": [302]
+    },
+    {
+        "name": "Medicine (Wisdom skill)",
+        "pages": [178]
+    },
+    {
+        "name": "Medium (size category)",
+        "pages": [191]
+    },
+    {
+        "name": "medium armor (armor and shields)",
+        "pages": [144]
+    },
+    {
+        "name": "melee attack",
+        "pages": [195],
+        "children": [
+            {
+                "name": "unarmed",
+                "pages": [195]
+            },
+            {
+                "name": "with a weapon that requires ammunition",
+                "pages": [147]
+            },
+            {
+                "name": "reach",
+                "pages": [195]
+            }
+        ]
+    },
+    {
+        "name": "melee weapon",
+        "pages": [
+            14,
+            146,
+            149,
+            195
+        ]
+    },
+    {
+        "name": "Menacing (half-orc)",
+        "pages": [41]
+    },
+    {
+        "name": "Menacing Attack maneuver (fighter maneuver)",
+        "pages": [74]
+    },
+    {
+        "name": "Metamagic (sorcerer)",
+        "pages": ["101-102"]
+    },
+    {
+        "name": "Military Rank (soldier)",
+        "pages": [140]
+    },
+    {
+        "name": "Mindless Rage (barbarian)",
+        "pages": [49]
+    },
+    {
+        "name": "Minions of Chaos (warlock eldritch invocation)",
+        "pages": [111]
+    },
+    {
+        "name": "Minor Alchemy (wizard)",
+        "pages": [119]
+    },
+    {
+        "name": "Minor Conjuration (wizard)",
+        "pages": [116]
+    },
+    {
+        "name": "Mire the Mind (warlock eldritch invocation)",
+        "pages": [111]
+    },
+    {
+        "name": "Mist Stance (monk Elemental Discipline)",
+        "pages": [81]
+    },
+    {
+        "name": "Misty Escape (warlock)",
+        "pages": [109]
+    },
+    {
+        "name": "Misty Visions (warlock eldritch invocation)",
+        "pages": [111]
+    },
+    {
+        "name": "modifier",
+        "pages": [7],
+        "children": [
+            {
+                "name": "ability",
+                "pages": [7]
+            },
+            {
+                "name": "bonus",
+                "pages": [7]
+            },
+            {
+                "name": "penalty",
+                "pages": [7]
+            }
+        ]
+    },
+    {
+        "name": "monastic orders",
+        "pages": [81]
+    },
+    {
+        "name": "Monastic Tradition (monk)",
+        "pages": [78]
+    },
+    {
+        "name": "monastic traditions",
+        "pages": ["79-81"],
+        "children": [
+            {
+                "name": "Way of the Open Hand",
+                "pages": ["79-80"]
+            },
+            {
+                "name": "Way of Shadow",
+                "pages": [80]
+            },
+            {
+                "name": "Way of the Four Elements",
+                "pages": ["80-81"]
+            }
+        ]
+    },
+    {
+        "name": "monk",
+        "pages": [
+            45,
+            "76-81"
+        ],
+        "children": [
+            {
+                "name": "monastic traditions",
+                "pages": ["79-81"]
+            },
+            {
+                "name": "quick build",
+                "pages": [77]
+            }
+        ]
+    },
+    {
+        "name": "monk weapons",
+        "pages": [78]
+    },
+    {
+        "name": "moon elf (race; elf: high elf)",
+        "pages": [23]
+    },
+    {
+        "name": "mount (mounts and vehicles)",
+        "pages": [
+            155,
+            157
+        ]
+    },
+    {
+        "name": "mountain dwarf (race; dwarf)",
+        "pages": [20]
+    },
+    {
+        "name": "Mount Celestia (plane of existence)",
+        "pages": [302]
+    },
+    {
+        "name": "mounted combat",
+        "pages": [198]
+    },
+    {
+        "name": "mounts and vehicles",
+        "pages": [
+            155,
+            157
+        ],
+        "children": [
+            {
+                "name": "movement",
+                "pages": ["181-182"]
+            }
+        ]
+    },
+    {
+        "name": "move action",
+        "pages": [
+            189,
+            "190-191"
+        ]
+    },
+    {
+        "name": "movement",
+        "pages": [
+            "181-183",
+            "190-192"
+        ],
+        "children": [
+            {
+                "name": "around creatures",
+                "pages": [191]
+            },
+            {
+                "name": "breaking up",
+                "pages": [190]
+            },
+            {
+                "name": "climbing",
+                "pages": [
+                    182,
+                    190
+                ]
+            },
+            {
+                "name": "crawling",
+                "pages": [
+                    182,
+                    191
+                ]
+            },
+            {
+                "name": "combat",
+                "pages": ["190-192"]
+            },
+            {
+                "name": "difficult terrain",
+                "pages": [
+                    182,
+                    190
+                ]
+            },
+            {
+                "name": "flying",
+                "pages": [191]
+            },
+            {
+                "name": "prone",
+                "pages": ["190-191"]
+            },
+            {
+                "name": "forced march",
+                "pages": [181]
+            },
+            {
+                "name": "in heavy armor",
+                "pages": [144]
+            },
+            {
+                "name": "jumping",
+                "pages": [
+                    182,
+                    190
+                ]
+            },
+            {
+                "name": "mounts and vehicles",
+                "pages": ["181-182"]
+            },
+            {
+                "name": "size",
+                "pages": ["191-192"]
+            },
+            {
+                "name": "speed",
+                "pages": [
+                    14,
+                    17,
+                    181
+                ]
+            },
+            {
+                "name": "squeezing",
+                "pages": [192]
+            },
+            {
+                "name": "stand up",
+                "pages": ["190-191"]
+            },
+            {
+                "name": "swimming",
+                "pages": [
+                    182,
+                    190
+                ]
+            },
+            {
+                "name": "travel pace",
+                "pages": [181]
+            },
+            {
+                "name": "using different speeds",
+                "pages": [190]
+            }
+        ]
+    },
+    {
+        "name": "moving a grappled creature",
+        "pages": [195]
+    },
+    {
+        "name": "Mulan (human ethnicity)",
+        "pages": [31]
+    },
+    {
+        "name": "mule (creature)",
+        "pages": [307]
+    },
+    {
+        "name": "Multiattack (ranger)",
+        "pages": [93]
+    },
+    {
+        "name": "Multiattack Defense (ranger Defensive Tactic)",
+        "pages": [93]
+    },
+    {
+        "name": "multiclassing",
+        "pages": ["163-164"],
+        "children": [
+            {
+                "name": "Channel Divinity",
+                "pages": [164]
+            },
+            {
+                "name": "experience points",
+                "pages": [163]
+            },
+            {
+                "name": "hit points and Hit Dice",
+                "pages": [163]
+            },
+            {
+                "name": "Pact Magic",
+                "pages": [164]
+            },
+            {
+                "name": "prerequisites",
+                "pages": [163]
+            },
+            {
+                "name": "proficiencies",
+                "pages": ["163-164"]
+            },
+            {
+                "name": "proficiency bonus",
+                "pages": [163]
+            },
+            {
+                "name": "spell slots",
+                "pages": [164]
+            },
+            {
+                "name": "Spellcasting",
+                "pages": [164]
+            },
+            {
+                "name": "spells known and prepared",
+                "pages": [164]
+            },
+            {
+                "name": "Unarmored Defense",
+                "pages": [164]
+            }
+        ]
+    },
+    {
+        "name": "multiverse",
+        "pages": [
+            "5-6",
+            293,
+            300
+        ]
+    },
+    {
+        "name": "Mystic Arcanum (warlock)",
+        "pages": [108]
+    },
+    {
+        "name": "name (character)",
+        "pages": [121]
+    },
+    {
+        "name": "Natural Explorer (ranger)",
+        "pages": [91]
+    },
+    {
+        "name": "Natural Illusionist (forest gnome)",
+        "pages": [37]
+    },
+    {
+        "name": "Naturally Stealthy (lightfoot halfling)",
+        "pages": [28]
+    },
+    {
+        "name": "Natural Recovery (druid)",
+        "pages": [68]
+    },
+    {
+        "name": "Nature (Intelligence skill)",
+        "pages": [178]
+    },
+    {
+        "name": "Nature domain (cleric divine domain)",
+        "pages": ["61-62"]
+    },
+    {
+        "name": "Nature's Sanctuary (druid)",
+        "pages": [69]
+    },
+    {
+        "name": "Nature's Ward (druid)",
+        "pages": [69]
+    },
+    {
+        "name": "Nature's Wrath (Channel Divinity paladin option)",
+        "pages": [87]
+    },
+    {
+        "name": "navigating (travel)",
+        "pages": [183]
+    },
+    {
+        "name": "necromancer",
+        "pages": ["118-119"]
+    },
+    {
+        "name": "necromancy",
+        "pages": [
+            118,
+            203
+        ],
+        "children": [
+            {
+                "name": "school (wizard arcane tradition)",
+                "pages": ["118-119"]
+            }
+        ]
+    },
+    {
+        "name": "Necromancy Savant (wizard)",
+        "pages": [118]
+    },
+    {
+        "name": "necrotic damage (damage type)",
+        "pages": [196]
+    },
+    {
+        "name": "Negative Plane (plane of existence)",
+        "pages": [300]
+    },
+    {
+        "name": "neutral (alignment)",
+        "pages": [122]
+    },
+    {
+        "name": "neutral evil (alignment)",
+        "pages": [122]
+    },
+    {
+        "name": "neutral good (alignment)",
+        "pages": [122]
+    },
+    {
+        "name": "Nine Hells, the (plane of existence)",
+        "pages": [302]
+    },
+    {
+        "name": "noble (background)",
+        "pages": ["135-136"]
+    },
+    {
+        "name": "noble knight (background)",
+        "pages": [136]
+    },
+    {
+        "name": "nonplayer character (NPC)",
+        "pages": [
+            8,
+            159,
+            185,
+            189,
+            198
+        ]
+    },
+    {
+        "name": "nonlethal damage",
+        "pages": [196]
+    },
+    {
+        "name": "NPC (nonplayer character)",
+        "pages": [
+            8,
+            159,
+            185,
+            189,
+            198
+        ]
+    },
+    {
+        "name": "Oath of Devotion (paladin sacred oath)",
+        "pages": ["85-86"]
+    },
+    {
+        "name": "Oath of the Ancients (paladin sacred oath)",
+        "pages": ["86-87"]
+    },
+    {
+        "name": "Oath of Vengeance (paladin sacred oath)",
+        "pages": ["87-88"]
+    },
+    {
+        "name": "oath spells (paladin)",
+        "pages": ["85-88"]
+    },
+    {
+        "name": "objects",
+        "pages": [185],
+        "children": [
+            {
+                "name": "attacking",
+                "pages": [185]
+            },
+            {
+                "name": "interacting with",
+                "pages": [185]
+            },
+            {
+                "name": "using during combat",
+                "pages": [190]
+            }
+        ]
+    },
+    {
+        "name": "One with Shadows (warlock eldritch invocation)",
+        "pages": [111]
+    },
+    {
+        "name": "Open Hand Technique (monk)",
+        "pages": [79]
+    },
+    {
+        "name": "open locks (thieves' tools)",
+        "pages": [154]
+    },
+    {
+        "name": "Opportunist (monk)",
+        "pages": [80]
+    },
+    {
+        "name": "opportunity attack",
+        "pages": [195]
+    },
+    {
+        "name": "Orc",
+        "pages": [41],
+        "children": [
+            {
+                "name": "language",
+                "pages": [
+                    41,
+                    123
+                ]
+            }
+        ]
+    },
+    {
+        "name": "orison (cantrip)",
+        "pages": [201]
+    },
+    {
+        "name": "Otherworldly Leap (warlock eldritch invocation)",
+        "pages": [111]
+    },
+    {
+        "name": "Otherworldly Patron (warlock)",
+        "pages": [107]
+    },
+    {
+        "name": "otherworldly patrons",
+        "pages": ["108-110"],
+        "children": [
+            {
+                "name": "Archfey, the",
+                "pages": ["108-109"]
+            },
+            {
+                "name": "Fiend, the",
+                "pages": [109]
+            },
+            {
+                "name": "Great Old One, the",
+                "pages": ["109-110"]
+            }
+        ]
+    },
+    {
+        "name": "Outer Planes (plane of existence)",
+        "pages": [
+            300,
+            301
+        ]
+    },
+    {
+        "name": "outlander (background)",
+        "pages": ["136-137"]
+    },
+    {
+        "name": "Outlands, the (plane of existence)",
+        "pages": [302]
+    },
+    {
+        "name": "Overchannel (wizard)",
+        "pages": [118]
+    },
+    {
+        "name": "owl (creature)",
+        "pages": [308]
+    },
+    {
+        "name": "Pact Boon (warlock)",
+        "pages": ["107-108"],
+        "children": [
+            {
+                "name": "Pact of the Blade",
+                "pages": ["107-108"]
+            },
+            {
+                "name": "Pact of the Chain",
+                "pages": [107]
+            },
+            {
+                "name": "Pact of the Tome",
+                "pages": [108]
+            },
+            {
+                "name": "Your Pact Boon",
+                "pages": [108]
+            }
+        ]
+    },
+    {
+        "name": "Pact Magic (warlock)",
+        "pages": [107],
+        "children": [
+            {
+                "name": "multiclassing and",
+                "pages": [164]
+            }
+        ]
+    },
+    {
+        "name": "pact weapon (warlock)",
+        "pages": ["107-108"]
+    },
+    {
+        "name": "paladin",
+        "pages": [
+            45,
+            "82-88"
+        ],
+        "children": [
+            {
+                "name": "quick build",
+                "pages": [83]
+            },
+            {
+                "name": "sacred oaths",
+                "pages": ["85-88"]
+            },
+            {
+                "name": "spell list",
+                "pages": ["208-209"]
+            }
+        ]
+    },
+    {
+        "name": "Pandemonium (plane of existence)",
+        "pages": [302]
+    },
+    {
+        "name": "panther (creature)",
+        "pages": [308]
+    },
+    {
+        "name": "paralyzed (condition)",
+        "pages": [291]
+    },
+    {
+        "name": "Parry maneuver (fighter maneuver)",
+        "pages": [74]
+    },
+    {
+        "name": "party (adventuring)",
+        "pages": [15]
+    },
+    {
+        "name": "passive check (ability check)",
+        "pages": [175]
+    },
+    {
+        "name": "Path of the Berserker (barbarian primal path)",
+        "pages": ["49-50"]
+    },
+    {
+        "name": "Path of the Totem Warrior (barbarian primal path)",
+        "pages": [50]
+    },
+    {
+        "name": "Patient Defense (monk Ki)",
+        "pages": [78]
+    },
+    {
+        "name": "Peerless Skill (bard)",
+        "pages": [55]
+    },
+    {
+        "name": "penalty",
+        "pages": [6]
+    },
+    {
+        "name": "percentile (dice)",
+        "pages": [6]
+    },
+    {
+        "name": "Perception (Wisdom skill)",
+        "pages": [178],
+        "children": [
+            {
+                "name": "travel: noticing threats",
+                "pages": ["182-183"]
+            }
+        ]
+    },
+    {
+        "name": "Perfect Self (monk)",
+        "pages": [79]
+    },
+    {
+        "name": "Performance (Charisma skill)",
+        "pages": [179]
+    },
+    {
+        "name": "Persistent Rage (barbarian)",
+        "pages": [49]
+    },
+    {
+        "name": "personality (character)",
+        "pages": ["122-124"]
+    },
+    {
+        "name": "Persuasion (Charisma skill)",
+        "pages": [179]
+    },
+    {
+        "name": "petrified (condition)",
+        "pages": [291]
+    },
+    {
+        "name": "pick locks (thieves' tools)",
+        "pages": [154]
+    },
+    {
+        "name": "pick pockets (Dexterity: Sleight of Hand)",
+        "pages": [177]
+    },
+    {
+        "name": "piercing damage (damage type)",
+        "pages": [196]
+    },
+    {
+        "name": "pirate (background)",
+        "pages": [139]
+    },
+    {
+        "name": "planar travel",
+        "pages": [301]
+    },
+    {
+        "name": "Plane of Air (plane of existence)",
+        "pages": [301]
+    },
+    {
+        "name": "Plane of Earth (plane of existence)",
+        "pages": [301]
+    },
+    {
+        "name": "Plane of Faerie (plane of existence)",
+        "pages": [301]
+    },
+    {
+        "name": "plane of Fire (plane of existence)",
+        "pages": [301]
+    },
+    {
+        "name": "Plane of Shadow (plane of existence)",
+        "pages": [301]
+    },
+    {
+        "name": "Plane of Water (plane of existence)",
+        "pages": [301]
+    },
+    {
+        "name": "planes of existence",
+        "pages": [
+            5,
+            "300-303"
+        ]
+    },
+    {
+        "name": "platinum piece (pp) (coinage)",
+        "pages": [143]
+    },
+    {
+        "name": "player character",
+        "pages": [
+            5,
+            "11-15"
+        ]
+    },
+    {
+        "name": "point of origin (area of effect)",
+        "pages": [204]
+    },
+    {
+        "name": "poison damage (damage type)",
+        "pages": [196]
+    },
+    {
+        "name": "poisoned (condition)",
+        "pages": [292]
+    },
+    {
+        "name": "Position of Privilege (noble)",
+        "pages": [135]
+    },
+    {
+        "name": "Positive Plane (plane of existence)",
+        "pages": [300]
+    },
+    {
+        "name": "Portent (wizard)",
+        "pages": [116]
+    },
+    {
+        "name": "Potent Cantrip (wizard)",
+        "pages": [117]
+    },
+    {
+        "name": "Potent Spellcasting (cleric)",
+        "children": [
+            {
+                "name": "Knowledge domain",
+                "pages": [60]
+            },
+            {
+                "name": "Light domain",
+                "pages": [61]
+            }
+        ]
+    },
+    {
+        "name": "Precision Attack maneuver (fighter maneuver)",
+        "pages": [74]
+    },
+    {
+        "name": "preparing spells. See Spellcasting: (cleric)",
+        "pages": [
+            58,
+            "(druid) 66",
+            "(paladin) 84-85",
+            "(wizard) 114"
+        ]
+    },
+    {
+        "name": "Preserve life (Channel Divinity cleric options)",
+        "pages": [60]
+    },
+    {
+        "name": "Primal Champion (barbarian)",
+        "pages": [49]
+    },
+    {
+        "name": "Primal Path (barbarian)",
+        "pages": [48]
+    },
+    {
+        "name": "primal paths",
+        "pages": ["49-50"],
+        "children": [
+            {
+                "name": "Path of the Berserker",
+                "pages": ["49-50"]
+            },
+            {
+                "name": "Path of the Totem Warrior",
+                "pages": [50]
+            }
+        ]
+    },
+    {
+        "name": "Primal Strike (druid)",
+        "pages": [69]
+    },
+    {
+        "name": "Primeval Awareness (ranger)",
+        "pages": [92]
+    },
+    {
+        "name": "Primordial (language)",
+        "pages": [123]
+    },
+    {
+        "name": "profession (downtime activity)",
+        "pages": [187]
+    },
+    {
+        "name": "proficiencies",
+        "pages": [
+            11,
+            12,
+            14,
+            155
+        ],
+        "children": [
+            {
+                "name": "multiclassing and",
+                "pages": ["163-164"]
+            },
+            {
+                "name": "saving throw",
+                "pages": [14]
+            },
+            {
+                "name": "skill",
+                "pages": [14]
+            },
+            {
+                "name": "spell",
+                "pages": [14]
+            },
+            {
+                "name": "tool",
+                "pages": [14]
+            },
+            {
+                "name": "vehicle",
+                "pages": [155]
+            },
+            {
+                "name": "weapon",
+                "pages": [14]
+            }
+        ]
+    },
+    {
+        "name": "proficiency bonus",
+        "pages": [
+            14,
+            "173-174",
+            194
+        ],
+        "children": [
+            {
+                "name": "adding",
+                "pages": [
+                    14,
+                    173
+                ]
+            },
+            {
+                "name": "dividing",
+                "pages": [
+                    14,
+                    "173-174"
+                ]
+            },
+            {
+                "name": "increasing with level",
+                "pages": [15]
+            },
+            {
+                "name": "multiclassing and",
+                "pages": [163]
+            },
+            {
+                "name": "multiplying",
+                "pages": [
+                    14,
+                    "173-174"
+                ]
+            }
+        ]
+    },
+    {
+        "name": "Projected Ward (wizard)",
+        "pages": [115]
+    },
+    {
+        "name": "projectile weapon (weapon property: ammunition)",
+        "pages": [146]
+    },
+    {
+        "name": "prone",
+        "pages": ["190-191"],
+        "children": [
+            {
+                "name": "prone condition",
+                "pages": [292]
+            }
+        ]
+    },
+    {
+        "name": "Protection (fighting style)",
+        "pages": [
+            72,
+            84
+        ]
+    },
+    {
+        "name": "pseudodragon (creature)",
+        "pages": [308]
+    },
+    {
+        "name": "psychic damage (damage type)",
+        "pages": [196]
+    },
+    {
+        "name": "punching (unarmed melee attack)",
+        "pages": [195]
+    },
+    {
+        "name": "Purity of Body (monk)",
+        "pages": [79]
+    },
+    {
+        "name": "Purity of Spirit (paladin)",
+        "pages": [86]
+    },
+    {
+        "name": "Pushing Attack maneuver (fighter maneuver)",
+        "pages": [74]
+    },
+    {
+        "name": "quasit (creature)",
+        "pages": [309]
+    },
+    {
+        "name": "quick build",
+        "pages": [11],
+        "children": [
+            {
+                "name": "See also under specific class entries",
+                "pages": [45]
+            }
+        ]
+    },
+    {
+        "name": "Quickened Spell (sorcerer Metamagic)",
+        "pages": [102]
+    },
+    {
+        "name": "Quivering Palm (monk)",
+        "pages": [80]
+    },
+    {
+        "name": "race",
+        "pages": [11],
+        "children": [
+            {
+                "name": "choosing a",
+                "pages": [
+                    11,
+                    17
+                ]
+            },
+            {
+                "name": "traits (racial)",
+                "pages": [
+                    11,
+                    17
+                ]
+            },
+            {
+                "name": "See also specific race entries",
+                "pages": [17]
+            }
+        ]
+    },
+    {
+        "name": "racial ability score increase (racial traits: ability score increase)",
+        "pages": [
+            11,
+            12,
+            13,
+            17
+        ]
+    },
+    {
+        "name": "racial traits",
+        "pages": [
+            11,
+            17
+        ],
+        "children": [
+            {
+                "name": "ability score increase",
+                "pages": [
+                    11,
+                    12,
+                    13,
+                    17
+                ]
+            },
+            {
+                "name": "age",
+                "pages": [17]
+            },
+            {
+                "name": "alignment",
+                "pages": [17]
+            },
+            {
+                "name": "languages",
+                "pages": [17]
+            },
+            {
+                "name": "size",
+                "pages": [17]
+            },
+            {
+                "name": "speed",
+                "pages": [17]
+            },
+            {
+                "name": "subrace",
+                "pages": [17]
+            },
+            {
+                "name": "See also specific race entries",
+                "pages": [17]
+            }
+        ]
+    },
+    {
+        "name": "Radiance of the Dawn (Channel Divinity cleric options)",
+        "pages": [61]
+    },
+    {
+        "name": "radiant damage (damage type)",
+        "pages": [196]
+    },
+    {
+        "name": "Rage (barbarian)",
+        "pages": [48]
+    },
+    {
+        "name": "Rally maneuver (fighter maneuver)",
+        "pages": [74]
+    },
+    {
+        "name": "range",
+        "pages": [195],
+        "children": [
+            {
+                "name": "maximum",
+                "pages": [147]
+            },
+            {
+                "name": "normal",
+                "pages": [147]
+            },
+            {
+                "name": "of spells (casting a spell: range)",
+                "pages": ["202-203"]
+            }
+        ]
+    },
+    {
+        "name": "range (weapon property)",
+        "pages": [146]
+    },
+    {
+        "name": "ranged attack",
+        "pages": [195],
+        "children": [
+            {
+                "name": "in melee",
+                "pages": [195]
+            }
+        ]
+    },
+    {
+        "name": "ranged weapon",
+        "pages": [
+            14,
+            146,
+            149,
+            195
+        ]
+    },
+    {
+        "name": "ranger",
+        "pages": [
+            45,
+            "89-93"
+        ],
+        "children": [
+            {
+                "name": "quick build",
+                "pages": [90]
+            },
+            {
+                "name": "ranger archetypes",
+                "pages": [93]
+            },
+            {
+                "name": "spell list",
+                "pages": [209]
+            }
+        ]
+    },
+    {
+        "name": "Ranger Archetype (ranger)",
+        "pages": [92]
+    },
+    {
+        "name": "ranger archetypes",
+        "pages": [93],
+        "children": [
+            {
+                "name": "Beast Master",
+                "pages": [93]
+            },
+            {
+                "name": "Hunter",
+                "pages": [93]
+            }
+        ]
+    },
+    {
+        "name": "Ranger's Companion (ranger)",
+        "pages": [93]
+    },
+    {
+        "name": "Rashemi (human ethnicity)",
+        "pages": [31]
+    },
+    {
+        "name": "rat (creature)",
+        "pages": [309]
+    },
+    {
+        "name": "raven (creature)",
+        "pages": [309]
+    },
+    {
+        "name": "reach (creature)",
+        "pages": [195]
+    },
+    {
+        "name": "reach (weapon property)",
+        "pages": [147]
+    },
+    {
+        "name": "reaction",
+        "pages": [190],
+        "children": [
+            {
+                "name": "casting a spell: casting time",
+                "pages": [202]
+            }
+        ]
+    },
+    {
+        "name": "Read Thoughts (Channel Divinity cleric options)",
+        "pages": [59]
+    },
+    {
+        "name": "Ready action",
+        "pages": [193]
+    },
+    {
+        "name": "Reckless Attack (barbarian)",
+        "pages": [48]
+    },
+    {
+        "name": "recovering ammunition (weapon property: ammunition)",
+        "pages": [146]
+    },
+    {
+        "name": "recuperating (downtime activity)",
+        "pages": [187]
+    },
+    {
+        "name": "refitting plate armor (armor and shields; variant: equipment sizes)",
+        "pages": [144]
+    },
+    {
+        "name": "Relentless (fighter)",
+        "pages": [78]
+    },
+    {
+        "name": "Relentless Avenger (paladin)",
+        "pages": [88]
+    },
+    {
+        "name": "Relentless Endurance (half-orc)",
+        "pages": [41]
+    },
+    {
+        "name": "Relentless Rage (barbarian)",
+        "pages": [49]
+    },
+    {
+        "name": "Reliable Talent (rogue)",
+        "pages": [96]
+    },
+    {
+        "name": "religion",
+        "pages": [293],
+        "children": [
+            {
+                "name": "cleric",
+                "pages": [56]
+            },
+            {
+                "name": "druid",
+                "pages": [64]
+            },
+            {
+                "name": "paladin",
+                "pages": [82]
+            }
+        ]
+    },
+    {
+        "name": "Religion (Intelligence skill)",
+        "pages": [178]
+    },
+    {
+        "name": "reloading (weapon property: ammunition)",
+        "pages": [146],
+        "children": [
+            {
+                "name": "objects: using during combat",
+                "pages": [190]
+            },
+            {
+                "name": "weapon properties: loading",
+                "pages": [147]
+            }
+        ]
+    },
+    {
+        "name": "Remarkable Athlete (fighter)",
+        "pages": [72]
+    },
+    {
+        "name": "Repelling Blast (warlock eldritch invocation)",
+        "pages": [111]
+    },
+    {
+        "name": "research (downtime activity)",
+        "pages": [187]
+    },
+    {
+        "name": "Researcher (sage)",
+        "pages": [138]
+    },
+    {
+        "name": "resistance (damage resistance)",
+        "pages": [97],
+        "children": [
+            {
+                "name": "Damage Resistance (dragonborn)",
+                "pages": [34]
+            }
+        ]
+    },
+    {
+        "name": "resting",
+        "pages": [186]
+    },
+    {
+        "name": "restrained (condition)",
+        "pages": [292]
+    },
+    {
+        "name": "result (total)",
+        "pages": [7]
+    },
+    {
+        "name": "Retainers (noble variant)",
+        "pages": [136]
+    },
+    {
+        "name": "Retaliation (barbarian)",
+        "pages": [50]
+    },
+    {
+        "name": "Ride the Wind (monk Elemental Discipline)",
+        "pages": [81]
+    },
+    {
+        "name": "Riposte maneuver (fighter maneuver)",
+        "pages": [74]
+    },
+    {
+        "name": "Ritual Casting. See Spellcasting: bard (52-53); cleric (58); druid (66); wizard (114)",
+        "children": [
+            {
+                "name": "Ritual Caster feat",
+                "pages": [169]
+            }
+        ]
+    },
+    {
+        "name": "rituals",
+        "pages": ["201-202"],
+        "children": [
+            {
+                "name": "casting a spell: casting time",
+                "pages": [202]
+            }
+        ]
+    },
+    {
+        "name": "River of Hungry Flame (monk Elemental Discipline)",
+        "pages": [81]
+    },
+    {
+        "name": "rock gnome (race; gnome)",
+        "pages": [37]
+    },
+    {
+        "name": "rogue",
+        "pages": [
+            45,
+            "94-98"
+        ],
+        "children": [
+            {
+                "name": "quick build",
+                "pages": [95]
+            }
+        ]
+    },
+    {
+        "name": "Roguish Archetype (rogue)",
+        "pages": [96]
+    },
+    {
+        "name": "roguish archetypes",
+        "pages": ["97-98"],
+        "children": [
+            {
+                "name": "Arcane Trickster",
+                "pages": ["97-98"]
+            },
+            {
+                "name": "Assassin",
+                "pages": [97]
+            },
+            {
+                "name": "Thief",
+                "pages": [97]
+            }
+        ]
+    },
+    {
+        "name": "roleplaying",
+        "pages": [
+            8,
+            "185-186"
+        ]
+    },
+    {
+        "name": "roll",
+        "pages": ["6-7"]
+    },
+    {
+        "name": "round (time)",
+        "pages": [
+            181,
+            189
+        ]
+    },
+    {
+        "name": "rounding numbers",
+        "pages": [7]
+    },
+    {
+        "name": "rowed vessel",
+        "pages": ["155-157"]
+    },
+    {
+        "name": "rules",
+        "pages": ["6-7"],
+        "children": [
+            {
+                "name": "exceptions",
+                "pages": [7]
+            },
+            {
+                "name": "how to play",
+                "pages": [6]
+            },
+            {
+                "name": "specific beats general",
+                "pages": [7]
+            }
+        ]
+    },
+    {
+        "name": "run (Dash action)",
+        "pages": [192]
+    },
+    {
+        "name": "Rush of the Gale Spirits (monk Elemental Discipline)",
+        "pages": [81]
+    },
+    {
+        "name": "Rustic Hospitality (folk hero)",
+        "pages": [131]
+    },
+    {
+        "name": "Sacred Oath (paladin)",
+        "pages": [85],
+        "children": [
+            {
+                "name": "oath spells",
+                "pages": [85]
+            }
+        ]
+    },
+    {
+        "name": "sacred oaths",
+        "pages": ["85-88"],
+        "children": [
+            {
+                "name": "breaking",
+                "pages": [86]
+            },
+            {
+                "name": "Oath of Devotion",
+                "pages": ["85-86"]
+            },
+            {
+                "name": "Oath of the Ancients",
+                "pages": ["86-87"]
+            },
+            {
+                "name": "Oath of Vengeance",
+                "pages": ["87-88"]
+            }
+        ]
+    },
+    {
+        "name": "sacred plants and wood (druid)",
+        "pages": [66]
+    },
+    {
+        "name": "Sacred Weapon (Channel Divinity paladin option)",
+        "pages": [86]
+    },
+    {
+        "name": "sage (background)",
+        "pages": ["137-138"]
+    },
+    {
+        "name": "sailor (background)",
+        "pages": [139]
+    },
+    {
+        "name": "Savage Attacks (half-orc)",
+        "pages": [41]
+    },
+    {
+        "name": "saving throw (save)",
+        "pages": [
+            7,
+            12,
+            179,
+            205
+        ],
+        "children": [
+            {
+                "name": "death",
+                "pages": [197]
+            },
+            {
+                "name": "ki",
+                "pages": [78]
+            },
+            {
+                "name": "maneuver (saving throws)",
+                "pages": [73]
+            },
+            {
+                "name": "proficiency",
+                "pages": [14]
+            },
+            {
+                "name": "spell",
+                "pages": [205]
+            }
+        ]
+    },
+    {
+        "name": "saving throw modifier",
+        "pages": [
+            12,
+            179,
+            205
+        ]
+    },
+    {
+        "name": "School of Abjuration (wizard)",
+        "pages": ["115-116"]
+    },
+    {
+        "name": "School of Conjuration (wizard)",
+        "pages": [116]
+    },
+    {
+        "name": "School of Divination (wizard)",
+        "pages": ["116-117"]
+    },
+    {
+        "name": "School of Enchantment (wizard)",
+        "pages": [117]
+    },
+    {
+        "name": "School of Evocation (wizard)",
+        "pages": ["117-118"]
+    },
+    {
+        "name": "School of Illusion (wizard)",
+        "pages": [118]
+    },
+    {
+        "name": "School of Necromancy (wizard)",
+        "pages": ["118-119"]
+    },
+    {
+        "name": "School of Transmutation (wizard)",
+        "pages": [119]
+    },
+    {
+        "name": "schools of magic (arcane traditions)",
+        "pages": ["115-119"]
+    },
+    {
+        "name": "Sculptor of Flesh (warlock eldritch invocation)",
+        "pages": [111]
+    },
+    {
+        "name": "Sculpt Spells (wizard)",
+        "pages": [117]
+    },
+    {
+        "name": "Second-Story Work (rogue)",
+        "pages": [97]
+    },
+    {
+        "name": "Second Wind (fighter)",
+        "pages": [72]
+    },
+    {
+        "name": "Search action",
+        "pages": [193],
+        "children": [
+            {
+                "name": "Intelligence: Investigation",
+                "pages": [178]
+            },
+            {
+                "name": "travel (tracking)",
+                "pages": [183]
+            },
+            {
+                "name": "Wisdom: Perception",
+                "pages": [178]
+            }
+        ]
+    },
+    {
+        "name": "self",
+        "children": [
+            {
+                "name": "casting a spell: range",
+                "pages": ["202-203"]
+            },
+            {
+                "name": "targeting",
+                "pages": [204]
+            }
+        ]
+    },
+    {
+        "name": "selling treasure (wealth)",
+        "pages": [144]
+    },
+    {
+        "name": "services",
+        "pages": [159]
+    },
+    {
+        "name": "sex (character: sex and gender)",
+        "pages": [121]
+    },
+    {
+        "name": "Shadow Arts (monk)",
+        "pages": [80]
+    },
+    {
+        "name": "Shadowfell, the (plane of existence)",
+        "pages": [300]
+    },
+    {
+        "name": "Shadow Step (monk)",
+        "pages": [80]
+    },
+    {
+        "name": "Shapechanger (wizard)",
+        "pages": [119]
+    },
+    {
+        "name": "Shape the Flowing River (monk Elemental Discipline)",
+        "pages": [81]
+    },
+    {
+        "name": "Share Spells (ranger)",
+        "pages": [93]
+    },
+    {
+        "name": "shark, reef (creature)",
+        "pages": [309]
+    },
+    {
+        "name": "Shelter of the Faithful (acolyte)",
+        "pages": [127]
+    },
+    {
+        "name": "shield (armor and shields)",
+        "pages": [144]
+    },
+    {
+        "name": "shield dwarf (race; dwarf: mountain)",
+        "pages": [20]
+    },
+    {
+        "name": "Ship's Passage (sailor)",
+        "pages": [139]
+    },
+    {
+        "name": "short rest (resting)",
+        "pages": [186]
+    },
+    {
+        "name": "Shou (human ethnicity)",
+        "pages": [31]
+    },
+    {
+        "name": "shoving",
+        "pages": [195]
+    },
+    {
+        "name": "Sigil (plane of existence)",
+        "pages": [302]
+    },
+    {
+        "name": "Signature Spells (wizard)",
+        "pages": [115]
+    },
+    {
+        "name": "Sign of Ill Omen (warlock eldritch invocation)",
+        "pages": [111]
+    },
+    {
+        "name": "silvered weapon (weapon)",
+        "pages": [148]
+    },
+    {
+        "name": "silver piece (sp) (coinage)",
+        "pages": [143]
+    },
+    {
+        "name": "simple weapon (weapon category)",
+        "pages": [146]
+    },
+    {
+        "name": "size",
+        "pages": [
+            176,
+            "191-192"
+        ],
+        "children": [
+            {
+                "name": "and weapons (heavy)",
+                "pages": [147]
+            },
+            {
+                "name": "of equipment (variant: equipment sizes)",
+                "pages": [144]
+            },
+            {
+                "name": "lifting and carrying: size and",
+                "pages": [176]
+            },
+            {
+                "name": "space",
+                "pages": ["191-192"]
+            },
+            {
+                "name": "See also racial traits and specific race trait entries",
+                "pages": [17]
+            }
+        ]
+    },
+    {
+        "name": "size category",
+        "pages": [191]
+    },
+    {
+        "name": "skeleton (creature)",
+        "pages": [310]
+    },
+    {
+        "name": "skill check (ability check: skill)",
+        "pages": ["174-175"]
+    },
+    {
+        "name": "Skill Versatility (half-elf)",
+        "pages": [39]
+    },
+    {
+        "name": "skills with different abilities (variant)",
+        "pages": [175]
+    },
+    {
+        "name": "slashing damage (damage type)",
+        "pages": [196]
+    },
+    {
+        "name": "Sleight of Hand (Dexterity skill)",
+        "pages": [177]
+    },
+    {
+        "name": "Slippery Mind (rogue)",
+        "pages": [96]
+    },
+    {
+        "name": "Slow Fall (monk)",
+        "pages": [78]
+    },
+    {
+        "name": "Small (size category)",
+        "pages": [191]
+    },
+    {
+        "name": "snake, constrictor (creature)",
+        "pages": [305]
+    },
+    {
+        "name": "snake, poisonous (creature)",
+        "pages": [308]
+    },
+    {
+        "name": "Sneak Attack (rogue)",
+        "pages": [96]
+    },
+    {
+        "name": "social interaction",
+        "pages": [
+            8,
+            "185-186"
+        ]
+    },
+    {
+        "name": "soldier (background)",
+        "pages": ["140-141"]
+    },
+    {
+        "name": "somatic spell component",
+        "pages": [203]
+    },
+    {
+        "name": "Song of Rest (bard)",
+        "pages": [54]
+    },
+    {
+        "name": "sorcerer",
+        "pages": [
+            45,
+            "99-104"
+        ],
+        "children": [
+            {
+                "name": "quick build",
+                "pages": [100]
+            },
+            {
+                "name": "sorcerous origin",
+                "pages": [
+                    101,
+                    "102-104"
+                ]
+            },
+            {
+                "name": "spell list",
+                "pages": [209]
+            }
+        ]
+    },
+    {
+        "name": "Sorcerous Origin",
+        "pages": [101]
+    },
+    {
+        "name": "sorcerous origins",
+        "pages": ["102-104"],
+        "children": [
+            {
+                "name": "Draconic Bloodline",
+                "pages": ["102-103"]
+            },
+            {
+                "name": "Wild Magic",
+                "pages": ["103-104"]
+            }
+        ]
+    },
+    {
+        "name": "Sorcerous Restoration",
+        "pages": [102]
+    },
+    {
+        "name": "Sorcery Pointer (sorcerer Font of Magic)",
+        "pages": [101]
+    },
+    {
+        "name": "Soul of Vengeance (paladin)",
+        "pages": [88]
+    },
+    {
+        "name": "space (size)",
+        "pages": ["191-192"]
+    },
+    {
+        "name": "Speak with Small Beasts (forest gnome)",
+        "pages": [37]
+    },
+    {
+        "name": "special (weapon property)",
+        "pages": [147]
+    },
+    {
+        "name": "speed (movement)",
+        "pages": [
+            14,
+            17,
+            181
+        ],
+        "children": [
+            {
+                "name": "mounts and vehicles",
+                "pages": [157]
+            },
+            {
+                "name": "racial traits",
+                "pages": [17]
+            },
+            {
+                "name": "travel (pace)",
+                "pages": [181]
+            }
+        ]
+    },
+    {
+        "name": "spell",
+        "pages": [201]
+    },
+    {
+        "name": "spell attack modifier. See Spellcasting: bard (53); cleric (58); druid (66); paladin (85); sorcerer (101); warlock (107); wizard (114)"
+    },
+    {
+        "name": "spell attack roll",
+        "pages": [205],
+        "children": [
+            {"name": "See also Spellcasting: bard (52); cleric (58); druid (66); fighter, Eldritch Knight (75); ranger (92); rogue, Arcane Trickster (98); sorcerer (101); warlock (107); wizard (114)"}
+        ]
+    },
+    {
+        "name": "Spell Bombardment (sorcerer)",
+        "pages": [103]
+    },
+    {
+        "name": "Spellbook (wizard)",
+        "pages": [114]
+    },
+    {
+        "name": "spellcaster",
+        "pages": [201]
+    },
+    {
+        "name": "spellcasting",
+        "pages": ["201-205"]
+    },
+    {
+        "name": "Spellcasting",
+        "children": [
+            {
+                "name": "bard",
+                "pages": ["52-53"]
+            },
+            {
+                "name": "cleric",
+                "pages": [58]
+            },
+            {
+                "name": "druid",
+                "pages": [66]
+            },
+            {
+                "name": "fighter: Eldritch Knight",
+                "pages": [75]
+            },
+            {
+                "name": "multiclassing",
+                "pages": [164]
+            },
+            {
+                "name": "paladin",
+                "pages": ["84-85"]
+            },
+            {
+                "name": "ranger",
+                "pages": ["91-92"]
+            },
+            {
+                "name": "rogue: Arcane Trickster",
+                "pages": ["97-98"]
+            },
+            {
+                "name": "sorcerer",
+                "pages": [101]
+            },
+            {
+                "name": "warlock: Pact Magic",
+                "pages": [107]
+            },
+            {
+                "name": "wizard",
+                "pages": [114]
+            }
+        ]
+    },
+    {
+        "name": "spellcasting ability",
+        "pages": [
+            178,
+            179,
+            205
+        ],
+        "children": [
+            {"name": "See also Spellcasting: bard (52); cleric (58); druid (66); fighter, Eldritch Knight (75); ranger (91); rogue, Arcane Trickster (98); sorcerer (101); warlock (107); wizard (114)"}
+        ]
+    },
+    {
+        "name": "spellcasting focus. See Spellcasting: bard (53); cleric (58); druid (66); paladin (85); sorcerer (101); warlock (107); wizard (114)"
+    },
+    {
+        "name": "spell components (casting a spell: components)",
+        "pages": [203],
+        "children": [
+            {
+                "name": "material spell component",
+                "pages": [203]
+            },
+            {
+                "name": "somatic spell component",
+                "pages": [203]
+            },
+            {
+                "name": "verbal spell component",
+                "pages": [203]
+            }
+        ]
+    },
+    {
+        "name": "spell descriptions",
+        "pages": ["211-289"]
+    },
+    {
+        "name": "spell level",
+        "pages": [201]
+    },
+    {
+        "name": "spell list",
+        "pages": ["207-211"]
+    },
+    {
+        "name": "Spell Mastery (wizard)",
+        "pages": [115]
+    },
+    {
+        "name": "spell preparation. See Spellcasting: bard (53); cleric (58); druid (66); paladin (85); sorcerer (101); warlock (107); wizard (114)",
+        "children": [
+            {
+                "name": "multiclassing",
+                "pages": [165]
+            }
+        ]
+    },
+    {
+        "name": "Spell Resistance (wizard)",
+        "pages": [116]
+    },
+    {
+        "name": "spell save DC",
+        "pages": [205],
+        "children": [
+            {"name": "See also Spellcasting: bard (53); cleric (58); druid (66); paladin (85); sorcerer (101); warlock (107); wizard (114)"}
+        ]
+    },
+    {
+        "name": "spell saving throws",
+        "pages": [205]
+    },
+    {
+        "name": "spells known",
+        "pages": [201],
+        "children": [
+            {
+                "name": "multiclassing",
+                "pages": [164]
+            },
+            {"name": "See also Spellcasting: bard (52); cleric (58); druid (66); fighter, Eldritch Knight (75); ranger (91); rogue, Arcane Trickster (98); sorcerer (101); warlock (107); wizard (114)"}
+        ]
+    },
+    {
+        "name": "spell slots",
+        "pages": [201],
+        "children": [
+            {
+                "name": "multiclassing",
+                "pages": [164]
+            },
+            {"name": "See also Spellcasting: bard (52); cleric (58); druid (66); fighter, Eldritch Knight (75); ranger (91); rogue, Arcane Trickster (98); sorcerer (101); warlock (107); wizard (114)"}
+        ]
+    },
+    {
+        "name": "Spell Thief (rogue)",
+        "pages": [98]
+    },
+    {
+        "name": "sphere (area of effect)",
+        "pages": [205]
+    },
+    {
+        "name": "spider, giant (creature)",
+        "pages": [306]
+    },
+    {
+        "name": "Spirit Seeker (barbarian)",
+        "pages": [50]
+    },
+    {
+        "name": "Spirit Walker (barbarian)",
+        "pages": [50]
+    },
+    {
+        "name": "Split Enchantment (wizard)",
+        "pages": [118]
+    },
+    {
+        "name": "sprite (creature)",
+        "pages": [310]
+    },
+    {
+        "name": "spy (background)",
+        "pages": [130]
+    },
+    {
+        "name": "squeezing (movement)",
+        "pages": [192]
+    },
+    {
+        "name": "stabilizing a creature",
+        "pages": [197]
+    },
+    {
+        "name": "stable",
+        "pages": ["197-198"]
+    },
+    {
+        "name": "stacking (casting a spell: combining effects)",
+        "pages": [205],
+        "children": [
+            {
+                "name": "advantage",
+                "pages": [173]
+            },
+            {
+                "name": "disadvantage",
+                "pages": [173]
+            }
+        ]
+    },
+    {
+        "name": "standard action",
+        "pages": [192]
+    },
+    {
+        "name": "standard language (language)",
+        "pages": [123]
+    },
+    {
+        "name": "Stand Against the Tide (ranger Superior Hunter's Defense)",
+        "pages": [93]
+    },
+    {
+        "name": "starting wealth",
+        "pages": [143]
+    },
+    {
+        "name": "starvation (food and drink: food requirements)",
+        "pages": [185]
+    },
+    {
+        "name": "Stealth (Dexterity skill)",
+        "pages": [177],
+        "children": [
+            {
+                "name": "armor and shields: Stealth",
+                "pages": [144]
+            },
+            {
+                "name": "hiding",
+                "pages": [177]
+            },
+            {
+                "name": "travel",
+                "pages": [182]
+            }
+        ]
+    },
+    {
+        "name": "Steel Will (ranger Defensive Tactic)",
+        "pages": [93]
+    },
+    {
+        "name": "Step of the Wind (monk Ki)",
+        "pages": [78]
+    },
+    {
+        "name": "Stillness of Mind (monk)",
+        "pages": [79]
+    },
+    {
+        "name": "Stonecunning (dwarf)",
+        "pages": [20]
+    },
+    {
+        "name": "Stormborn (cleric)",
+        "pages": [62]
+    },
+    {
+        "name": "Stout Resilience (stout halfling)",
+        "pages": [28]
+    },
+    {
+        "name": "Strength",
+        "pages": [
+            12,
+            "175-176"
+        ],
+        "children": [
+            {
+                "name": "Athletics",
+                "pages": [175]
+            },
+            {
+                "name": "checks",
+                "pages": [175]
+            }
+        ]
+    },
+    {
+        "name": "Stroke of luck (rogue)",
+        "pages": [96]
+    },
+    {
+        "name": "strongheart halfling (race; halfling: stout)",
+        "pages": [28]
+    },
+    {
+        "name": "Student of War (fighter)",
+        "pages": [73]
+    },
+    {
+        "name": "stunned (condition)",
+        "pages": [292]
+    },
+    {
+        "name": "Stunning Strike (monk)",
+        "pages": [79]
+    },
+    {
+        "name": "subrace",
+        "pages": [17]
+    },
+    {
+        "name": "Subtle Spell (sorcerer Metamagic)",
+        "pages": [102]
+    },
+    {
+        "name": "suffocating",
+        "pages": [183]
+    },
+    {
+        "name": "sun elf (race; elf: high elf)",
+        "pages": [23]
+    },
+    {
+        "name": "Sunlight Sensitivity (drow)",
+        "pages": [24]
+    },
+    {
+        "name": "Superior Critical (fighter)",
+        "pages": [73]
+    },
+    {
+        "name": "Superior Darkvision (drow)",
+        "pages": [24]
+    },
+    {
+        "name": "Superior Hunter's Defense (ranger)",
+        "pages": [93]
+    },
+    {
+        "name": "Superior Inspiration (bard)",
+        "pages": [54]
+    },
+    {
+        "name": "superiority dice (fighter)",
+        "pages": [73]
+    },
+    {
+        "name": "Supreme Healing (cleric)",
+        "pages": [60]
+    },
+    {
+        "name": "Supreme Sneak (rogue)",
+        "pages": [97]
+    },
+    {
+        "name": "surprise",
+        "pages": [189],
+        "children": [
+            {
+                "name": "travel: surprise",
+                "pages": [183]
+            }
+        ]
+    },
+    {
+        "name": "Survival (Wisdom skill)",
+        "pages": [178],
+        "children": [
+            {
+                "name": "navigating",
+                "pages": [183]
+            },
+            {
+                "name": "travel: foraging",
+                "pages": [183]
+            },
+            {
+                "name": "tracking",
+                "pages": [183]
+            }
+        ]
+    },
+    {
+        "name": "Survivor (fighter)",
+        "pages": [73]
+    },
+    {
+        "name": "svirfneblin (deep gnome) (race; gnome)",
+        "pages": [36]
+    },
+    {
+        "name": "Sweeping Attack maneuver (fighter maneuver)",
+        "pages": [74]
+    },
+    {
+        "name": "Sweeping Cinder Strike (monk Elemental Discipline)",
+        "pages": [81]
+    },
+    {
+        "name": "Sylvan (language)",
+        "pages": [123]
+    },
+    {
+        "name": "targeting a spell (casting a spell: targeting)",
+        "pages": [204]
+    },
+    {
+        "name": "target number",
+        "pages": [7],
+        "children": [
+            {
+                "name": "Armor Class (AC)",
+                "pages": [7]
+            },
+            {
+                "name": "Difficulty Class (DC)",
+                "pages": [7]
+            }
+        ]
+    },
+    {
+        "name": "Tempest domain (cleric divine domain)",
+        "pages": [62]
+    },
+    {
+        "name": "temporary hit points",
+        "pages": [198]
+    },
+    {
+        "name": "Tenets of Devotion (paladin)",
+        "pages": [86]
+    },
+    {
+        "name": "Tenets of the Ancients (paladin)",
+        "pages": ["86-87"]
+    },
+    {
+        "name": "Tenets of Vengeance (paladin)",
+        "pages": [88]
+    },
+    {
+        "name": "Terran (language)",
+        "pages": [123]
+    },
+    {
+        "name": "Tethyrian (human ethnicity)",
+        "pages": [31]
+    },
+    {
+        "name": "THAC0 (attack roll)",
+        "pages": [
+            7,
+            14,
+            176,
+            177,
+            194
+        ]
+    },
+    {
+        "name": "Thief (roguish archetype)",
+        "pages": [97]
+    },
+    {
+        "name": "Thief of Five Fates (warlock eldritch invocation)",
+        "pages": [111]
+    },
+    {
+        "name": "Thief's Reflexes (rogue)",
+        "pages": [97]
+    },
+    {
+        "name": "thieves' cant (rogue language)",
+        "pages": [96]
+    },
+    {
+        "name": "thieves' tools",
+        "pages": [154]
+    },
+    {
+        "name": "Third Eye, The (wizard)",
+        "pages": ["116-117"]
+    },
+    {
+        "name": "Thirsting Blade (warlock eldritch invocation)",
+        "pages": [111]
+    },
+    {
+        "name": "Thought Shield (warlock)",
+        "pages": [110]
+    },
+    {
+        "name": "Thousand Forms (druid)",
+        "pages": [69]
+    },
+    {
+        "name": "three-quarters cover",
+        "pages": [196]
+    },
+    {
+        "name": "thrown (weapon property)",
+        "pages": [147]
+    },
+    {
+        "name": "Thunderbolt Strike (cleric)",
+        "pages": [62]
+    },
+    {
+        "name": "thunder damage (damage type)",
+        "pages": [196]
+    },
+    {
+        "name": "Tides of Chaos (sorcerer)",
+        "pages": [103]
+    },
+    {
+        "name": "tiefling",
+        "pages": ["42-43"]
+    },
+    {
+        "name": "tiefling names",
+        "pages": [43]
+    },
+    {
+        "name": "tiefling traits",
+        "pages": [43]
+    },
+    {
+        "name": "tiers of play",
+        "pages": [15]
+    },
+    {
+        "name": "tiger (creature)",
+        "pages": [311]
+    },
+    {
+        "name": "time",
+        "pages": [181],
+        "children": [
+            {
+                "name": "day",
+                "pages": [181]
+            },
+            {
+                "name": "minute",
+                "pages": [181]
+            },
+            {
+                "name": "round",
+                "pages": [
+                    181,
+                    189
+                ]
+            },
+            {
+                "name": "turn",
+                "pages": [189]
+            }
+        ]
+    },
+    {
+        "name": "Timeless Body",
+        "children": [
+            {
+                "name": "druid",
+                "pages": [67]
+            },
+            {
+                "name": "monk",
+                "pages": [79]
+            }
+        ]
+    },
+    {
+        "name": "Tinker (rock gnome)",
+        "pages": [37]
+    },
+    {
+        "name": "Tiny (size category)",
+        "pages": [191]
+    },
+    {
+        "name": "Tongue of the Sun and Moon (monk)",
+        "pages": [79]
+    },
+    {
+        "name": "tools",
+        "pages": [154]
+    },
+    {
+        "name": "total",
+        "pages": [7]
+    },
+    {
+        "name": "total cover",
+        "pages": [196]
+    },
+    {
+        "name": "Totemic Attunement (barbarian)",
+        "pages": [50]
+    },
+    {
+        "name": "Totem Spirit (barbarian)",
+        "pages": [50]
+    },
+    {
+        "name": "tracking (travel)",
+        "pages": [183]
+    },
+    {
+        "name": "trade goods",
+        "pages": [
+            144,
+            157
+        ]
+    },
+    {
+        "name": "training (downtime activity)",
+        "pages": [187]
+    },
+    {
+        "name": "traits (personality)",
+        "pages": [123],
+        "children": [
+            {
+                "name": "See also specific race trait entries",
+                "pages": [17]
+            }
+        ]
+    },
+    {
+        "name": "Trance (elf)",
+        "pages": [23]
+    },
+    {
+        "name": "Transitive Planes (plane of existence)",
+        "pages": [301]
+    },
+    {
+        "name": "Tranquility (monk)",
+        "pages": [80]
+    },
+    {
+        "name": "transmutation",
+        "pages": [
+            119,
+            203
+        ],
+        "children": [
+            {
+                "name": "school (wizard arcane tradition)",
+                "pages": [119]
+            }
+        ]
+    },
+    {
+        "name": "Transmutation Savant (wizard)",
+        "pages": [119]
+    },
+    {
+        "name": "transmuter",
+        "pages": [119]
+    },
+    {
+        "name": "Transmuter's Stone (wizard)",
+        "pages": [119]
+    },
+    {
+        "name": "traps, finding",
+        "children": [
+            {
+                "name": "Intelligence: Investigation",
+                "pages": [178]
+            },
+            {
+                "name": "Wisdom: Perception",
+                "pages": [178]
+            }
+        ]
+    },
+    {
+        "name": "traps, removing or disabling (thieves' tools)",
+        "pages": [154]
+    },
+    {
+        "name": "travel",
+        "pages": ["181-183"],
+        "children": [
+            {
+                "name": "drawing a map",
+                "pages": [183]
+            },
+            {
+                "name": "encounters",
+                "pages": [183]
+            },
+            {
+                "name": "foraging",
+                "pages": [183]
+            },
+            {
+                "name": "marching order",
+                "pages": [182]
+            },
+            {
+                "name": "navigating",
+                "pages": [183]
+            },
+            {
+                "name": "noticing threats",
+                "pages": ["182-183"]
+            },
+            {
+                "name": "pace",
+                "pages": [181]
+            },
+            {
+                "name": "stealth",
+                "pages": [182]
+            },
+            {
+                "name": "surprise",
+                "pages": [183]
+            },
+            {
+                "name": "tracking",
+                "pages": [183]
+            }
+        ]
+    },
+    {
+        "name": "Trickery domain (cleric divine domain)",
+        "pages": ["62-63"]
+    },
+    {
+        "name": "trinkets",
+        "pages": ["160-161"]
+    },
+    {
+        "name": "Trip Attack maneuver (fighter maneuver)",
+        "pages": [74]
+    },
+    {
+        "name": "truesight",
+        "pages": [185]
+    },
+    {
+        "name": "Turami (human ethnicity)",
+        "pages": [31]
+    },
+    {
+        "name": "turn (time)",
+        "pages": [189]
+    },
+    {
+        "name": "turn, taking yours",
+        "pages": ["189-190"],
+        "children": [
+            {
+                "name": "action",
+                "pages": [
+                    189,
+                    "192-193"
+                ]
+            },
+            {
+                "name": "bonus action",
+                "pages": [189]
+            },
+            {
+                "name": "movement",
+                "pages": [
+                    "181-183",
+                    "190-192"
+                ]
+            }
+        ]
+    },
+    {
+        "name": "Turn the Faithless (Channel Divinity paladin option)",
+        "pages": [87]
+    },
+    {
+        "name": "Turn the Unholy (Channel Divinity paladin option)",
+        "pages": [86]
+    },
+    {
+        "name": "Turn Undead (Channel Divinity cleric option)",
+        "pages": [59]
+    },
+    {
+        "name": "Twinned Spell (sorcerer Metamagic)",
+        "pages": [102]
+    },
+    {
+        "name": "two-handed (weapon property)",
+        "pages": [147]
+    },
+    {
+        "name": "two-weapon fighting",
+        "pages": [195]
+    },
+    {
+        "name": "Two-Weapon Fighting (class feature: fighting style)",
+        "children": [
+            {
+                "name": "fighter",
+                "pages": [72]
+            },
+            {
+                "name": "ranger",
+                "pages": [91]
+            }
+        ]
+    },
+    {
+        "name": "unarmed (melee attack)",
+        "pages": [195]
+    },
+    {
+        "name": "Unarmored Defense",
+        "children": [
+            {
+                "name": "barbarian",
+                "pages": [48]
+            },
+            {
+                "name": "monk",
+                "pages": [78]
+            }
+        ]
+    },
+    {
+        "name": "Unarmored Movement (monk)",
+        "pages": [78]
+    },
+    {
+        "name": "Uncanny Dodge",
+        "children": [
+            {
+                "name": "ranger Superior Hunter's Defense",
+                "pages": [93]
+            },
+            {
+                "name": "rogue class feature",
+                "pages": [96]
+            }
+        ]
+    },
+    {
+        "name": "Undead Thralls (wizard)",
+        "pages": [119]
+    },
+    {
+        "name": "Underdark",
+        "pages": [17]
+    },
+    {
+        "name": "Undying Sentinel (paladin)",
+        "pages": [87]
+    },
+    {
+        "name": "uncommon races",
+        "pages": [33]
+    },
+    {
+        "name": "unconscious",
+        "pages": [
+            197,
+            198
+        ],
+        "children": [
+            {
+                "name": "condition",
+                "pages": [292]
+            }
+        ]
+    },
+    {
+        "name": "Undercommon (language)",
+        "pages": [123]
+    },
+    {
+        "name": "underwater combat",
+        "pages": [198]
+    },
+    {
+        "name": "unseen attackers and targets",
+        "pages": ["194-195"]
+    },
+    {
+        "name": "Upper Planes (plane of existence)",
+        "pages": [302]
+    },
+    {
+        "name": "urchin (background)",
+        "pages": [141]
+    },
+    {
+        "name": "Use an Object action",
+        "pages": [193]
+    },
+    {
+        "name": "Use Magic Device (rogue)",
+        "pages": [97]
+    },
+    {
+        "name": "using this book",
+        "pages": [6]
+    },
+    {
+        "name": "Vanish (ranger)",
+        "pages": [92]
+    },
+    {
+        "name": "vehicle (mounts and vehicles)",
+        "pages": [
+            155,
+            157
+        ]
+    },
+    {
+        "name": "verbal spell component",
+        "pages": [203]
+    },
+    {
+        "name": "versatile (weapon property)",
+        "pages": [147]
+    },
+    {
+        "name": "Versatile Trickster (rogue)",
+        "pages": [98]
+    },
+    {
+        "name": "vision",
+        "pages": [183],
+        "children": [
+            {
+                "name": "blindsight",
+                "pages": [183]
+            },
+            {
+                "name": "darkvision",
+                "pages": [
+                    183,
+                    185
+                ]
+            },
+            {
+                "name": "truesight",
+                "pages": [185]
+            },
+            {
+                "name": "Wisdom: Perception",
+                "pages": [178]
+            }
+        ]
+    },
+    {
+        "name": "Visions of Distant Realms (warlock eldritch invocation)",
+        "pages": [111]
+    },
+    {
+        "name": "Visions of the Past (cleric)",
+        "pages": [60]
+    },
+    {
+        "name": "Voice of the Chain Master (warlock eldritch invocation)",
+        "pages": [111]
+    },
+    {
+        "name": "Volley (ranger Multiattack)",
+        "pages": [93]
+    },
+    {
+        "name": "Vow of Enmity (Channel Divinity paladin option)",
+        "pages": [88]
+    },
+    {
+        "name": "vulnerability (damage vulnerability)",
+        "pages": [197]
+    },
+    {
+        "name": "Wanderer (outlander)",
+        "pages": [136]
+    },
+    {
+        "name": "Warding Flare (cleric)",
+        "pages": [61]
+    },
+    {
+        "name": "War domain (cleric divine domain)",
+        "pages": [63]
+    },
+    {
+        "name": "War God's Blessing (Channel Divinity cleric option)",
+        "pages": [63]
+    },
+    {
+        "name": "warhorse (creature)",
+        "pages": [311],
+        "children": [
+            {
+                "name": "mounts and vehicles",
+                "pages": [
+                    155,
+                    157
+                ]
+            }
+        ]
+    },
+    {
+        "name": "War Magic (fighter)",
+        "pages": [75]
+    },
+    {
+        "name": "War Priest (cleric)",
+        "pages": [63]
+    },
+    {
+        "name": "Water Whip (monk Elemental Discipline)",
+        "pages": [81]
+    },
+    {
+        "name": "warlock",
+        "pages": [
+            45,
+            "105-111"
+        ],
+        "children": [
+            {
+                "name": "quick build",
+                "pages": [106]
+            },
+            {
+                "name": "otherworldly patrons",
+                "pages": ["108-110"]
+            },
+            {
+                "name": "spell list",
+                "pages": [210]
+            }
+        ]
+    },
+    {
+        "name": "Wave of Rolling Earth (monk Elemental Discipline)",
+        "pages": [81]
+    },
+    {
+        "name": "wealth",
+        "pages": ["143-144"],
+        "children": [
+            {
+                "name": "expenses",
+                "pages": [
+                    "157-158",
+                    187
+                ]
+            },
+            {
+                "name": "magic item",
+                "pages": [144]
+            },
+            {
+                "name": "selling treasure",
+                "pages": [144]
+            },
+            {
+                "name": "starting",
+                "pages": [143]
+            }
+        ]
+    },
+    {
+        "name": "weapon",
+        "pages": [
+            14,
+            "146-148",
+            149
+        ],
+        "children": [
+            {
+                "name": "improvised",
+                "pages": ["147-148"]
+            },
+            {
+                "name": "silvered",
+                "pages": [148]
+            },
+            {
+                "name": "table",
+                "pages": [149]
+            }
+        ]
+    },
+    {
+        "name": "Weapon Bond (fighter)",
+        "pages": [75]
+    },
+    {
+        "name": "weapon categories",
+        "pages": [146]
+    },
+    {
+        "name": "weapon proficiency",
+        "pages": [
+            14,
+            146
+        ],
+        "children": [
+            {
+                "name": "See also specific classes: proficiencies",
+                "pages": [45]
+            },
+            {
+                "name": "See also specific race trait entries",
+                "pages": [17]
+            }
+        ]
+    },
+    {
+        "name": "weapon properties",
+        "pages": ["146-147"]
+    },
+    {
+        "name": "Weave, the",
+        "pages": [205]
+    },
+    {
+        "name": "Whirlwind Attack (ranger Multiattack)",
+        "pages": [93]
+    },
+    {
+        "name": "Whispers of the Grave (warlock eldritch invocation)",
+        "pages": [111]
+    },
+    {
+        "name": "Wholeness of Body (monk)",
+        "pages": ["79-80"]
+    },
+    {
+        "name": "wild elf (race; elf: wood elf)",
+        "pages": [24]
+    },
+    {
+        "name": "Wild Magic (sorcerer sorcerous origin)",
+        "pages": [103]
+    },
+    {
+        "name": "Wild Magic Surge (sorcerer)",
+        "pages": [103],
+        "children": [
+            {
+                "name": "table",
+                "pages": [104]
+            }
+        ]
+    },
+    {
+        "name": "Wild Shape (druid)",
+        "pages": ["66-67"]
+    },
+    {
+        "name": "Wisdom",
+        "pages": [
+            12,
+            178
+        ],
+        "children": [
+            {
+                "name": "Animal Handling",
+                "pages": [178]
+            },
+            {
+                "name": "checks",
+                "pages": [178]
+            },
+            {
+                "name": "Insight",
+                "pages": [178]
+            },
+            {
+                "name": "Medicine",
+                "pages": [178]
+            },
+            {
+                "name": "Perception",
+                "pages": [178]
+            },
+            {
+                "name": "Survival",
+                "pages": [178]
+            }
+        ]
+    },
+    {
+        "name": "Witch Sight (warlock eldritch invocation)",
+        "pages": [111]
+    },
+    {
+        "name": "wizard",
+        "pages": [
+            45,
+            "112-119"
+        ],
+        "children": [
+            {
+                "name": "arcane traditions",
+                "pages": ["115-119"]
+            },
+            {
+                "name": "quick build",
+                "pages": [113]
+            },
+            {
+                "name": "spell list",
+                "pages": ["210-211"]
+            }
+        ]
+    },
+    {
+        "name": "wolf, dire (creature)",
+        "pages": [305]
+    },
+    {
+        "name": "wolf (creature)",
+        "pages": [311]
+    },
+    {
+        "name": "wood elf (race; elf)",
+        "pages": [24]
+    },
+    {
+        "name": "world",
+        "pages": [
+            "5-6",
+            8
+        ],
+        "children": [
+            {
+                "name": "planes of existence: Material Plane",
+                "pages": [302]
+            }
+        ]
+    },
+    {
+        "name": "Wraith of the Storm (cleric)",
+        "pages": [62]
+    },
+    {
+        "name": "XP (experience points)",
+        "pages": [15]
+    },
+    {
+        "name": "Ysgard (plane of existence)",
+        "pages": [302]
+    },
+    {
+        "name": "zombie (creature)",
+        "pages": [311]
+    }
+]
