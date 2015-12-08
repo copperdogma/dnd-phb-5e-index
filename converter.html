@@ -1,0 +1,83 @@
+<!DOCTYPE html>
+<html dir="ltr" lang="en-US">
+<head>
+	<meta charset="UTF-8" />
+	<title>5e Index Converter</title>
+	<script src="http://ajax.googleapis.com/ajax/libs/jquery/2.1.3/jquery.min.js"></script>
+	<style>
+		.in-out-set .in-out {
+			display: inline-block;
+			margin-right: 3%;
+			width: 45%;
+		}
+		.in-out-set .in-out textarea {
+			width: 100%;
+		}
+	</style>
+</head>
+<body class="home">
+	<h1>5e Index Converter</h1>
+	<p>This page converts the base D&D 5e Index json file into other formats. See the home page here: <a href="https://github.com/copperdogma/dnd-phb-5e-index">https://github.com/copperdogma/dnd-phb-5e-index</a></p>
+	<ul>
+		<li>7-Dec-2015: Created.</li>
+	</ul>
+	<br/>
+	<section class="in-out-set">
+		<div class="in-out input">
+			<label for="input-json">Input json:</label>
+			<textarea id="input-json" rows="50"></textarea>
+		</div>
+		<div class="in-out output">
+			<label for="output-txt">Output txt:</label>
+			<textarea id="output-txt" rows="50"></textarea>
+		</div>
+		<br/>
+		<input id="process-json-to-txt" type="submit" value="Process json -> txt" style="font-size:150%"/>
+		<br/>
+		<p id="msg"></p>
+		<br/>
+		<br/>
+	</section>
+	<section id="log"></section>
+	<footer>
+		<p>Note that this site has no affiliation with <a href="http://www.wizards.com/dnd/">Wizards of the Coast</a>, owner of Dungeons and Dragons.</p>
+	</footer>
+	<script>
+		'use strict';
+		$(document).ready(function () {
+		
+			function outputEntry(entry,level) {
+				var output = "\t".repeat(level) + entry.name;
+				if (entry.hasOwnProperty("pages")) {
+					$.each(entry.pages,function(index,page) {
+						output += ", " + page;
+					});
+				}
+				output += "\n";
+
+				if (entry.hasOwnProperty("children")) {
+					$.each(entry.children,function(index,child) {
+						output += outputEntry(child,level+1);
+					});
+				}
+
+				return output;
+			}
+		
+			function processJsonToTxt() {
+				var output = "";
+
+				var inputJson = JSON.parse($("#input-json").val());
+				
+				$.each(inputJson,function(index,entry) {
+					output += outputEntry(entry,0);
+				});
+				
+				$("#output-txt").val(output);
+			}
+
+			$("#process-json-to-txt").on('click',function() { processJsonToTxt(); });
+		});
+	</script>
+</body>
+</html>
