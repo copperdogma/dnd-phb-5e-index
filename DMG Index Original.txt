@@ -1,0 +1,717 @@
+aasimar, 286-287
+abilities (NPC), 89, 92
+ability check, 237-238, 245, 263-264
+ability score, 89, 237-240, 242, 263-266
+absent characters, 235-236, 260
+Abyss, 58, 62-63. See also specific layer entries
+Acheron, 58, 66
+action options, 271-272. See also specific actions
+activating a magic item, 141
+advantage, 239-240
+adventure, 16, 25, 99-123, 125-126. See also creating an adventure
+	hooks, 72
+	published, 72
+	seeds, 125-126
+adventurer NPC, 93
+adventuring day, 84
+air quality, 105
+air vehicles, 119
+alien technology, 268
+alternative rewards, 227-232
+altitude, 110
+animism, 12
+antipaladin, 96, 97
+appearance (NPC), 89
+apprentice, 92-93
+Arborea, 58, 60-61
+Arcadia, 58, 66-67
+arctic monsters, 302
+area of effect, 249-250, 251
+armor, magic, 139
+artifacts, 219-227
+	destroying, 221
+	properties, 219-221
+art objects, 133, 134-135
+Astral color pools, 47
+Astral Plane, 43, 46-48
+astral projection, 47
+atonement (paladin), 97
+attack rolls, 235, 238, 239
+attitude (NPC), 244
+attunement, 136-138
+automatic success (variant), 239
+Avernus (Nine Hells), 64
+awarding experience points, 260-261
+background NPC, 94
+backgrounds, 26, 264, 289. See also creating a background
+barred doors, 103
+Beastlands, 58, 60
+becoming lost, 111-112, 117-118
+beginning an adventure, 72, 74, 77, 79
+between adventures, 125-131
+blessings, 227-228
+bond (NPC), 91
+Border Ethereal, 48
+bringing back the dead, 24
+brown mold, 105
+businesses (character), 127, 129
+buying magic items, 135-136
+Bytopia, 58, 59-60
+campaign, 9, 25-41, 126. See also creating a campaign
+	tracking, 126
+Cania (Nine Hells), 65
+Carceri, 58, 63
+challenge rating, 82, 92, 274, 274-275, 279, 306-309
+charges in magic items, 141
+charms, 228
+chases, 252-255
+city, 17
+City of Brass, 55-56
+class, 96-97, 283, 287-289
+	NPC, 96-97
+cleaving, 272
+climax, 72, 75, 77
+climb onto a bigger creature, 271
+clues (mystery), 78
+coastal monsters, 302
+cold, 110
+collapsing roof (trap), 122
+color pools (Astral), 47
+combat, 247-252, 270-273
+combat encounter, 81-85. See also creating an encounter: combat
+command word, 141
+commerce, 19-20
+complex traps, 121-122
+complications, 79-81
+concealed doors, 104
+conditions, 248
+conflict with a sentient item, 216
+connecting adventures, 125-126
+consumable magic items, 141. See also potions; scrolls
+contacts, 93-94
+contests, 238
+continent scale (map), 14
+continuing campaign, 36
+conversation, 244-245
+cosmology, 43-44
+cover, 251, 272
+crafting a magic item, 128-129
+creating a background, 26, 289
+creating a campaign, 14, 25-41, 43-44, 125. See also creating a world
+	character backgrounds, 26
+	characters, 26, 36
+	continuing or episodic, 36
+	ending, 33
+	events, 26-33
+	flavor, 38-41
+	map, 14, 25-26
+	planes of existence, 43-44
+	play style, 34-36
+	story, 125
+	theme, 36
+	time, 32
+creating a currency, 20
+creating a downtime activity, 131
+creating a dungeon, 72-73, 74, 99-105, 290-301. See also creating an encounter; random encounters
+	air quality, 105
+	creator, 99-101
+	ecology, 102
+	encounters, 102
+	factions, 101-102
+	features, 102-105
+	goals, 72-73
+	hazards, 105
+	history, 101
+	inhabitants, 74, 101-102
+	light, 104-105
+	location, 99
+	map, 102-105, 311, 312, 314, 315
+	purpose, 101
+	random, 290-301
+	sounds, 105
+creating a magic item, 214-216, 284-285
+	sentient, 214-216
+creating a monster, 273-283
+	class, 283
+	features, 280-281
+	quickly, 274-275
+	stat block, 275-279
+creating a multiverse, 43-69. See also creating a campaign
+creating an adventure, 5, 71-87, 99-105, 125-126. See also creating a dungeon; creating an encounter; random encounters
+	adventure seeds, 125-126
+	character goals, 72-74, 76
+	climax, 72, 75, 77
+	complications, 79-81
+	dungeon, 99-105
+	elements, 71-72
+	event-based, 75-77
+	foreshadowing, 126
+	intrigue, 78
+	introduction, 72, 74, 77, 79
+	location-based, 72-75
+	maps, 72, 75, 77
+	moral quandaries, 79-80
+	mystery, 77-78
+	NPCs, 74, 75-76, 77, 78
+	side quests, 81
+	structure, 72
+	twists, 80
+	type, 72-79
+	villain, 74, 75-76, 77, 78
+creating an encounter, 81-85, 102
+	character objectives, 81
+	combat, 81-85
+		budget, 83-84
+		difficulty, 82-84, 84-85
+		multi-part, 83
+		party size, 83
+		XP thresholds, 82-83
+	dungeon, 102
+	fun, 85
+creating an NPC, 89-97, 244, 279-283
+	abilities, 89
+	appearance, 89
+	attitude, 244
+	bond, 91
+	challenge rating, 92
+	class, 96-97, 283
+	detailed, 89-91
+	equipment, 92
+	flaw, 91
+	ideal, 90
+	interaction trait, 90
+	loyalty, 93
+	mannerism, 90
+	monster, 91-92
+	occupation and history, 89
+	quickly, 89
+	statistics, 92, 279-283
+	talent, 90
+	useful knowledge, 90
+	villain, 94-97
+creating an organization, 21-22
+creating a plane, 43
+creating a race, 285-287
+creating a religion, 10-13
+	animism, 12
+	dualism, 12
+	forces and philosophies, 12-13
+	loose pantheon, 10-11
+	monotheism, 12
+	mystery cults, 11-12
+	racial, 13
+	tight pantheon, 11
+creating a settlement, 15-20, 112-116
+	as an adventure site, 16
+	atmosphere, 17
+	commerce, 19-20
+	encounters, 114-116
+	government, 17-19
+	map, 114, 313
+	purpose, 15-16
+	random, 112-114
+	size, 16-17
+creating a spell, 283-284
+creating a trap, 120-122
+	complex, 121-122
+	detection, 120-121
+	disabling, 120-121
+	effects, 121
+	trigger, 120
+creating a wilderness, 14, 25-26, 73, 106-112, 116-120. See also creating an encounter; random encounters
+	encounters, 106
+	features, 108-109
+	goals, 73
+	hazards, 109-112
+	map, 14, 25-26, 108-109
+	unusual environments, 116-120
+creating a world, 4, 9-41
+	currency, 19-20
+	magic, 9-10, 23-24
+	map, 14
+	religion, 10-13
+	settlements, 15-20
+critical hits, 248
+currency, 19-20, 133. See also creating a currency
+cursed items, 138-139
+damage, 249, 273
+damaging objects, 246-247
+dark fantasy, 40
+darkness, 104-105
+dart trap, 123
+Dawn War deities, 10
+DC. See Difficulty Class
+Death Dells (Abyss), 63
+Death domain, 96-97
+Deep Ethereal, 48-49
+degrees of failure, 242
+deity, 10-13
+	divine rank, 11
+	pantheon, 10-11
+	racial, 13
+demigod, 11
+demiplane, 68
+Demonweb (Abyss), 62-63
+desecrated ground, 110
+desert monsters, 302
+destroying artifacts, 221
+detecting a hazard, 105
+detecting a trap, 120-121
+diagonal movement, 252
+dice, 235, 236-237
+Difficulty Class, 238-239
+disabling a trap, 120-121
+disadvantage, 239-240
+disarm, 271
+disease, 256-257
+Dis (Nine Hells), 64
+divine rank, 11. See also deity; specific divine rank entries
+Domains of Dread (Shadowfell), 51-52
+doors, 103-104
+downtime activities, 127-131
+dualism, 12
+dungeon, 72-75, 99-105, 290-301. See also creating a dungeon
+Dungeon Master, 4
+echo plane, 43. See also Feywild; Shadowfell
+ecology (dungeon), 102
+eladrin, 286
+Elemental Chaos, 52-53
+Elemental Planes. See Inner Planes
+Elysium, 58, 60
+encounter, 75, 77, 81-87, 102, 106. See also creating an encounter; random encounters
+ending a campaign, 33
+ending an adventure, 72, 75, 77
+Endless Maze (Abyss), 63
+environment, 109-112, 116-120
+epic boons, 230, 231-232
+epic fantasy, 39
+episodic campaign, 36
+equipment (NPC), 92
+ether cyclone, 49
+Ethereal curtains, 48-49
+Ethereal Plane, 43, 48-49
+event-based adventure, 75-77
+events (campaign), 26-33
+Evernight (Shadowfell), 52
+expenses (character), 126-127
+experience points (XP), 82-84, 260-261
+	thresholds, 82-83
+exploration, 242-244
+explosives, 267-268
+extra NPC, 94
+facing, 252
+factions. See organizations; see also creating a dungeon: factions
+falling net (trap), 122
+Far Realm, 68
+favors, 229-230
+fear, 266
+fey crossings, 50
+Feywild magic, 50
+Feywild, 43, 49-50
+firearms, 267, 268
+fire-breathing statue (trap), 122
+flanking, 251
+flavor (campaign), 38-41
+flaw (NPC), 91
+flying, 119-120
+followers, 92-93
+food and water, 111
+foraging, 111
+foreshadowing, 126
+forest monsters, 302-303
+framing events, 79
+frigid water, 110
+fun, 85
+gaining levels, 131, 261
+gaining renown, 22, 129
+Gaping May (Abyss), 62
+garrisons (character), 127
+gate-towns (Outlands), 67
+Ghenna, 58, 63
+gemstones, 133, 134
+Gloaming Court (Feywild), 49
+god. See deity
+government, 17-19
+grassland monsters, 303
+greater deity, 11
+Great Wheel, 44
+green slime, 105
+grenades, 268
+grid, 250-252
+hack and slash, 34
+Hades, 58, 63
+Harpers, 21
+hazards, 105, 109-112
+healing variants, 266-267
+heat, 110
+heroic fantasy, 38
+hero points, 264
+high altitude, 110
+hill monsters, 304
+hirelings, 94
+hit points, 247-248
+hitting cover, 272
+hoard treasure, 133, 137-139
+home base (for characters), 15, 25
+honor, 264-265
+horror, 266
+ice (hazard), 110-lll
+ideal (NPC), 90
+identifying a magic item, 136
+immersive storytelling, 34
+individual treasure, 133, 136
+Infinite Staircase, 58-59
+influence, 78
+initiative, 247, 270-271
+	variants, 270-271
+injuries, 272-273
+Inner Planes, 43, 52-57. See also specific Inner Plane entries
+inspiration, 240-241
+inspirational reading, 316
+interaction trait (NPC), 90
+intrigue, 40, 78
+kingdom scale (map), 14
+knowledge (NPC), 90
+lairs, 108
+land, 229
+languages, 20-21
+larva (Hades), 63
+law,114
+layers, planar, 58
+lesser deity, 11
+letters of recommendation, 228-229
+light, 104-105
+Limbo, 58, 61-62
+line of sight, 251
+linking adventures, 125-126
+location-based adventure, 72-75
+locked doors, 103
+long rest, 267
+loose pantheon, 10-11
+losing the path, 111-112, 117-118
+Lower Planes, 58. See also Outer Planes
+loyalty, 93
+madness, 258-260
+magic, 9-10, 23-24. See also creating a magic item; creating a spell; magic items
+	restrictions, 24
+	schools of, 24
+magic items, 128-129, 129-130, 133, 135-227
+	alphabetical descriptions, 150-214
+	artifacts, 219-227
+	attunement, 136-138
+	buying, 135-136
+	categories, 139-140. See also specific category entries
+	crafting, 128-129, 141
+	cursed, 138-139
+	formulas, 141
+	identifying, 136
+	rarity, 135
+	resilience, 141. See also objects
+	selling, 129-130, 135-136
+	sentient, 214-218
+	special features, 141-143
+	wearing and wielding, 140-141
+Maladomini (Nine Hells), 65
+Malbolge (Nine Hells), 65
+mannerism (NPC), 90
+mapping, 14, 25-26, 72, 75, 77, 102-105, 108-109, 114, 255
+	campaign, 14, 25
+		scale, 14
+	chases, 255
+	dungeon, 102-105
+	samples, 310-315
+	settlement, 114
+	wilderness, 108-109
+mark, 271
+marks of prestige, 228-231
+massive damage, 273
+Material Plane, 43
+Material Plane echoes, 43. See also Feywild; Shadowfell
+Mechanus, 58, 66
+medals, 229
+memory loss (Feywild), 50
+metagame thinking, 235
+milestones, 261
+Minauros (Nine Hells), 64
+miniatures, 250-252
+missing players, 235-236, 260
+mixing potions, 140
+mobs, 250
+modifying a class, 287-289
+modifying a magic item, 284
+modifying a monster, 273-274
+monotheism, 12
+monsters, 71, 74, 82, 91-92, 247-248, 273-283, 302-305, 306-309. See also creating a monster; creating an encounter; creating an NPC; random encounters; specific terrain entries
+	as NPCs, 91-92
+	by challenge rating, 306-309
+	by terrain, 302-305
+	challenge rating, 82
+	hit points, 247-248
+	mobs, 250
+	statistics by challenge rating, 274
+monuments, 108
+morale, 273
+moral quandaries, 79-80
+mountain monsters, 304
+Mount Celestia, 58, 59
+movement, 252
+multiverse, 43-69. See also creating a multiverse
+mystery, 40, 77-78
+mystery cults, 11-12
+mythic fantasy, 39
+navigation, lll-112, 117-118
+Negative Plane, 43
+Nessus (Nine Hells), 66
+net (trap), 122
+new players, 236
+Nine Hells, 58, 64-66. See also specific layer entries
+noble titles, 19, 230
+noncombat challenges, 261
+nonplayer character. See NPC
+noticing other creatures, 243
+NPC, 74, 75-76, 77, 78, 89-97, 244-246, 247-248. See also creating an NPC; villain
+	adventurer, 93
+	hit points, 247-248
+	party members, 92-93
+	roleplaying, 244-246
+oathbreaker (paladin), 97
+objects, 246-247
+occupation (NPC), 89
+ocean, 117-119
+organizations, 21-23. See also creating an organization
+	adventurer, 21-22
+	rank, 22
+	renown, 22-23
+	sample, 21, 23
+other rewards, 227-232
+Outer Planes, 43, 57-67. See also specific Outer Plane entries
+	optional rules, 59
+Outlands, 67-68
+overrun, 272
+owning property, 126-127
+Pandemonium, 58, 62
+pantheon, 10-11, 13
+	loose, 10-11
+	of the Dawn War, 11
+	racial, 13
+	sample, 11
+	tight, 11
+patron, 94
+performing sacred rites, 129
+philosophies, 12-13
+Phlegethos (Nine Hells), 64
+piety, 23
+pit (trap), 122-123
+planar categories, 43
+planar layers, 58
+planar portals, 45, 47, 48-49, 50, 51, 58-59, 67-68
+planar travel, 44-46, 58-59. See also planar portals
+Plane of Air, 53-54
+Plane of Earth, 54
+Plane of Faerie. See Feywild
+Plane of Fire, 55-56
+Plane of Shadow. See Shadowfell
+Plane of Water, 56-57
+planes of existence, 43-69. See also cosmology; specific plane entries
+players, 6
+play style, 34-36
+plot points, 269-270
+poison, 257-258
+poison darts (trap), 123
+poison needle (trap), 123
+portcullises, 104
+Positive Plane, 43
+potions, 139, 140
+precipitation, 110
+proficiency, 239, 263-264
+	background, 264
+	dice, 263
+	personality trait, 264
+property (character), 126-127
+province scale (map), 14
+psychic dissonance (Outer Planes), 59
+psychic wind (Astral), 47-48
+published adventures, 72
+published worlds, 9, 68
+quicksand, 110
+quirk, 90, 143
+	magic item, 143
+	NPC, 90
+race, 285-287
+racial deity, 13
+rain, 110
+raising a stronghold, 128
+random dungeons, 290-301
+random encounters, 85-87, 106, 114-116, 118
+	challenge, 87
+	checking for, 86
+	creating tables, 86-87
+	sample table, 87
+	sea, 118
+	settlement, 114-116
+	triggering, 85
+	underwater, 116
+	wilderness, 106
+random magic items, 144-149
+random settlements, 112-114. See also creating a settlement
+random treasure, 133-135, 136-139, 144-149
+rank (in an organization), 22
+rarity, 135
+razorvine, 110
+reactions, 252
+religion, 10-13. See also creating a religion
+renown, 22-23, 78, 129
+	as piety, 23
+	benefits, 22-23
+	gaining, 22, 129
+	losing, 23
+resolving social interaction, 244-245
+restrictions on magic, 24 rest variants, 267 resurrection, 24
+rings, 139
+River Styx, 58
+rods, 139
+roleplaying, 245-246
+rolling sphere (trap), 123
+rolling the dice, 235, 236-237, 242
+ruins, 108
+rules, 5
+rules discussions, 235
+running a business, 127, 129
+running the game, 235-261
+sailing vessels, 119
+sanity, 265-266
+saving throws, 238, 239
+schools of magic, 24
+scrolls, 139, 140
+	mishaps, 140
+sea, 117-119
+secret doors, 103-104
+seelie fey, 49
+selling magic items, 129-130, 135-136
+sentient magic items, 214-218
+settlements, 15-20, 108, 112-116, 254. See also creating a settlement
+	chases, 254
+shadow crossings, 51
+Shadowfell despair, 52
+Shadowfell, 43, 51-52
+ships, 119
+shipwrecks, 118
+short rest, 84, 267
+shove aside, 272
+side quests, 81
+siege equipment, 255-256
+Sigil, City of Doors, 58, 68
+silver cord, 47
+size, 251
+skills, 239, 263-264
+sky, 119-120
+slippery ice, 110
+small player groups, 236
+snow, 110
+social interaction, 244-246
+	resolving, 244-245
+	roleplaying, 245-246
+sounds, 105
+sowing rumors, 131
+special features for magic items, 141-143
+special rights, 230
+speed factor, 270-271
+spell points, 288-289
+spells in magic items, 141
+sphere of annihilation (trap), 123
+spiderwebs, 105
+spiked pit (trap), 123
+staffs, 140
+starting at higher level, 38
+starting attitude (NPC), 244
+story, 71, 72, 125
+strongholds, 109, 128, 230
+structure (adventure), 72
+stuck doors, 103
+Stygia (Nine Hells), 64-65
+Styx. See River Styx
+subrace, 285-287
+success at a cost, 242
+Summer Court (Feywild), 49
+supernatural gifts, 227-228
+survival, 109-112
+suspects (mystery), 77-78
+swamp monsters, 304
+swashbuckling, 40
+swimming, 116-117
+swords and sorcery, 38-39
+system shock, 273
+table rules, 235-236
+table talk, 235
+tactical map, 250-252
+talent (NPC), 90
+teleportation circles, 24
+temperature, 109-110
+Thanatos (Abyss), 62
+theme (campaign), 36
+thin ice, 111
+tiers of play, 36-38
+tight pantheon, 11
+time, 32-33
+time warp (Feywild), 50
+titan, 11
+titles, 19, 230
+tools, 239
+town, 17
+tracking, 244
+training, 131, 231
+	to gain levels, 131
+Transitive Planes, 43
+traps, 120-123. See also creating a trap
+	sample, 122-123
+travel, 106-108, 109-112, 116-120, 242-244
+	pace, 242-243
+treasure, 133-232
+	tables, 133, 136-139, 144-149
+triggering a trap, 120
+Triple Realm (Abyss), 63
+tumble, 272
+twists (adventure), 80
+Underdark monsters, 305
+underwater, 116-117, 305
+	monsters, 305
+unseelie fey, 49
+Upper Planes, 58. See also Outer Planes
+urban monsters, 305
+using ability scores, 237-240, 242
+using a map, 242
+using magic items, 140-141
+using the dice, 235, 236-237, 242
+vehicles, 119
+vestige, 11
+victim (mystery), 77
+village, 16-17
+villain, 74, 75-76, 77, 78, 94-97
+	class options, 96-97
+	methods, 95
+	scheme, 94
+	weakness, 96
+visibility, 117, 119, 243
+walls, 102
+wandering monsters, 302-305
+wands, 140
+war, 40-41
+water vehicles, 119
+weapons, magic, 140
+wearing and wielding magic items, 140-141
+weather, 109-110, 118-119
+webs, 105
+weirdness, 109
+wilderness, 73, 106-112, 116-120, 254. See also creating a wilderness
+	chases, 254
+wind, 110
+wondrous items, 140
+World Axis, 44
+world building, 9-41, 43-69
+World Tree, the, 44
+wuxia, 41
+XP, 82-84, 260-261
+	thresholds, 82-83
+yellow mold, 105
+Ysgard, 58, 61
+Zhentarim, 23
