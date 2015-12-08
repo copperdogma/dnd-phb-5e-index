@@ -1,5 +1,5 @@
 0 hit points (hit points: dropping to 0), 197-198
-ability check, 7, 12, 173-179, 186
+ability check, 7, 12, 174-179, 186
 	contest, 174
 	group, 175
 	passive, 175
@@ -638,6 +638,7 @@ Fiend, the (warlock otherworldly patron), 109
 fighter, 45, 70-75
 	martial archetypes, 72
 	quick build, 71
+fighting (Attack action), 192
 Fighting Style
 	fighter, 72
 	paladin, 84
