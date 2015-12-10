@@ -324,7 +324,7 @@ frigid water, 110
 fun, 85
 gaining levels, 131, 261
 gaining renown, 22, 129
-Gaping May (Abyss), 62
+Gaping Maw (Abyss), 62
 garrisons (character), 127
 gate-towns (Outlands), 67
 Ghenna, 58, 63
@@ -566,7 +566,9 @@ renown, 22-23, 78, 129
 	gaining, 22, 129
 	losing, 23
 resolving social interaction, 244-245
-restrictions on magic, 24 rest variants, 267 resurrection, 24
+restrictions on magic, 24
+rest variants, 267
+resurrection, 24
 rings, 139
 River Styx, 58
 rods, 139
