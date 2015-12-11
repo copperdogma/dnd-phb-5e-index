@@ -348,6 +348,7 @@ Converting a spell slot to sorcery points (sorcerer Font of Magic), 101
 copper piece (cp) (coinage), 143
 Corona of Light (cleric), 61
 Countercharm (bard), 54
+coupe de grace (attacking paralyzed or unconscious creatures), 291, 292
 cover, 196
 crafting (downtime activity), 187
 crawling (movement), 182, 191
@@ -357,7 +358,7 @@ creating spell slots (sorcerer Font of Magic), 101
 creature statistics, 304-311
 criminal (background), 129-130
 Criminal Contact (criminal), 129
-critical hit, 197
+critical hit, 196
 crocodile (creature), 305
 cube (area of effect), 204
 Cunning Action (rogue), 96
