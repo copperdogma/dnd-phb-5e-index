@@ -1,0 +1,5451 @@
+[
+  {
+    "name": "aasimar",
+    "pages": [
+      "286-287"
+    ]
+  },
+  {
+    "name": "abilities (NPC)",
+    "pages": [
+      "89",
+      "92"
+    ]
+  },
+  {
+    "name": "ability check",
+    "pages": [
+      "237-238",
+      "245",
+      "263-264"
+    ]
+  },
+  {
+    "name": "ability score",
+    "pages": [
+      "89",
+      "237-240",
+      "242",
+      "263-266"
+    ]
+  },
+  {
+    "name": "absent characters",
+    "pages": [
+      "235-236",
+      "260"
+    ]
+  },
+  {
+    "name": "Abyss",
+    "children": [
+      {
+        "name": "Death Dells",
+        "pages": [
+          "63"
+        ]
+      },
+      {
+        "name": "Demonweb, The",
+        "pages": [
+          "62"
+        ]
+      },
+      {
+        "name": "Endless Maze, The",
+        "pages": [
+          "63"
+        ]
+      },
+      {
+        "name": "Gaping Maw, The",
+        "pages": [
+          "62"
+        ]
+      },
+      {
+        "name": "Thanatos",
+        "pages": [
+          "62"
+        ]
+      },
+      {
+        "name": "Triple Realm, The",
+        "pages": [
+          "63"
+        ]
+      }
+    ],
+    "pages": [
+      "58",
+      "62-63"
+    ]
+  },
+  {
+    "name": "Acheron (Outer Plane)",
+    "pages": [
+      "58",
+      "66"
+    ]
+  },
+  {
+    "name": "action options",
+    "children": [
+      {
+        "name": "climb onto a bigger creature",
+        "pages": [
+          "271"
+        ]
+      },
+      {
+        "name": "disarm",
+        "pages": [
+          "271"
+        ]
+      },
+      {
+        "name": "mark",
+        "pages": [
+          "271"
+        ]
+      },
+      {
+        "name": "overrun",
+        "pages": [
+          "272"
+        ]
+      },
+      {
+        "name": "shove aside",
+        "pages": [
+          "272"
+        ]
+      },
+      {
+        "name": "tumble",
+        "pages": [
+          "272"
+        ]
+      }
+    ],
+    "pages": [
+      "271-272"
+    ]
+  },
+  {
+    "name": "activating a magic item",
+    "pages": [
+      "141"
+    ]
+  },
+  {
+    "name": "advantage",
+    "pages": [
+      "239-240"
+    ]
+  },
+  {
+    "name": "adventure",
+    "children": [
+      {
+        "name": "creating",
+        "pages": [
+          "5",
+          "71-87",
+          "99-105",
+          "125-126"
+        ]
+      },
+      {
+        "name": "hooks",
+        "pages": [
+          "72"
+        ]
+      },
+      {
+        "name": "published",
+        "pages": [
+          "72"
+        ]
+      },
+      {
+        "name": "seeds",
+        "pages": [
+          "125-126"
+        ]
+      }
+    ],
+    "pages": [
+      "16",
+      "25",
+      "99-123",
+      "125-126"
+    ]
+  },
+  {
+    "name": "adventurer NPC",
+    "pages": [
+      "93"
+    ]
+  },
+  {
+    "name": "adventuring day",
+    "pages": [
+      "84"
+    ]
+  },
+  {
+    "name": "air quality",
+    "pages": [
+      "105"
+    ]
+  },
+  {
+    "name": "air vehicles",
+    "pages": [
+      "119"
+    ]
+  },
+  {
+    "name": "alien technology",
+    "pages": [
+      "268"
+    ]
+  },
+  {
+    "name": "alternative rewards",
+    "pages": [
+      "227-232"
+    ]
+  },
+  {
+    "name": "altitude",
+    "pages": [
+      "110"
+    ]
+  },
+  {
+    "name": "animism",
+    "pages": [
+      "12"
+    ]
+  },
+  {
+    "name": "antipaladin",
+    "pages": [
+      "96",
+      "97"
+    ]
+  },
+  {
+    "name": "appearance (NPC)",
+    "pages": [
+      "89"
+    ]
+  },
+  {
+    "name": "apprentice",
+    "pages": [
+      "92-93"
+    ]
+  },
+  {
+    "name": "Arborea (Outer Plane)",
+    "pages": [
+      "58",
+      "60-61"
+    ]
+  },
+  {
+    "name": "Arcadia (Outer Plane)",
+    "pages": [
+      "58",
+      "66-67"
+    ]
+  },
+  {
+    "name": "arctic monsters",
+    "pages": [
+      "302"
+    ]
+  },
+  {
+    "name": "area of effect",
+    "pages": [
+      "249-250",
+      "251"
+    ]
+  },
+  {
+    "name": "armor, magic",
+    "pages": [
+      "139"
+    ]
+  },
+  {
+    "name": "artifacts",
+    "children": [
+      {
+        "name": "destroying",
+        "pages": [
+          "221"
+        ]
+      },
+      {
+        "name": "properties",
+        "pages": [
+          "219-221"
+        ]
+      }
+    ],
+    "pages": [
+      "219-227"
+    ]
+  },
+  {
+    "name": "art objects",
+    "pages": [
+      "133",
+      "134-135"
+    ]
+  },
+  {
+    "name": "Astral color pools",
+    "pages": [
+      "47"
+    ]
+  },
+  {
+    "name": "Astral Plane",
+    "pages": [
+      "43",
+      "46-48"
+    ]
+  },
+  {
+    "name": "astral projection",
+    "pages": [
+      "47"
+    ]
+  },
+  {
+    "name": "atonement (paladin)",
+    "pages": [
+      "97"
+    ]
+  },
+  {
+    "name": "attack rolls",
+    "pages": [
+      "235",
+      "238",
+      "239"
+    ]
+  },
+  {
+    "name": "attitude (NPC)",
+    "pages": [
+      "244"
+    ]
+  },
+  {
+    "name": "attunement",
+    "pages": [
+      "136-138"
+    ]
+  },
+  {
+    "name": "automatic success (variant)",
+    "pages": [
+      "239"
+    ]
+  },
+  {
+    "name": "Avernus (Nine Hells)",
+    "pages": [
+      "64"
+    ]
+  },
+  {
+    "name": "awarding experience points",
+    "pages": [
+      "260-261"
+    ]
+  },
+  {
+    "name": "background NPC",
+    "pages": [
+      "94"
+    ]
+  },
+  {
+    "name": "backgrounds",
+    "children": [
+      {
+        "name": "creating",
+        "pages": [
+          "26",
+          "289"
+        ]
+      }
+    ],
+    "pages": [
+      "26",
+      "264",
+      "289"
+    ]
+  },
+  {
+    "name": "barred doors",
+    "pages": [
+      "103"
+    ]
+  },
+  {
+    "name": "Beastlands, The (Outer Plane)",
+    "pages": [
+      "58",
+      "60"
+    ]
+  },
+  {
+    "name": "becoming lost",
+    "pages": [
+      "111-112",
+      "117-118"
+    ]
+  },
+  {
+    "name": "beginning an adventure",
+    "pages": [
+      "72",
+      "74",
+      "77",
+      "79"
+    ]
+  },
+  {
+    "name": "between adventures",
+    "pages": [
+      "125-131"
+    ]
+  },
+  {
+    "name": "blessings",
+    "pages": [
+      "227-228"
+    ]
+  },
+  {
+    "name": "bond (NPC)",
+    "pages": [
+      "91"
+    ]
+  },
+  {
+    "name": "Border Ethereal",
+    "pages": [
+      "48"
+    ]
+  },
+  {
+    "name": "bringing back the dead",
+    "pages": [
+      "24"
+    ]
+  },
+  {
+    "name": "brown mold",
+    "pages": [
+      "105"
+    ]
+  },
+  {
+    "name": "businesses (character)",
+    "pages": [
+      "127",
+      "129"
+    ]
+  },
+  {
+    "name": "buying magic items",
+    "pages": [
+      "135-136"
+    ]
+  },
+  {
+    "name": "Bytopia (Outer Plane)",
+    "pages": [
+      "58",
+      "59-60"
+    ]
+  },
+  {
+    "name": "campaign",
+    "children": [
+      {
+        "name": "creating",
+        "pages": [
+          "14",
+          "25-41",
+          "43-44",
+          "125"
+        ]
+      },
+      {
+        "name": "tracking",
+        "pages": [
+          "126"
+        ]
+      }
+    ],
+    "pages": [
+      "9",
+      "25-41",
+      "126"
+    ]
+  },
+  {
+    "name": "Cania (Nine Hells)",
+    "pages": [
+      "65"
+    ]
+  },
+  {
+    "name": "Carceri (Outer Plane)",
+    "pages": [
+      "58",
+      "63"
+    ]
+  },
+  {
+    "name": "challenge rating",
+    "pages": [
+      "82",
+      "92",
+      "274",
+      "274-275",
+      "279",
+      "306-309"
+    ]
+  },
+  {
+    "name": "charges in magic items",
+    "pages": [
+      "141"
+    ]
+  },
+  {
+    "name": "charms",
+    "pages": [
+      "228"
+    ]
+  },
+  {
+    "name": "chases",
+    "pages": [
+      "252-255"
+    ]
+  },
+  {
+    "name": "city",
+    "pages": [
+      "17"
+    ]
+  },
+  {
+    "name": "City of Brass",
+    "pages": [
+      "55-56"
+    ]
+  },
+  {
+    "name": "class",
+    "children": [
+      {
+        "name": "NPC",
+        "pages": [
+          "96-97"
+        ]
+      }
+    ],
+    "pages": [
+      "96-97",
+      "283",
+      "287-289"
+    ]
+  },
+  {
+    "name": "cleaving",
+    "pages": [
+      "272"
+    ]
+  },
+  {
+    "name": "climax",
+    "pages": [
+      "72",
+      "75",
+      "77"
+    ]
+  },
+  {
+    "name": "climb onto a bigger creature",
+    "pages": [
+      "271"
+    ]
+  },
+  {
+    "name": "clues (mystery)",
+    "pages": [
+      "78"
+    ]
+  },
+  {
+    "name": "coastal monsters",
+    "pages": [
+      "302"
+    ]
+  },
+  {
+    "name": "cold",
+    "pages": [
+      "110"
+    ]
+  },
+  {
+    "name": "collapsing roof (trap)",
+    "pages": [
+      "122"
+    ]
+  },
+  {
+    "name": "color pools (Astral)",
+    "pages": [
+      "47"
+    ]
+  },
+  {
+    "name": "combat",
+    "pages": [
+      "247-252",
+      "270-273"
+    ]
+  },
+  {
+    "name": "combat encounter",
+    "children": [
+      {
+        "name": "creating",
+        "pages": [
+          "81-85"
+        ]
+      }
+    ],
+    "pages": [
+      "81-85"
+    ]
+  },
+  {
+    "name": "command word",
+    "pages": [
+      "141"
+    ]
+  },
+  {
+    "name": "commerce",
+    "pages": [
+      "19-20"
+    ]
+  },
+  {
+    "name": "complex traps",
+    "pages": [
+      "121-122"
+    ]
+  },
+  {
+    "name": "complications",
+    "pages": [
+      "79-81"
+    ]
+  },
+  {
+    "name": "concealed doors",
+    "pages": [
+      "104"
+    ]
+  },
+  {
+    "name": "conditions",
+    "pages": [
+      "248"
+    ]
+  },
+  {
+    "name": "conflict with a sentient item",
+    "pages": [
+      "216"
+    ]
+  },
+  {
+    "name": "connecting adventures",
+    "pages": [
+      "125-126"
+    ]
+  },
+  {
+    "name": "consumable magic items",
+    "children": [
+      {
+        "name": "potions",
+        "pages": [
+          "139",
+          "140"
+        ]
+      },
+      {
+        "name": "scrolls",
+        "pages": [
+          "139",
+          "140"
+        ]
+      }
+    ],
+    "pages": [
+      "141"
+    ]
+  },
+  {
+    "name": "contacts",
+    "pages": [
+      "93-94"
+    ]
+  },
+  {
+    "name": "contests",
+    "pages": [
+      "238"
+    ]
+  },
+  {
+    "name": "continent scale (map)",
+    "pages": [
+      "14"
+    ]
+  },
+  {
+    "name": "continuing campaign",
+    "pages": [
+      "36"
+    ]
+  },
+  {
+    "name": "conversation",
+    "pages": [
+      "244-245"
+    ]
+  },
+  {
+    "name": "cosmology",
+    "pages": [
+      "43-44"
+    ]
+  },
+  {
+    "name": "cover",
+    "pages": [
+      "251",
+      "272"
+    ]
+  },
+  {
+    "name": "crafting a magic item",
+    "pages": [
+      "128-129"
+    ]
+  },
+  {
+    "name": "creating a background",
+    "pages": [
+      "26",
+      "289"
+    ]
+  },
+  {
+    "name": "creating a campaign",
+    "children": [
+      {
+        "name": "character backgrounds",
+        "pages": [
+          "26"
+        ]
+      },
+      {
+        "name": "characters",
+        "pages": [
+          "26",
+          "36"
+        ]
+      },
+      {
+        "name": "continuing or episodic",
+        "pages": [
+          "36"
+        ]
+      },
+      {
+        "name": "creating a world",
+        "pages": [
+          "4",
+          "9-41"
+        ]
+      },
+      {
+        "name": "ending",
+        "pages": [
+          "33"
+        ]
+      },
+      {
+        "name": "events",
+        "pages": [
+          "26-33"
+        ]
+      },
+      {
+        "name": "flavor",
+        "pages": [
+          "38-41"
+        ]
+      },
+      {
+        "name": "map",
+        "pages": [
+          "14",
+          "25-26"
+        ]
+      },
+      {
+        "name": "planes of existence",
+        "pages": [
+          "43-44"
+        ]
+      },
+      {
+        "name": "play style",
+        "pages": [
+          "34-36"
+        ]
+      },
+      {
+        "name": "story",
+        "pages": [
+          "125"
+        ]
+      },
+      {
+        "name": "theme",
+        "pages": [
+          "36"
+        ]
+      },
+      {
+        "name": "time",
+        "pages": [
+          "32"
+        ]
+      }
+    ],
+    "pages": [
+      "14",
+      "25-41",
+      "43-44",
+      "125"
+    ]
+  },
+  {
+    "name": "creating a currency",
+    "pages": [
+      "20"
+    ]
+  },
+  {
+    "name": "creating a downtime activity",
+    "pages": [
+      "131"
+    ]
+  },
+  {
+    "name": "creating a dungeon",
+    "children": [
+      {
+        "name": "air quality",
+        "pages": [
+          "105"
+        ]
+      },
+      {
+        "name": "creating an encounter",
+        "pages": [
+          "81-85",
+          "102"
+        ]
+      },
+      {
+        "name": "creator",
+        "pages": [
+          "99-101"
+        ]
+      },
+      {
+        "name": "ecology",
+        "pages": [
+          "102"
+        ]
+      },
+      {
+        "name": "encounters",
+        "pages": [
+          "102"
+        ]
+      },
+      {
+        "name": "factions",
+        "pages": [
+          "101-102"
+        ]
+      },
+      {
+        "name": "features",
+        "pages": [
+          "102-105"
+        ]
+      },
+      {
+        "name": "goals",
+        "pages": [
+          "72-73"
+        ]
+      },
+      {
+        "name": "hazards",
+        "pages": [
+          "105"
+        ]
+      },
+      {
+        "name": "history",
+        "pages": [
+          "101"
+        ]
+      },
+      {
+        "name": "inhabitants",
+        "pages": [
+          "74",
+          "101-102"
+        ]
+      },
+      {
+        "name": "light",
+        "pages": [
+          "104-105"
+        ]
+      },
+      {
+        "name": "location",
+        "pages": [
+          "99"
+        ]
+      },
+      {
+        "name": "map",
+        "pages": [
+          "102-105",
+          "311",
+          "312",
+          "314",
+          "315"
+        ]
+      },
+      {
+        "name": "purpose",
+        "pages": [
+          "101"
+        ]
+      },
+      {
+        "name": "random",
+        "pages": [
+          "290-301"
+        ]
+      },
+      {
+        "name": "random encounters",
+        "pages": [
+          "85-87",
+          "106",
+          "114-116",
+          "118"
+        ]
+      },
+      {
+        "name": "sounds",
+        "pages": [
+          "105"
+        ]
+      }
+    ],
+    "pages": [
+      "72-73",
+      "74",
+      "99-105",
+      "290-301"
+    ]
+  },
+  {
+    "name": "creating a magic item",
+    "children": [
+      {
+        "name": "sentient",
+        "pages": [
+          "214-216"
+        ]
+      }
+    ],
+    "pages": [
+      "214-216",
+      "284-285"
+    ]
+  },
+  {
+    "name": "creating a monster",
+    "children": [
+      {
+        "name": "class",
+        "pages": [
+          "283"
+        ]
+      },
+      {
+        "name": "features",
+        "pages": [
+          "280-281"
+        ]
+      },
+      {
+        "name": "quickly",
+        "pages": [
+          "274-275"
+        ]
+      },
+      {
+        "name": "stat block",
+        "pages": [
+          "275-279"
+        ]
+      }
+    ],
+    "pages": [
+      "273-283"
+    ]
+  },
+  {
+    "name": "creating a multiverse",
+    "children": [
+      {
+        "name": "creating a campaign",
+        "pages": [
+          "14",
+          "25-41",
+          "43-44",
+          "125"
+        ]
+      }
+    ],
+    "pages": [
+      "43-69"
+    ]
+  },
+  {
+    "name": "creating an adventure",
+    "children": [
+      {
+        "name": "adventure seeds",
+        "pages": [
+          "125-126"
+        ]
+      },
+      {
+        "name": "character goals",
+        "pages": [
+          "72-74",
+          "76"
+        ]
+      },
+      {
+        "name": "climax",
+        "pages": [
+          "72",
+          "75",
+          "77"
+        ]
+      },
+      {
+        "name": "complications",
+        "pages": [
+          "79-81"
+        ]
+      },
+      {
+        "name": "creating a dungeon",
+        "pages": [
+          "72-73",
+          "74",
+          "99-105",
+          "290-301"
+        ]
+      },
+      {
+        "name": "creating an encounter",
+        "pages": [
+          "81-85",
+          "102"
+        ]
+      },
+      {
+        "name": "dungeon",
+        "pages": [
+          "99-105"
+        ]
+      },
+      {
+        "name": "elements",
+        "pages": [
+          "71-72"
+        ]
+      },
+      {
+        "name": "event-based",
+        "pages": [
+          "75-77"
+        ]
+      },
+      {
+        "name": "foreshadowing",
+        "pages": [
+          "126"
+        ]
+      },
+      {
+        "name": "intrigue",
+        "pages": [
+          "78"
+        ]
+      },
+      {
+        "name": "introduction",
+        "pages": [
+          "72",
+          "74",
+          "77",
+          "79"
+        ]
+      },
+      {
+        "name": "location-based",
+        "pages": [
+          "72-75"
+        ]
+      },
+      {
+        "name": "maps",
+        "pages": [
+          "72",
+          "75",
+          "77"
+        ]
+      },
+      {
+        "name": "moral quandaries",
+        "pages": [
+          "79-80"
+        ]
+      },
+      {
+        "name": "mystery",
+        "pages": [
+          "77-78"
+        ]
+      },
+      {
+        "name": "NPCs",
+        "pages": [
+          "74",
+          "75-76",
+          "77",
+          "78"
+        ]
+      },
+      {
+        "name": "random encounters",
+        "pages": [
+          "85-87",
+          "106",
+          "114-116",
+          "118"
+        ]
+      },
+      {
+        "name": "side quests",
+        "pages": [
+          "81"
+        ]
+      },
+      {
+        "name": "structure",
+        "pages": [
+          "72"
+        ]
+      },
+      {
+        "name": "twists",
+        "pages": [
+          "80"
+        ]
+      },
+      {
+        "name": "type",
+        "pages": [
+          "72-79"
+        ]
+      },
+      {
+        "name": "villain",
+        "pages": [
+          "74",
+          "75-76",
+          "77",
+          "78"
+        ]
+      }
+    ],
+    "pages": [
+      "5",
+      "71-87",
+      "99-105",
+      "125-126"
+    ]
+  },
+  {
+    "name": "creating an encounter",
+    "children": [
+      {
+        "name": "character objectives",
+        "pages": [
+          "81"
+        ]
+      },
+      {
+        "name": "combat",
+        "pages": [
+          "81-85"
+        ]
+      },
+      {
+        "name": "budget",
+        "pages": [
+          "83-84"
+        ]
+      },
+      {
+        "name": "difficulty",
+        "pages": [
+          "82-84",
+          "84-85"
+        ]
+      },
+      {
+        "name": "multi-part",
+        "pages": [
+          "83"
+        ]
+      },
+      {
+        "name": "party size",
+        "pages": [
+          "83"
+        ]
+      },
+      {
+        "name": "XP thresholds",
+        "pages": [
+          "82-83"
+        ]
+      },
+      {
+        "name": "dungeon",
+        "pages": [
+          "102"
+        ]
+      },
+      {
+        "name": "fun",
+        "pages": [
+          "85"
+        ]
+      }
+    ],
+    "pages": [
+      "81-85",
+      "102"
+    ]
+  },
+  {
+    "name": "creating an NPC",
+    "children": [
+      {
+        "name": "abilities",
+        "pages": [
+          "89"
+        ]
+      },
+      {
+        "name": "appearance",
+        "pages": [
+          "89"
+        ]
+      },
+      {
+        "name": "attitude",
+        "pages": [
+          "244"
+        ]
+      },
+      {
+        "name": "bond",
+        "pages": [
+          "91"
+        ]
+      },
+      {
+        "name": "challenge rating",
+        "pages": [
+          "92"
+        ]
+      },
+      {
+        "name": "class",
+        "pages": [
+          "96-97",
+          "283"
+        ]
+      },
+      {
+        "name": "detailed",
+        "pages": [
+          "89-91"
+        ]
+      },
+      {
+        "name": "equipment",
+        "pages": [
+          "92"
+        ]
+      },
+      {
+        "name": "flaw",
+        "pages": [
+          "91"
+        ]
+      },
+      {
+        "name": "ideal",
+        "pages": [
+          "90"
+        ]
+      },
+      {
+        "name": "interaction trait",
+        "pages": [
+          "90"
+        ]
+      },
+      {
+        "name": "loyalty",
+        "pages": [
+          "93"
+        ]
+      },
+      {
+        "name": "mannerism",
+        "pages": [
+          "90"
+        ]
+      },
+      {
+        "name": "monster",
+        "pages": [
+          "91-92"
+        ]
+      },
+      {
+        "name": "occupation and history",
+        "pages": [
+          "89"
+        ]
+      },
+      {
+        "name": "quickly",
+        "pages": [
+          "89"
+        ]
+      },
+      {
+        "name": "statistics",
+        "pages": [
+          "92",
+          "279-283"
+        ]
+      },
+      {
+        "name": "talent",
+        "pages": [
+          "90"
+        ]
+      },
+      {
+        "name": "useful knowledge",
+        "pages": [
+          "90"
+        ]
+      },
+      {
+        "name": "villain",
+        "pages": [
+          "94-97"
+        ]
+      }
+    ],
+    "pages": [
+      "89-97",
+      "244",
+      "279-283"
+    ]
+  },
+  {
+    "name": "creating an organization",
+    "pages": [
+      "21-22"
+    ]
+  },
+  {
+    "name": "creating a plane",
+    "pages": [
+      "43"
+    ]
+  },
+  {
+    "name": "creating a race",
+    "pages": [
+      "285-287"
+    ]
+  },
+  {
+    "name": "creating a religion",
+    "children": [
+      {
+        "name": "animism",
+        "pages": [
+          "12"
+        ]
+      },
+      {
+        "name": "dualism",
+        "pages": [
+          "12"
+        ]
+      },
+      {
+        "name": "forces and philosophies",
+        "pages": [
+          "12-13"
+        ]
+      },
+      {
+        "name": "loose pantheon",
+        "pages": [
+          "10-11"
+        ]
+      },
+      {
+        "name": "monotheism",
+        "pages": [
+          "12"
+        ]
+      },
+      {
+        "name": "mystery cults",
+        "pages": [
+          "11-12"
+        ]
+      },
+      {
+        "name": "racial",
+        "pages": [
+          "13"
+        ]
+      },
+      {
+        "name": "tight pantheon",
+        "pages": [
+          "11"
+        ]
+      }
+    ],
+    "pages": [
+      "10-13"
+    ]
+  },
+  {
+    "name": "creating a settlement",
+    "children": [
+      {
+        "name": "as an adventure site",
+        "pages": [
+          "16"
+        ]
+      },
+      {
+        "name": "atmosphere",
+        "pages": [
+          "17"
+        ]
+      },
+      {
+        "name": "commerce",
+        "pages": [
+          "19-20"
+        ]
+      },
+      {
+        "name": "encounters",
+        "pages": [
+          "114-116"
+        ]
+      },
+      {
+        "name": "government",
+        "pages": [
+          "17-19"
+        ]
+      },
+      {
+        "name": "map",
+        "pages": [
+          "114",
+          "313"
+        ]
+      },
+      {
+        "name": "purpose",
+        "pages": [
+          "15-16"
+        ]
+      },
+      {
+        "name": "random",
+        "pages": [
+          "112-114"
+        ]
+      },
+      {
+        "name": "size",
+        "pages": [
+          "16-17"
+        ]
+      }
+    ],
+    "pages": [
+      "15-20",
+      "112-116"
+    ]
+  },
+  {
+    "name": "creating a spell",
+    "pages": [
+      "283-284"
+    ]
+  },
+  {
+    "name": "creating a trap",
+    "children": [
+      {
+        "name": "complex",
+        "pages": [
+          "121-122"
+        ]
+      },
+      {
+        "name": "detection",
+        "pages": [
+          "120-121"
+        ]
+      },
+      {
+        "name": "disabling",
+        "pages": [
+          "120-121"
+        ]
+      },
+      {
+        "name": "effects",
+        "pages": [
+          "121"
+        ]
+      },
+      {
+        "name": "trigger",
+        "pages": [
+          "120"
+        ]
+      }
+    ],
+    "pages": [
+      "120-122"
+    ]
+  },
+  {
+    "name": "creating a wilderness",
+    "children": [
+      {
+        "name": "creating an encounter",
+        "pages": [
+          "81-85",
+          "102"
+        ]
+      },
+      {
+        "name": "encounters",
+        "pages": [
+          "106"
+        ]
+      },
+      {
+        "name": "features",
+        "pages": [
+          "108-109"
+        ]
+      },
+      {
+        "name": "goals",
+        "pages": [
+          "73"
+        ]
+      },
+      {
+        "name": "hazards",
+        "pages": [
+          "109-112"
+        ]
+      },
+      {
+        "name": "map",
+        "pages": [
+          "14",
+          "25-26",
+          "108-109"
+        ]
+      },
+      {
+        "name": "random encounters",
+        "pages": [
+          "85-87",
+          "106",
+          "114-116",
+          "118"
+        ]
+      },
+      {
+        "name": "unusual environments",
+        "pages": [
+          "116-120"
+        ]
+      }
+    ],
+    "pages": [
+      "14",
+      "25-26",
+      "73",
+      "106-112",
+      "116-120"
+    ]
+  },
+  {
+    "name": "creating a world",
+    "children": [
+      {
+        "name": "currency",
+        "pages": [
+          "19-20"
+        ]
+      },
+      {
+        "name": "magic",
+        "pages": [
+          "9-10",
+          "23-24"
+        ]
+      },
+      {
+        "name": "map",
+        "pages": [
+          "14"
+        ]
+      },
+      {
+        "name": "religion",
+        "pages": [
+          "10-13"
+        ]
+      },
+      {
+        "name": "settlements",
+        "pages": [
+          "15-20"
+        ]
+      }
+    ],
+    "pages": [
+      "4",
+      "9-41"
+    ]
+  },
+  {
+    "name": "critical hits",
+    "pages": [
+      "248"
+    ]
+  },
+  {
+    "name": "currency",
+    "children": [
+      {
+        "name": "creating a",
+        "pages": [
+          "20"
+        ]
+      }
+    ],
+    "pages": [
+      "19-20",
+      "133"
+    ]
+  },
+  {
+    "name": "cursed items",
+    "pages": [
+      "138-139"
+    ]
+  },
+  {
+    "name": "damage",
+    "pages": [
+      "249",
+      "273"
+    ]
+  },
+  {
+    "name": "damaging objects",
+    "pages": [
+      "246-247"
+    ]
+  },
+  {
+    "name": "dark fantasy",
+    "pages": [
+      "40"
+    ]
+  },
+  {
+    "name": "darkness",
+    "pages": [
+      "104-105"
+    ]
+  },
+  {
+    "name": "dart trap",
+    "pages": [
+      "123"
+    ]
+  },
+  {
+    "name": "Dawn War deities",
+    "pages": [
+      "10"
+    ]
+  },
+  {
+    "name": "DC (Difficulty Class)",
+    "pages": [
+      "238-239"
+    ]
+  },
+  {
+    "name": "Death Dells (Abyssal plane)",
+    "pages": [
+      "63"
+    ]
+  },
+  {
+    "name": "Death domain",
+    "pages": [
+      "96-97"
+    ]
+  },
+  {
+    "name": "Deep Ethereal",
+    "pages": [
+      "48-49"
+    ]
+  },
+  {
+    "name": "degrees of failure",
+    "pages": [
+      "242"
+    ]
+  },
+  {
+    "name": "deity",
+    "children": [
+      {
+        "name": "divine rank",
+        "pages": [
+          "11"
+        ]
+      },
+      {
+        "name": "pantheon",
+        "pages": [
+          "10-11"
+        ]
+      },
+      {
+        "name": "racial",
+        "pages": [
+          "13"
+        ]
+      }
+    ],
+    "pages": [
+      "10-13"
+    ]
+  },
+  {
+    "name": "demigod",
+    "pages": [
+      "11"
+    ]
+  },
+  {
+    "name": "demiplane",
+    "pages": [
+      "68"
+    ]
+  },
+  {
+    "name": "Demonweb, The (Abyssal plane)",
+    "pages": [
+      "62-63"
+    ]
+  },
+  {
+    "name": "desecrated ground",
+    "pages": [
+      "110"
+    ]
+  },
+  {
+    "name": "desert monsters",
+    "pages": [
+      "302"
+    ]
+  },
+  {
+    "name": "destroying artifacts",
+    "pages": [
+      "221"
+    ]
+  },
+  {
+    "name": "detecting a hazard",
+    "pages": [
+      "105"
+    ]
+  },
+  {
+    "name": "detecting a trap",
+    "pages": [
+      "120-121"
+    ]
+  },
+  {
+    "name": "diagonal movement",
+    "pages": [
+      "252"
+    ]
+  },
+  {
+    "name": "dice",
+    "pages": [
+      "235",
+      "236-237"
+    ]
+  },
+  {
+    "name": "Difficulty Class (DC)",
+    "pages": [
+      "238-239"
+    ]
+  },
+  {
+    "name": "disabling a trap",
+    "pages": [
+      "120-121"
+    ]
+  },
+  {
+    "name": "disadvantage",
+    "pages": [
+      "239-240"
+    ]
+  },
+  {
+    "name": "disarm",
+    "pages": [
+      "271"
+    ]
+  },
+  {
+    "name": "disease",
+    "pages": [
+      "256-257"
+    ]
+  },
+  {
+    "name": "Dis (Nine Hells)",
+    "pages": [
+      "64"
+    ]
+  },
+  {
+    "name": "divine rank",
+    "children": [
+      {
+        "name": "deity",
+        "pages": [
+          "10-13"
+        ]
+      },
+      {
+        "name": "Lesser deities",
+        "pages": [
+          "11"
+        ]
+      },
+      {
+        "name": "Greater deities",
+        "pages": [
+          "11"
+        ]
+      },
+      {
+        "name": "Quasi-deities",
+        "pages": [
+          "11"
+        ]
+      }
+    ],
+    "pages": [
+      "11"
+    ]
+  },
+  {
+    "name": "Domains of Dread (Shadowfell)",
+    "pages": [
+      "51-52"
+    ]
+  },
+  {
+    "name": "doors",
+    "pages": [
+      "103-104"
+    ]
+  },
+  {
+    "name": "downtime activities",
+    "pages": [
+      "127-131"
+    ]
+  },
+  {
+    "name": "dualism",
+    "pages": [
+      "12"
+    ]
+  },
+  {
+    "name": "dungeon",
+    "children": [
+      {
+        "name": "creating",
+        "pages": [
+          "72-73",
+          "74",
+          "99-105",
+          "290-301"
+        ]
+      }
+    ],
+    "pages": [
+      "72-75",
+      "99-105",
+      "290-301"
+    ]
+  },
+  {
+    "name": "Dungeon Master",
+    "pages": [
+      "4"
+    ]
+  },
+  {
+    "name": "echo plane",
+    "children": [
+      {
+        "name": "Feywild",
+        "pages": [
+          "43",
+          "49-50"
+        ]
+      },
+      {
+        "name": "Shadowfell",
+        "pages": [
+          "43",
+          "51-52"
+        ]
+      }
+    ],
+    "pages": [
+      "43"
+    ]
+  },
+  {
+    "name": "ecology (dungeon)",
+    "pages": [
+      "102"
+    ]
+  },
+  {
+    "name": "eladrin",
+    "pages": [
+      "286"
+    ]
+  },
+  {
+    "name": "Elemental Chaos",
+    "pages": [
+      "52-53"
+    ]
+  },
+  {
+    "name": "Elemental Planes (Inner Planes)",
+    "pages": [
+      "43",
+      "52-57"
+    ]
+  },
+  {
+    "name": "Elysium (Outer Plane)",
+    "pages": [
+      "58",
+      "60"
+    ]
+  },
+  {
+    "name": "encounter",
+    "children": [
+      {
+        "name": "creating an encounter",
+        "pages": [
+          "81-85",
+          "102"
+        ]
+      },
+      {
+        "name": "random encounters",
+        "pages": [
+          "85-87",
+          "106",
+          "114-116",
+          "118"
+        ]
+      }
+    ],
+    "pages": [
+      "75",
+      "77",
+      "81-87",
+      "102",
+      "106"
+    ]
+  },
+  {
+    "name": "ending a campaign",
+    "pages": [
+      "33"
+    ]
+  },
+  {
+    "name": "ending an adventure",
+    "pages": [
+      "72",
+      "75",
+      "77"
+    ]
+  },
+  {
+    "name": "Endless Maze, The (Abyssal plane)",
+    "pages": [
+      "63"
+    ]
+  },
+  {
+    "name": "environment",
+    "pages": [
+      "109-112",
+      "116-120"
+    ]
+  },
+  {
+    "name": "epic boons",
+    "pages": [
+      "230",
+      "231-232"
+    ]
+  },
+  {
+    "name": "epic fantasy",
+    "pages": [
+      "39"
+    ]
+  },
+  {
+    "name": "episodic campaign",
+    "pages": [
+      "36"
+    ]
+  },
+  {
+    "name": "equipment (NPC)",
+    "pages": [
+      "92"
+    ]
+  },
+  {
+    "name": "ether cyclone",
+    "pages": [
+      "49"
+    ]
+  },
+  {
+    "name": "Ethereal curtains",
+    "pages": [
+      "48-49"
+    ]
+  },
+  {
+    "name": "Ethereal Plane",
+    "pages": [
+      "43",
+      "48-49"
+    ]
+  },
+  {
+    "name": "event-based adventure",
+    "pages": [
+      "75-77"
+    ]
+  },
+  {
+    "name": "events (campaign)",
+    "pages": [
+      "26-33"
+    ]
+  },
+  {
+    "name": "Evernight (Shadowfell)",
+    "pages": [
+      "52"
+    ]
+  },
+  {
+    "name": "expenses (character)",
+    "pages": [
+      "126-127"
+    ]
+  },
+  {
+    "name": "experience points (XP)",
+    "children": [
+      {
+        "name": "thresholds",
+        "pages": [
+          "82-83"
+        ]
+      }
+    ],
+    "pages": [
+      "82-84",
+      "260-261"
+    ]
+  },
+  {
+    "name": "exploration",
+    "pages": [
+      "242-244"
+    ]
+  },
+  {
+    "name": "explosives",
+    "pages": [
+      "267-268"
+    ]
+  },
+  {
+    "name": "extra NPC",
+    "pages": [
+      "94"
+    ]
+  },
+  {
+    "name": "facing",
+    "pages": [
+      "252"
+    ]
+  },
+  {
+    "name": "factions",
+    "children": [
+      {
+        "name": "organizations",
+        "pages": [
+          "21-23"
+        ]
+      },
+      {
+        "name": "creating a dungeon: factions",
+        "pages": [
+          "101-102"
+        ]
+      }
+    ],
+    "pages": []
+  },
+  {
+    "name": "falling net (trap)",
+    "pages": [
+      "122"
+    ]
+  },
+  {
+    "name": "Far Realm",
+    "pages": [
+      "68"
+    ]
+  },
+  {
+    "name": "favors",
+    "pages": [
+      "229-230"
+    ]
+  },
+  {
+    "name": "fear",
+    "pages": [
+      "266"
+    ]
+  },
+  {
+    "name": "fey crossings",
+    "pages": [
+      "50"
+    ]
+  },
+  {
+    "name": "Feywild magic",
+    "pages": [
+      "50"
+    ]
+  },
+  {
+    "name": "Feywild (Plane of Faerie)",
+    "pages": [
+      "43",
+      "49-50"
+    ]
+  },
+  {
+    "name": "firearms",
+    "pages": [
+      "267",
+      "268"
+    ]
+  },
+  {
+    "name": "fire-breathing statue (trap)",
+    "pages": [
+      "122"
+    ]
+  },
+  {
+    "name": "flanking",
+    "pages": [
+      "251"
+    ]
+  },
+  {
+    "name": "flavor (campaign)",
+    "pages": [
+      "38-41"
+    ]
+  },
+  {
+    "name": "flaw (NPC)",
+    "pages": [
+      "91"
+    ]
+  },
+  {
+    "name": "flying",
+    "pages": [
+      "119-120"
+    ]
+  },
+  {
+    "name": "followers",
+    "pages": [
+      "92-93"
+    ]
+  },
+  {
+    "name": "food and water",
+    "pages": [
+      "111"
+    ]
+  },
+  {
+    "name": "foraging",
+    "pages": [
+      "111"
+    ]
+  },
+  {
+    "name": "foreshadowing",
+    "pages": [
+      "126"
+    ]
+  },
+  {
+    "name": "forest monsters",
+    "pages": [
+      "302-303"
+    ]
+  },
+  {
+    "name": "framing events",
+    "pages": [
+      "79"
+    ]
+  },
+  {
+    "name": "frigid water",
+    "pages": [
+      "110"
+    ]
+  },
+  {
+    "name": "fun",
+    "pages": [
+      "85"
+    ]
+  },
+  {
+    "name": "gaining levels",
+    "pages": [
+      "131",
+      "261"
+    ]
+  },
+  {
+    "name": "gaining renown",
+    "pages": [
+      "22",
+      "129"
+    ]
+  },
+  {
+    "name": "Gaping Maw, The (Abyssal plane)",
+    "pages": [
+      "62"
+    ]
+  },
+  {
+    "name": "garrisons (character)",
+    "pages": [
+      "127"
+    ]
+  },
+  {
+    "name": "gate-towns (Outlands)",
+    "pages": [
+      "67"
+    ]
+  },
+  {
+    "name": "Ghenna (Outer Plane)",
+    "pages": [
+      "58",
+      "63"
+    ]
+  },
+  {
+    "name": "gemstones",
+    "pages": [
+      "133",
+      "134"
+    ]
+  },
+  {
+    "name": "Gloaming Court (Feywild)",
+    "pages": [
+      "49"
+    ]
+  },
+  {
+    "name": "god (deity)",
+    "pages": [
+      "10-13"
+    ]
+  },
+  {
+    "name": "government",
+    "pages": [
+      "17-19"
+    ]
+  },
+  {
+    "name": "grassland monsters",
+    "pages": [
+      "303"
+    ]
+  },
+  {
+    "name": "greater deity",
+    "pages": [
+      "11"
+    ]
+  },
+  {
+    "name": "Great Wheel",
+    "pages": [
+      "44"
+    ]
+  },
+  {
+    "name": "green slime",
+    "pages": [
+      "105"
+    ]
+  },
+  {
+    "name": "grenades",
+    "pages": [
+      "268"
+    ]
+  },
+  {
+    "name": "grid",
+    "pages": [
+      "250-252"
+    ]
+  },
+  {
+    "name": "hack and slash",
+    "pages": [
+      "34"
+    ]
+  },
+  {
+    "name": "Hades (Outer Plane)",
+    "pages": [
+      "58",
+      "63"
+    ]
+  },
+  {
+    "name": "Harpers",
+    "pages": [
+      "21"
+    ]
+  },
+  {
+    "name": "hazards",
+    "pages": [
+      "105",
+      "109-112"
+    ]
+  },
+  {
+    "name": "healing variants",
+    "pages": [
+      "266-267"
+    ]
+  },
+  {
+    "name": "heat",
+    "pages": [
+      "110"
+    ]
+  },
+  {
+    "name": "heroic fantasy",
+    "pages": [
+      "38"
+    ]
+  },
+  {
+    "name": "hero points",
+    "pages": [
+      "264"
+    ]
+  },
+  {
+    "name": "high altitude",
+    "pages": [
+      "110"
+    ]
+  },
+  {
+    "name": "hill monsters",
+    "pages": [
+      "304"
+    ]
+  },
+  {
+    "name": "hirelings",
+    "pages": [
+      "94"
+    ]
+  },
+  {
+    "name": "hit points",
+    "pages": [
+      "247-248"
+    ]
+  },
+  {
+    "name": "hitting cover",
+    "pages": [
+      "272"
+    ]
+  },
+  {
+    "name": "hoard treasure",
+    "pages": [
+      "133",
+      "137-139"
+    ]
+  },
+  {
+    "name": "home base (for characters)",
+    "pages": [
+      "15",
+      "25"
+    ]
+  },
+  {
+    "name": "honor",
+    "pages": [
+      "264-265"
+    ]
+  },
+  {
+    "name": "horror",
+    "pages": [
+      "266"
+    ]
+  },
+  {
+    "name": "ice (hazard), 110-lll",
+    "pages": []
+  },
+  {
+    "name": "ideal (NPC)",
+    "pages": [
+      "90"
+    ]
+  },
+  {
+    "name": "identifying a magic item",
+    "pages": [
+      "136"
+    ]
+  },
+  {
+    "name": "immersive storytelling",
+    "pages": [
+      "34"
+    ]
+  },
+  {
+    "name": "individual treasure",
+    "pages": [
+      "133",
+      "136"
+    ]
+  },
+  {
+    "name": "Infinite Staircase",
+    "pages": [
+      "58-59"
+    ]
+  },
+  {
+    "name": "influence",
+    "pages": [
+      "78"
+    ]
+  },
+  {
+    "name": "initiative",
+    "children": [
+      {
+        "name": "variants",
+        "pages": [
+          "270-271"
+        ]
+      }
+    ],
+    "pages": [
+      "247",
+      "270-271"
+    ]
+  },
+  {
+    "name": "injuries",
+    "pages": [
+      "272-273"
+    ]
+  },
+  {
+    "name": "Inner Planes",
+    "children": [
+      {
+        "name": "City of Brass",
+        "pages": [
+          "55"
+        ]
+      },
+      {
+        "name": "Elemental Chaos",
+        "pages": [
+          "52"
+        ]
+      },
+      {
+        "name": "Plane of Air",
+        "pages": [
+          "53"
+        ]
+      },
+      {
+        "name": "Plane of Earth",
+        "pages": [
+          "54"
+        ]
+      },
+      {
+        "name": "Plane of Fire",
+        "pages": [
+          "55"
+        ]
+      },
+      {
+        "name": "Plane of Water",
+        "pages": [
+          "56"
+        ]
+      }
+    ],
+    "pages": [
+      "43",
+      "52-57"
+    ]
+  },
+  {
+    "name": "inspiration",
+    "pages": [
+      "240-241"
+    ]
+  },
+  {
+    "name": "inspirational reading",
+    "pages": [
+      "316"
+    ]
+  },
+  {
+    "name": "interaction trait (NPC)",
+    "pages": [
+      "90"
+    ]
+  },
+  {
+    "name": "intrigue",
+    "pages": [
+      "40",
+      "78"
+    ]
+  },
+  {
+    "name": "kingdom scale (map)",
+    "pages": [
+      "14"
+    ]
+  },
+  {
+    "name": "knowledge (NPC)",
+    "pages": [
+      "90"
+    ]
+  },
+  {
+    "name": "lairs",
+    "pages": [
+      "108"
+    ]
+  },
+  {
+    "name": "land",
+    "pages": [
+      "229"
+    ]
+  },
+  {
+    "name": "languages",
+    "pages": [
+      "20-21"
+    ]
+  },
+  {
+    "name": "larva (Hades)",
+    "pages": [
+      "63"
+    ]
+  },
+  {
+    "name": "law",
+    "pages": [
+      "114"
+    ]
+  },
+  {
+    "name": "layers, planar",
+    "pages": [
+      "58"
+    ]
+  },
+  {
+    "name": "lesser deity",
+    "pages": [
+      "11"
+    ]
+  },
+  {
+    "name": "letters of recommendation",
+    "pages": [
+      "228-229"
+    ]
+  },
+  {
+    "name": "light",
+    "pages": [
+      "104-105"
+    ]
+  },
+  {
+    "name": "Limbo (Outer Plane)",
+    "pages": [
+      "58",
+      "61-62"
+    ]
+  },
+  {
+    "name": "line of sight",
+    "pages": [
+      "251"
+    ]
+  },
+  {
+    "name": "linking adventures",
+    "pages": [
+      "125-126"
+    ]
+  },
+  {
+    "name": "location-based adventure",
+    "pages": [
+      "72-75"
+    ]
+  },
+  {
+    "name": "locked doors",
+    "pages": [
+      "103"
+    ]
+  },
+  {
+    "name": "long rest",
+    "pages": [
+      "267"
+    ]
+  },
+  {
+    "name": "loose pantheon",
+    "pages": [
+      "10-11"
+    ]
+  },
+  {
+    "name": "losing the path",
+    "pages": [
+      "111-112",
+      "117-118"
+    ]
+  },
+  {
+    "name": "Lower Planes",
+    "children": [
+      {
+        "name": "Outer Planes",
+        "pages": [
+          "43",
+          "57-67"
+        ]
+      }
+    ],
+    "pages": [
+      "58"
+    ]
+  },
+  {
+    "name": "loyalty",
+    "pages": [
+      "93"
+    ]
+  },
+  {
+    "name": "madness",
+    "pages": [
+      "258-260"
+    ]
+  },
+  {
+    "name": "magic",
+    "children": [
+      {
+        "name": "creating a magic item",
+        "pages": [
+          "214-216",
+          "284-285"
+        ]
+      },
+      {
+        "name": "creating a spell",
+        "pages": [
+          "283-284"
+        ]
+      },
+      {
+        "name": "magic items",
+        "pages": [
+          "128-129",
+          "129-130",
+          "133",
+          "135-227"
+        ]
+      },
+      {
+        "name": "restrictions",
+        "pages": [
+          "24"
+        ]
+      },
+      {
+        "name": "schools of",
+        "pages": [
+          "24"
+        ]
+      }
+    ],
+    "pages": [
+      "9-10",
+      "23-24"
+    ]
+  },
+  {
+    "name": "magic items",
+    "children": [
+      {
+        "name": "alphabetical descriptions",
+        "pages": [
+          "150-214"
+        ]
+      },
+      {
+        "name": "artifacts",
+        "pages": [
+          "219-227"
+        ]
+      },
+      {
+        "name": "attunement",
+        "pages": [
+          "136-138"
+        ]
+      },
+      {
+        "name": "buying",
+        "pages": [
+          "135-136"
+        ]
+      },
+      {
+        "name": "categories",
+        "pages": [
+          "139-140"
+        ]
+      },
+      {
+        "name": "armor",
+        "pages": [
+          "139"
+        ]
+      },
+      {
+        "name": "potions",
+        "pages": [
+          "139"
+        ]
+      },
+      {
+        "name": "rings",
+        "pages": [
+          "139"
+        ]
+      },
+      {
+        "name": "rods",
+        "pages": [
+          "139"
+        ]
+      },
+      {
+        "name": "scrolls",
+        "pages": [
+          "139"
+        ]
+      },
+      {
+        "name": "staffs",
+        "pages": [
+          "140"
+        ]
+      },
+      {
+        "name": "wands",
+        "pages": [
+          "140"
+        ]
+      },
+      {
+        "name": "weapons",
+        "pages": [
+          "140"
+        ]
+      },
+      {
+        "name": "wondrous items",
+        "pages": [
+          "140"
+        ]
+      },
+      {
+        "name": "crafting",
+        "pages": [
+          "128-129",
+          "141"
+        ]
+      },
+      {
+        "name": "cursed",
+        "pages": [
+          "138-139"
+        ]
+      },
+      {
+        "name": "formulas",
+        "pages": [
+          "141"
+        ]
+      },
+      {
+        "name": "identifying",
+        "pages": [
+          "136"
+        ]
+      },
+      {
+        "name": "rarity",
+        "pages": [
+          "135"
+        ]
+      },
+      {
+        "name": "resilience",
+        "pages": [
+          "141"
+        ]
+      },
+      {
+        "name": "objects",
+        "pages": [
+          "246-247"
+        ]
+      },
+      {
+        "name": "selling",
+        "pages": [
+          "129-130",
+          "135-136"
+        ]
+      },
+      {
+        "name": "sentient",
+        "pages": [
+          "214-218"
+        ]
+      },
+      {
+        "name": "special features",
+        "pages": [
+          "141-143"
+        ]
+      },
+      {
+        "name": "wearing and wielding",
+        "pages": [
+          "140-141"
+        ]
+      }
+    ],
+    "pages": [
+      "128-129",
+      "129-130",
+      "133",
+      "135-227"
+    ]
+  },
+  {
+    "name": "Maladomini (Nine Hells)",
+    "pages": [
+      "65"
+    ]
+  },
+  {
+    "name": "Malbolge (Nine Hells)",
+    "pages": [
+      "65"
+    ]
+  },
+  {
+    "name": "mannerism (NPC)",
+    "pages": [
+      "90"
+    ]
+  },
+  {
+    "name": "mapping",
+    "children": [
+      {
+        "name": "campaign",
+        "pages": [
+          "14",
+          "25"
+        ]
+      },
+      {
+        "name": "scale",
+        "pages": [
+          "14"
+        ]
+      },
+      {
+        "name": "chases",
+        "pages": [
+          "255"
+        ]
+      },
+      {
+        "name": "dungeon",
+        "pages": [
+          "102-105"
+        ]
+      },
+      {
+        "name": "samples",
+        "pages": [
+          "310-315"
+        ]
+      },
+      {
+        "name": "settlement",
+        "pages": [
+          "114"
+        ]
+      },
+      {
+        "name": "wilderness",
+        "pages": [
+          "108-109"
+        ]
+      }
+    ],
+    "pages": [
+      "14",
+      "25-26",
+      "72",
+      "75",
+      "77",
+      "102-105",
+      "108-109",
+      "114",
+      "255"
+    ]
+  },
+  {
+    "name": "mark",
+    "pages": [
+      "271"
+    ]
+  },
+  {
+    "name": "marks of prestige",
+    "pages": [
+      "228-231"
+    ]
+  },
+  {
+    "name": "massive damage",
+    "pages": [
+      "273"
+    ]
+  },
+  {
+    "name": "Material Plane",
+    "pages": [
+      "43"
+    ]
+  },
+  {
+    "name": "Material Plane echoes",
+    "children": [
+      {
+        "name": "Feywild",
+        "pages": [
+          "43",
+          "49-50"
+        ]
+      },
+      {
+        "name": "Shadowfell",
+        "pages": [
+          "43",
+          "51-52"
+        ]
+      }
+    ],
+    "pages": [
+      "43"
+    ]
+  },
+  {
+    "name": "Mechanus (Outer Plane)",
+    "pages": [
+      "58",
+      "66"
+    ]
+  },
+  {
+    "name": "medals",
+    "pages": [
+      "229"
+    ]
+  },
+  {
+    "name": "memory loss (Feywild)",
+    "pages": [
+      "50"
+    ]
+  },
+  {
+    "name": "metagame thinking",
+    "pages": [
+      "235"
+    ]
+  },
+  {
+    "name": "milestones",
+    "pages": [
+      "261"
+    ]
+  },
+  {
+    "name": "Minauros (Nine Hells)",
+    "pages": [
+      "64"
+    ]
+  },
+  {
+    "name": "miniatures",
+    "pages": [
+      "250-252"
+    ]
+  },
+  {
+    "name": "missing players",
+    "pages": [
+      "235-236",
+      "260"
+    ]
+  },
+  {
+    "name": "mixing potions",
+    "pages": [
+      "140"
+    ]
+  },
+  {
+    "name": "mobs",
+    "pages": [
+      "250"
+    ]
+  },
+  {
+    "name": "modifying a class",
+    "pages": [
+      "287-289"
+    ]
+  },
+  {
+    "name": "modifying a magic item",
+    "pages": [
+      "284"
+    ]
+  },
+  {
+    "name": "modifying a monster",
+    "pages": [
+      "273-274"
+    ]
+  },
+  {
+    "name": "monotheism",
+    "pages": [
+      "12"
+    ]
+  },
+  {
+    "name": "monsters",
+    "children": [
+      {
+        "name": "creating a monster",
+        "pages": [
+          "273-283"
+        ]
+      },
+      {
+        "name": "creating an encounter",
+        "pages": [
+          "81-85",
+          "102"
+        ]
+      },
+      {
+        "name": "creating an NPC",
+        "pages": [
+          "89-97",
+          "244",
+          "279-283"
+        ]
+      },
+      {
+        "name": "random encounters",
+        "pages": [
+          "85-87",
+          "106",
+          "114-116",
+          "118"
+        ]
+      },
+      {
+        "name": "as NPCs",
+        "pages": [
+          "91-92"
+        ]
+      },
+      {
+        "name": "by challenge rating",
+        "pages": [
+          "306-309"
+        ]
+      },
+      {
+        "name": "by terrain",
+        "pages": [
+          "302-305"
+        ]
+      },
+      {
+        "name": "arctic",
+        "pages": [
+          "302"
+        ]
+      },
+      {
+        "name": "coastal",
+        "pages": [
+          "302"
+        ]
+      },
+      {
+        "name": "desert",
+        "pages": [
+          "302"
+        ]
+      },
+      {
+        "name": "forest",
+        "pages": [
+          "302"
+        ]
+      },
+      {
+        "name": "grassland",
+        "pages": [
+          "303"
+        ]
+      },
+      {
+        "name": "hill",
+        "pages": [
+          "304"
+        ]
+      },
+      {
+        "name": "mountain",
+        "pages": [
+          "304"
+        ]
+      },
+      {
+        "name": "swamp",
+        "pages": [
+          "304"
+        ]
+      },
+      {
+        "name": "underdark",
+        "pages": [
+          "305"
+        ]
+      },
+      {
+        "name": "underwater",
+        "pages": [
+          "305"
+        ]
+      },
+      {
+        "name": "urban",
+        "pages": [
+          "305"
+        ]
+      },
+      {
+        "name": "challenge rating",
+        "pages": [
+          "82"
+        ]
+      },
+      {
+        "name": "hit points",
+        "pages": [
+          "247-248"
+        ]
+      },
+      {
+        "name": "mobs",
+        "pages": [
+          "250"
+        ]
+      },
+      {
+        "name": "statistics by challenge rating",
+        "pages": [
+          "274"
+        ]
+      }
+    ],
+    "pages": [
+      "71",
+      "74",
+      "82",
+      "91-92",
+      "247-248",
+      "273-283",
+      "302-305",
+      "306-309"
+    ]
+  },
+  {
+    "name": "monuments",
+    "pages": [
+      "108"
+    ]
+  },
+  {
+    "name": "morale",
+    "pages": [
+      "273"
+    ]
+  },
+  {
+    "name": "moral quandaries",
+    "pages": [
+      "79-80"
+    ]
+  },
+  {
+    "name": "mountain monsters",
+    "pages": [
+      "304"
+    ]
+  },
+  {
+    "name": "Mount Celestia (Outer Plane)",
+    "pages": [
+      "58",
+      "59"
+    ]
+  },
+  {
+    "name": "movement",
+    "pages": [
+      "252"
+    ]
+  },
+  {
+    "name": "multiverse",
+    "children": [
+      {
+        "name": "creating",
+        "pages": [
+          "43-69"
+        ]
+      }
+    ],
+    "pages": [
+      "43-69"
+    ]
+  },
+  {
+    "name": "mystery",
+    "pages": [
+      "40",
+      "77-78"
+    ]
+  },
+  {
+    "name": "mystery cults",
+    "pages": [
+      "11-12"
+    ]
+  },
+  {
+    "name": "mythic fantasy",
+    "pages": [
+      "39"
+    ]
+  },
+  {
+    "name": "navigation, lll-112",
+    "pages": [
+      "117-118"
+    ]
+  },
+  {
+    "name": "Negative Plane",
+    "pages": [
+      "43"
+    ]
+  },
+  {
+    "name": "Nessus (Nine Hells)",
+    "pages": [
+      "66"
+    ]
+  },
+  {
+    "name": "net (trap)",
+    "pages": [
+      "122"
+    ]
+  },
+  {
+    "name": "new players",
+    "pages": [
+      "236"
+    ]
+  },
+  {
+    "name": "Nine Hells, The (Outer Plane)",
+    "children": [
+      {
+        "name": "Avernus",
+        "pages": [
+          "64"
+        ]
+      },
+      {
+        "name": "Cania",
+        "pages": [
+          "65"
+        ]
+      },
+      {
+        "name": "Dis",
+        "pages": [
+          "64"
+        ]
+      },
+      {
+        "name": "Maladomini",
+        "pages": [
+          "65"
+        ]
+      },
+      {
+        "name": "Malbolge",
+        "pages": [
+          "65"
+        ]
+      },
+      {
+        "name": "Minauros",
+        "pages": [
+          "64"
+        ]
+      },
+      {
+        "name": "Nessus",
+        "pages": [
+          "65"
+        ]
+      },
+      {
+        "name": "Phlegethos",
+        "pages": [
+          "64"
+        ]
+      },
+      {
+        "name": "Stygia",
+        "pages": [
+          "64"
+        ]
+      }
+    ],
+    "pages": [
+      "58",
+      "64-66"
+    ]
+  },
+  {
+    "name": "noble titles",
+    "pages": [
+      "19",
+      "230"
+    ]
+  },
+  {
+    "name": "noncombat challenges",
+    "pages": [
+      "261"
+    ]
+  },
+  {
+    "name": "nonplayer character (NPC), see NPC",
+    "pages": []
+  },
+  {
+    "name": "noticing other creatures",
+    "pages": [
+      "243"
+    ]
+  },
+  {
+    "name": "NPC (nonplayer character)",
+    "children": [
+      {
+        "name": "adventurer",
+        "pages": [
+          "93"
+        ]
+      },
+      {
+        "name": "creating",
+        "pages": [
+          "89-97",
+          "244",
+          "279-283"
+        ]
+      },
+      {
+        "name": "hit points",
+        "pages": [
+          "247-248"
+        ]
+      },
+      {
+        "name": "party members",
+        "pages": [
+          "92-93"
+        ]
+      },
+      {
+        "name": "roleplaying",
+        "pages": [
+          "244-246"
+        ]
+      },
+      {
+        "name": "villain",
+        "pages": [
+          "74",
+          "75-76",
+          "77",
+          "78",
+          "94-97"
+        ]
+      }
+    ],
+    "pages": [
+      "74",
+      "75-76",
+      "77",
+      "78",
+      "89-97",
+      "244-246",
+      "247-248"
+    ]
+  },
+  {
+    "name": "oathbreaker (paladin)",
+    "pages": [
+      "97"
+    ]
+  },
+  {
+    "name": "objects",
+    "pages": [
+      "246-247"
+    ]
+  },
+  {
+    "name": "occupation (NPC)",
+    "pages": [
+      "89"
+    ]
+  },
+  {
+    "name": "ocean",
+    "pages": [
+      "117-119"
+    ]
+  },
+  {
+    "name": "organizations",
+    "children": [
+      {
+        "name": "adventurer",
+        "pages": [
+          "21-22"
+        ]
+      },
+      {
+        "name": "creating",
+        "pages": [
+          "21-22"
+        ]
+      },
+      {
+        "name": "rank",
+        "pages": [
+          "22"
+        ]
+      },
+      {
+        "name": "renown",
+        "pages": [
+          "22-23"
+        ]
+      },
+      {
+        "name": "sample",
+        "pages": [
+          "21",
+          "23"
+        ]
+      }
+    ],
+    "pages": [
+      "21-23"
+    ]
+  },
+  {
+    "name": "other rewards",
+    "pages": [
+      "227-232"
+    ]
+  },
+  {
+    "name": "Outer Planes",
+    "children": [
+      {
+        "name": "Abyss, The",
+        "pages": [
+          "62"
+        ]
+      },
+      {
+        "name": "Arborea",
+        "pages": [
+          "60"
+        ]
+      },
+      {
+        "name": "Arcadia",
+        "pages": [
+          "66"
+        ]
+      },
+      {
+        "name": "Archeron",
+        "pages": [
+          "66"
+        ]
+      },
+      {
+        "name": "Beastlands, The",
+        "pages": [
+          "60"
+        ]
+      },
+      {
+        "name": "Bytopia",
+        "pages": [
+          "59"
+        ]
+      },
+      {
+        "name": "Carceri",
+        "pages": [
+          "63"
+        ]
+      },
+      {
+        "name": "Elysium",
+        "pages": [
+          "60"
+        ]
+      },
+      {
+        "name": "Gehenna",
+        "pages": [
+          "63"
+        ]
+      },
+      {
+        "name": "Hades",
+        "pages": [
+          "63"
+        ]
+      },
+      {
+        "name": "Limbo",
+        "pages": [
+          "61"
+        ]
+      },
+      {
+        "name": "Mechanus",
+        "pages": [
+          "66"
+        ]
+      },
+      {
+        "name": "Mount Celestia",
+        "pages": [
+          "59"
+        ]
+      },
+      {
+        "name": "Nine Hells, The",
+        "pages": [
+          "64"
+        ]
+      },
+      {
+        "name": "optional rules",
+        "pages": [
+          "59"
+        ]
+      },
+      {
+        "name": "Pandemonium",
+        "pages": [
+          "62"
+        ]
+      },
+      {
+        "name": "Ysgard",
+        "pages": [
+          "61"
+        ]
+      }
+    ],
+    "pages": [
+      "43",
+      "57-67"
+    ]
+  },
+  {
+    "name": "Outlands",
+    "pages": [
+      "67-68"
+    ]
+  },
+  {
+    "name": "overrun",
+    "pages": [
+      "272"
+    ]
+  },
+  {
+    "name": "owning property",
+    "pages": [
+      "126-127"
+    ]
+  },
+  {
+    "name": "Pandemonium (Outer Plane)",
+    "pages": [
+      "58",
+      "62"
+    ]
+  },
+  {
+    "name": "pantheon",
+    "children": [
+      {
+        "name": "loose",
+        "pages": [
+          "10-11"
+        ]
+      },
+      {
+        "name": "of the Dawn War",
+        "pages": [
+          "11"
+        ]
+      },
+      {
+        "name": "racial",
+        "pages": [
+          "13"
+        ]
+      },
+      {
+        "name": "sample",
+        "pages": [
+          "11"
+        ]
+      },
+      {
+        "name": "tight",
+        "pages": [
+          "11"
+        ]
+      }
+    ],
+    "pages": [
+      "10-11",
+      "13"
+    ]
+  },
+  {
+    "name": "patron",
+    "pages": [
+      "94"
+    ]
+  },
+  {
+    "name": "performing sacred rites",
+    "pages": [
+      "129"
+    ]
+  },
+  {
+    "name": "philosophies",
+    "pages": [
+      "12-13"
+    ]
+  },
+  {
+    "name": "Phlegethos (Nine Hells)",
+    "pages": [
+      "64"
+    ]
+  },
+  {
+    "name": "piety",
+    "pages": [
+      "23"
+    ]
+  },
+  {
+    "name": "pit (trap)",
+    "pages": [
+      "122-123"
+    ]
+  },
+  {
+    "name": "planar categories",
+    "pages": [
+      "43"
+    ]
+  },
+  {
+    "name": "planar layers",
+    "pages": [
+      "58"
+    ]
+  },
+  {
+    "name": "planar portals",
+    "pages": [
+      "45",
+      "47",
+      "48-49",
+      "50",
+      "51",
+      "58-59",
+      "67-68"
+    ]
+  },
+  {
+    "name": "planar travel",
+    "children": [
+      {
+        "name": "planar portals",
+        "pages": [
+          "45",
+          "47",
+          "48-49",
+          "50",
+          "51",
+          "58-59",
+          "67-68"
+        ]
+      }
+    ],
+    "pages": [
+      "44-46",
+      "58-59"
+    ]
+  },
+  {
+    "name": "Plane of Air",
+    "pages": [
+      "53-54"
+    ]
+  },
+  {
+    "name": "Plane of Earth",
+    "pages": [
+      "54"
+    ]
+  },
+  {
+    "name": "Plane of Faerie (Feywild)",
+    "pages": [
+      "43",
+      "49-50"
+    ]
+  },
+  {
+    "name": "Plane of Fire",
+    "pages": [
+      "55-56"
+    ]
+  },
+  {
+    "name": "Plane of Shadow (Shadowfell)",
+    "pages": [
+      "43",
+      "51-52"
+    ]
+  },
+  {
+    "name": "Plane of Water",
+    "pages": [
+      "56-57"
+    ]
+  },
+  {
+    "name": "planes of existence",
+    "children": [
+      {
+        "name": "cosmology",
+        "pages": [
+          "43-44"
+        ]
+      },
+      {
+        "name": "Astral Plane",
+        "pages": [
+          "46"
+        ]
+      },
+      {
+        "name": "Ethereal Plane",
+        "pages": [
+          "48"
+        ]
+      },
+      {
+        "name": "Feywild",
+        "pages": [
+          "49"
+        ]
+      },
+      {
+        "name": "Shadowfell",
+        "pages": [
+          "51"
+        ]
+      },
+      {
+        "name": "Inner Planes",
+        "pages": [
+          "52"
+        ]
+      },
+      {
+        "name": "Outer Planes",
+        "pages": [
+          "57"
+        ]
+      },
+      {
+        "name": "Other Planes",
+        "pages": [
+          "67"
+        ]
+      }
+    ],
+    "pages": [
+      "43-69"
+    ]
+  },
+  {
+    "name": "players",
+    "pages": [
+      "6"
+    ]
+  },
+  {
+    "name": "play style",
+    "pages": [
+      "34-36"
+    ]
+  },
+  {
+    "name": "plot points",
+    "pages": [
+      "269-270"
+    ]
+  },
+  {
+    "name": "poison",
+    "pages": [
+      "257-258"
+    ]
+  },
+  {
+    "name": "poison darts (trap)",
+    "pages": [
+      "123"
+    ]
+  },
+  {
+    "name": "poison needle (trap)",
+    "pages": [
+      "123"
+    ]
+  },
+  {
+    "name": "portcullises",
+    "pages": [
+      "104"
+    ]
+  },
+  {
+    "name": "Positive Plane",
+    "pages": [
+      "43"
+    ]
+  },
+  {
+    "name": "potions",
+    "pages": [
+      "139",
+      "140"
+    ]
+  },
+  {
+    "name": "precipitation",
+    "pages": [
+      "110"
+    ]
+  },
+  {
+    "name": "proficiency",
+    "children": [
+      {
+        "name": "background",
+        "pages": [
+          "264"
+        ]
+      },
+      {
+        "name": "dice",
+        "pages": [
+          "263"
+        ]
+      },
+      {
+        "name": "personality trait",
+        "pages": [
+          "264"
+        ]
+      }
+    ],
+    "pages": [
+      "239",
+      "263-264"
+    ]
+  },
+  {
+    "name": "property (character)",
+    "pages": [
+      "126-127"
+    ]
+  },
+  {
+    "name": "province scale (map)",
+    "pages": [
+      "14"
+    ]
+  },
+  {
+    "name": "psychic dissonance (Outer Planes)",
+    "pages": [
+      "59"
+    ]
+  },
+  {
+    "name": "psychic wind (Astral)",
+    "pages": [
+      "47-48"
+    ]
+  },
+  {
+    "name": "published adventures",
+    "pages": [
+      "72"
+    ]
+  },
+  {
+    "name": "published worlds",
+    "pages": [
+      "9",
+      "68"
+    ]
+  },
+  {
+    "name": "quicksand",
+    "pages": [
+      "110"
+    ]
+  },
+  {
+    "name": "quirk",
+    "children": [
+      {
+        "name": "magic item",
+        "pages": [
+          "143"
+        ]
+      },
+      {
+        "name": "NPC",
+        "pages": [
+          "90"
+        ]
+      }
+    ],
+    "pages": [
+      "90",
+      "143"
+    ]
+  },
+  {
+    "name": "race",
+    "pages": [
+      "285-287"
+    ]
+  },
+  {
+    "name": "racial deity",
+    "pages": [
+      "13"
+    ]
+  },
+  {
+    "name": "rain",
+    "pages": [
+      "110"
+    ]
+  },
+  {
+    "name": "raising a stronghold",
+    "pages": [
+      "128"
+    ]
+  },
+  {
+    "name": "random dungeons",
+    "pages": [
+      "290-301"
+    ]
+  },
+  {
+    "name": "random encounters",
+    "children": [
+      {
+        "name": "challenge",
+        "pages": [
+          "87"
+        ]
+      },
+      {
+        "name": "checking for",
+        "pages": [
+          "86"
+        ]
+      },
+      {
+        "name": "creating tables",
+        "pages": [
+          "86-87"
+        ]
+      },
+      {
+        "name": "sample table",
+        "pages": [
+          "87"
+        ]
+      },
+      {
+        "name": "sea",
+        "pages": [
+          "118"
+        ]
+      },
+      {
+        "name": "settlement",
+        "pages": [
+          "114-116"
+        ]
+      },
+      {
+        "name": "triggering",
+        "pages": [
+          "85"
+        ]
+      },
+      {
+        "name": "underwater",
+        "pages": [
+          "116"
+        ]
+      },
+      {
+        "name": "wilderness",
+        "pages": [
+          "106"
+        ]
+      }
+    ],
+    "pages": [
+      "85-87",
+      "106",
+      "114-116",
+      "118"
+    ]
+  },
+  {
+    "name": "random magic items",
+    "pages": [
+      "144-149"
+    ]
+  },
+  {
+    "name": "random settlements",
+    "children": [
+      {
+        "name": "creating a settlement",
+        "pages": [
+          "15-20",
+          "112-116"
+        ]
+      }
+    ],
+    "pages": [
+      "112-114"
+    ]
+  },
+  {
+    "name": "random treasure",
+    "pages": [
+      "133-135",
+      "136-139",
+      "144-149"
+    ]
+  },
+  {
+    "name": "rank (in an organization)",
+    "pages": [
+      "22"
+    ]
+  },
+  {
+    "name": "rarity",
+    "pages": [
+      "135"
+    ]
+  },
+  {
+    "name": "razorvine",
+    "pages": [
+      "110"
+    ]
+  },
+  {
+    "name": "reactions",
+    "pages": [
+      "252"
+    ]
+  },
+  {
+    "name": "religion",
+    "children": [
+      {
+        "name": "creating",
+        "pages": [
+          "10-13"
+        ]
+      }
+    ],
+    "pages": [
+      "10-13"
+    ]
+  },
+  {
+    "name": "renown",
+    "children": [
+      {
+        "name": "as piety",
+        "pages": [
+          "23"
+        ]
+      },
+      {
+        "name": "benefits",
+        "pages": [
+          "22-23"
+        ]
+      },
+      {
+        "name": "gaining",
+        "pages": [
+          "22",
+          "129"
+        ]
+      },
+      {
+        "name": "losing",
+        "pages": [
+          "23"
+        ]
+      }
+    ],
+    "pages": [
+      "22-23",
+      "78",
+      "129"
+    ]
+  },
+  {
+    "name": "resolving social interaction",
+    "pages": [
+      "244-245"
+    ]
+  },
+  {
+    "name": "restrictions on magic",
+    "pages": [
+      "24"
+    ]
+  },
+  {
+    "name": "rest variants",
+    "pages": [
+      "267"
+    ]
+  },
+  {
+    "name": "resurrection",
+    "pages": [
+      "24"
+    ]
+  },
+  {
+    "name": "rings",
+    "pages": [
+      "139"
+    ]
+  },
+  {
+    "name": "River Styx",
+    "pages": [
+      "58"
+    ]
+  },
+  {
+    "name": "rods",
+    "pages": [
+      "139"
+    ]
+  },
+  {
+    "name": "roleplaying",
+    "pages": [
+      "245-246"
+    ]
+  },
+  {
+    "name": "rolling sphere (trap)",
+    "pages": [
+      "123"
+    ]
+  },
+  {
+    "name": "rolling the dice",
+    "pages": [
+      "235",
+      "236-237",
+      "242"
+    ]
+  },
+  {
+    "name": "ruins",
+    "pages": [
+      "108"
+    ]
+  },
+  {
+    "name": "rules",
+    "pages": [
+      "5"
+    ]
+  },
+  {
+    "name": "rules discussions",
+    "pages": [
+      "235"
+    ]
+  },
+  {
+    "name": "running a business",
+    "pages": [
+      "127",
+      "129"
+    ]
+  },
+  {
+    "name": "running the game",
+    "pages": [
+      "235-261"
+    ]
+  },
+  {
+    "name": "sailing vessels",
+    "pages": [
+      "119"
+    ]
+  },
+  {
+    "name": "sanity",
+    "pages": [
+      "265-266"
+    ]
+  },
+  {
+    "name": "saving throws",
+    "pages": [
+      "238",
+      "239"
+    ]
+  },
+  {
+    "name": "schools of magic",
+    "pages": [
+      "24"
+    ]
+  },
+  {
+    "name": "scrolls",
+    "children": [
+      {
+        "name": "mishaps",
+        "pages": [
+          "140"
+        ]
+      }
+    ],
+    "pages": [
+      "139",
+      "140"
+    ]
+  },
+  {
+    "name": "sea",
+    "pages": [
+      "117-119"
+    ]
+  },
+  {
+    "name": "secret doors",
+    "pages": [
+      "103-104"
+    ]
+  },
+  {
+    "name": "seelie fey",
+    "pages": [
+      "49"
+    ]
+  },
+  {
+    "name": "selling magic items",
+    "pages": [
+      "129-130",
+      "135-136"
+    ]
+  },
+  {
+    "name": "sentient magic items",
+    "pages": [
+      "214-218"
+    ]
+  },
+  {
+    "name": "settlements",
+    "children": [
+      {
+        "name": "creating",
+        "pages": [
+          "15-20",
+          "112-116"
+        ]
+      },
+      {
+        "name": "chases",
+        "pages": [
+          "254"
+        ]
+      }
+    ],
+    "pages": [
+      "15-20",
+      "108",
+      "112-116",
+      "254"
+    ]
+  },
+  {
+    "name": "shadow crossings",
+    "pages": [
+      "51"
+    ]
+  },
+  {
+    "name": "Shadowfell despair",
+    "pages": [
+      "52"
+    ]
+  },
+  {
+    "name": "Shadowfell (Plane of Shadow)",
+    "pages": [
+      "43",
+      "51-52"
+    ]
+  },
+  {
+    "name": "ships",
+    "pages": [
+      "119"
+    ]
+  },
+  {
+    "name": "shipwrecks",
+    "pages": [
+      "118"
+    ]
+  },
+  {
+    "name": "short rest",
+    "pages": [
+      "84",
+      "267"
+    ]
+  },
+  {
+    "name": "shove aside",
+    "pages": [
+      "272"
+    ]
+  },
+  {
+    "name": "side quests",
+    "pages": [
+      "81"
+    ]
+  },
+  {
+    "name": "siege equipment",
+    "pages": [
+      "255-256"
+    ]
+  },
+  {
+    "name": "Sigil, City of Doors",
+    "pages": [
+      "58",
+      "68"
+    ]
+  },
+  {
+    "name": "silver cord",
+    "pages": [
+      "47"
+    ]
+  },
+  {
+    "name": "size",
+    "pages": [
+      "251"
+    ]
+  },
+  {
+    "name": "skills",
+    "pages": [
+      "239",
+      "263-264"
+    ]
+  },
+  {
+    "name": "sky",
+    "pages": [
+      "119-120"
+    ]
+  },
+  {
+    "name": "slippery ice",
+    "pages": [
+      "110"
+    ]
+  },
+  {
+    "name": "small player groups",
+    "pages": [
+      "236"
+    ]
+  },
+  {
+    "name": "snow",
+    "pages": [
+      "110"
+    ]
+  },
+  {
+    "name": "social interaction",
+    "children": [
+      {
+        "name": "resolving",
+        "pages": [
+          "244-245"
+        ]
+      },
+      {
+        "name": "roleplaying",
+        "pages": [
+          "245-246"
+        ]
+      }
+    ],
+    "pages": [
+      "244-246"
+    ]
+  },
+  {
+    "name": "sounds",
+    "pages": [
+      "105"
+    ]
+  },
+  {
+    "name": "sowing rumors",
+    "pages": [
+      "131"
+    ]
+  },
+  {
+    "name": "special features for magic items",
+    "pages": [
+      "141-143"
+    ]
+  },
+  {
+    "name": "special rights",
+    "pages": [
+      "230"
+    ]
+  },
+  {
+    "name": "speed factor",
+    "pages": [
+      "270-271"
+    ]
+  },
+  {
+    "name": "spell points",
+    "pages": [
+      "288-289"
+    ]
+  },
+  {
+    "name": "spells in magic items",
+    "pages": [
+      "141"
+    ]
+  },
+  {
+    "name": "sphere of annihilation (trap)",
+    "pages": [
+      "123"
+    ]
+  },
+  {
+    "name": "spiderwebs",
+    "pages": [
+      "105"
+    ]
+  },
+  {
+    "name": "spiked pit (trap)",
+    "pages": [
+      "123"
+    ]
+  },
+  {
+    "name": "staffs",
+    "pages": [
+      "140"
+    ]
+  },
+  {
+    "name": "starting at higher level",
+    "pages": [
+      "38"
+    ]
+  },
+  {
+    "name": "starting attitude (NPC)",
+    "pages": [
+      "244"
+    ]
+  },
+  {
+    "name": "story",
+    "pages": [
+      "71",
+      "72",
+      "125"
+    ]
+  },
+  {
+    "name": "strongholds",
+    "pages": [
+      "109",
+      "128",
+      "230"
+    ]
+  },
+  {
+    "name": "structure (adventure)",
+    "pages": [
+      "72"
+    ]
+  },
+  {
+    "name": "stuck doors",
+    "pages": [
+      "103"
+    ]
+  },
+  {
+    "name": "Stygia (Nine Hells)",
+    "pages": [
+      "64-65"
+    ]
+  },
+  {
+    "name": "Styx, River",
+    "pages": [
+      "58"
+    ]
+  },
+  {
+    "name": "subrace",
+    "pages": [
+      "285-287"
+    ]
+  },
+  {
+    "name": "success at a cost",
+    "pages": [
+      "242"
+    ]
+  },
+  {
+    "name": "Summer Court (Feywild)",
+    "pages": [
+      "49"
+    ]
+  },
+  {
+    "name": "supernatural gifts",
+    "pages": [
+      "227-228"
+    ]
+  },
+  {
+    "name": "survival",
+    "pages": [
+      "109-112"
+    ]
+  },
+  {
+    "name": "suspects (mystery)",
+    "pages": [
+      "77-78"
+    ]
+  },
+  {
+    "name": "swamp monsters",
+    "pages": [
+      "304"
+    ]
+  },
+  {
+    "name": "swashbuckling",
+    "pages": [
+      "40"
+    ]
+  },
+  {
+    "name": "swimming",
+    "pages": [
+      "116-117"
+    ]
+  },
+  {
+    "name": "swords and sorcery",
+    "pages": [
+      "38-39"
+    ]
+  },
+  {
+    "name": "system shock",
+    "pages": [
+      "273"
+    ]
+  },
+  {
+    "name": "table rules",
+    "pages": [
+      "235-236"
+    ]
+  },
+  {
+    "name": "table talk",
+    "pages": [
+      "235"
+    ]
+  },
+  {
+    "name": "tactical map",
+    "pages": [
+      "250-252"
+    ]
+  },
+  {
+    "name": "talent (NPC)",
+    "pages": [
+      "90"
+    ]
+  },
+  {
+    "name": "teleportation circles",
+    "pages": [
+      "24"
+    ]
+  },
+  {
+    "name": "temperature",
+    "pages": [
+      "109-110"
+    ]
+  },
+  {
+    "name": "Thanatos (Abyssal plane)",
+    "pages": [
+      "62"
+    ]
+  },
+  {
+    "name": "theme (campaign)",
+    "pages": [
+      "36"
+    ]
+  },
+  {
+    "name": "thin ice",
+    "pages": [
+      "111"
+    ]
+  },
+  {
+    "name": "tiers of play",
+    "pages": [
+      "36-38"
+    ]
+  },
+  {
+    "name": "tight pantheon",
+    "pages": [
+      "11"
+    ]
+  },
+  {
+    "name": "time",
+    "pages": [
+      "32-33"
+    ]
+  },
+  {
+    "name": "time warp (Feywild)",
+    "pages": [
+      "50"
+    ]
+  },
+  {
+    "name": "titan",
+    "pages": [
+      "11"
+    ]
+  },
+  {
+    "name": "titles",
+    "pages": [
+      "19",
+      "230"
+    ]
+  },
+  {
+    "name": "tools",
+    "pages": [
+      "239"
+    ]
+  },
+  {
+    "name": "town",
+    "pages": [
+      "17"
+    ]
+  },
+  {
+    "name": "tracking",
+    "pages": [
+      "244"
+    ]
+  },
+  {
+    "name": "training",
+    "children": [
+      {
+        "name": "to gain levels",
+        "pages": [
+          "131"
+        ]
+      }
+    ],
+    "pages": [
+      "131",
+      "231"
+    ]
+  },
+  {
+    "name": "Transitive Planes",
+    "pages": [
+      "43"
+    ]
+  },
+  {
+    "name": "traps",
+    "children": [
+      {
+        "name": "creating",
+        "pages": [
+          "120-122"
+        ]
+      },
+      {
+        "name": "sample",
+        "pages": [
+          "122-123"
+        ]
+      }
+    ],
+    "pages": [
+      "120-123"
+    ]
+  },
+  {
+    "name": "travel",
+    "children": [
+      {
+        "name": "pace",
+        "pages": [
+          "242-243"
+        ]
+      }
+    ],
+    "pages": [
+      "106-108",
+      "109-112",
+      "116-120",
+      "242-244"
+    ]
+  },
+  {
+    "name": "treasure",
+    "children": [
+      {
+        "name": "tables",
+        "pages": [
+          "133",
+          "136-139",
+          "144-149"
+        ]
+      }
+    ],
+    "pages": [
+      "133-232"
+    ]
+  },
+  {
+    "name": "triggering a trap",
+    "pages": [
+      "120"
+    ]
+  },
+  {
+    "name": "Triple Realm, The (Abyssal plane)",
+    "pages": [
+      "63"
+    ]
+  },
+  {
+    "name": "tumble",
+    "pages": [
+      "272"
+    ]
+  },
+  {
+    "name": "twists (adventure)",
+    "pages": [
+      "80"
+    ]
+  },
+  {
+    "name": "Underdark monsters",
+    "pages": [
+      "305"
+    ]
+  },
+  {
+    "name": "underwater",
+    "children": [
+      {
+        "name": "monsters",
+        "pages": [
+          "305"
+        ]
+      }
+    ],
+    "pages": [
+      "116-117",
+      "305"
+    ]
+  },
+  {
+    "name": "unseelie fey",
+    "pages": [
+      "49"
+    ]
+  },
+  {
+    "name": "Upper Planes",
+    "children": [
+      {
+        "name": "Outer Planes",
+        "pages": [
+          "43",
+          "57-67"
+        ]
+      }
+    ],
+    "pages": [
+      "58"
+    ]
+  },
+  {
+    "name": "urban monsters",
+    "pages": [
+      "305"
+    ]
+  },
+  {
+    "name": "using ability scores",
+    "pages": [
+      "237-240",
+      "242"
+    ]
+  },
+  {
+    "name": "using a map",
+    "pages": [
+      "242"
+    ]
+  },
+  {
+    "name": "using magic items",
+    "pages": [
+      "140-141"
+    ]
+  },
+  {
+    "name": "using the dice",
+    "pages": [
+      "235",
+      "236-237",
+      "242"
+    ]
+  },
+  {
+    "name": "vehicles",
+    "pages": [
+      "119"
+    ]
+  },
+  {
+    "name": "vestige",
+    "pages": [
+      "11"
+    ]
+  },
+  {
+    "name": "victim (mystery)",
+    "pages": [
+      "77"
+    ]
+  },
+  {
+    "name": "village",
+    "pages": [
+      "16-17"
+    ]
+  },
+  {
+    "name": "villain",
+    "children": [
+      {
+        "name": "class options",
+        "pages": [
+          "96-97"
+        ]
+      },
+      {
+        "name": "methods",
+        "pages": [
+          "95"
+        ]
+      },
+      {
+        "name": "scheme",
+        "pages": [
+          "94"
+        ]
+      },
+      {
+        "name": "weakness",
+        "pages": [
+          "96"
+        ]
+      }
+    ],
+    "pages": [
+      "74",
+      "75-76",
+      "77",
+      "78",
+      "94-97"
+    ]
+  },
+  {
+    "name": "visibility",
+    "pages": [
+      "117",
+      "119",
+      "243"
+    ]
+  },
+  {
+    "name": "walls",
+    "pages": [
+      "102"
+    ]
+  },
+  {
+    "name": "wandering monsters",
+    "pages": [
+      "302-305"
+    ]
+  },
+  {
+    "name": "wands",
+    "pages": [
+      "140"
+    ]
+  },
+  {
+    "name": "war",
+    "pages": [
+      "40-41"
+    ]
+  },
+  {
+    "name": "water vehicles",
+    "pages": [
+      "119"
+    ]
+  },
+  {
+    "name": "weapons, magic",
+    "pages": [
+      "140"
+    ]
+  },
+  {
+    "name": "wearing and wielding magic items",
+    "pages": [
+      "140-141"
+    ]
+  },
+  {
+    "name": "weather",
+    "pages": [
+      "109-110",
+      "118-119"
+    ]
+  },
+  {
+    "name": "webs",
+    "pages": [
+      "105"
+    ]
+  },
+  {
+    "name": "weirdness",
+    "pages": [
+      "109"
+    ]
+  },
+  {
+    "name": "wilderness",
+    "children": [
+      {
+        "name": "creating a wilderness",
+        "pages": [
+          "14",
+          "25-26",
+          "73",
+          "106-112",
+          "116-120"
+        ]
+      },
+      {
+        "name": "chases",
+        "pages": [
+          "254"
+        ]
+      }
+    ],
+    "pages": [
+      "73",
+      "106-112",
+      "116-120",
+      "254"
+    ]
+  },
+  {
+    "name": "wind",
+    "pages": [
+      "110"
+    ]
+  },
+  {
+    "name": "wondrous items",
+    "pages": [
+      "140"
+    ]
+  },
+  {
+    "name": "World Axis",
+    "pages": [
+      "44"
+    ]
+  },
+  {
+    "name": "world building",
+    "pages": [
+      "9-41",
+      "43-69"
+    ]
+  },
+  {
+    "name": "World Tree, the",
+    "pages": [
+      "44"
+    ]
+  },
+  {
+    "name": "wuxia",
+    "pages": [
+      "41"
+    ]
+  },
+  {
+    "name": "XP (experience points)",
+    "children": [
+      {
+        "name": "thresholds",
+        "pages": [
+          "82-83"
+        ]
+      }
+    ],
+    "pages": [
+      "82-84",
+      "260-261"
+    ]
+  },
+  {
+    "name": "yellow mold",
+    "pages": [
+      "105"
+    ]
+  },
+  {
+    "name": "Ysgard (Outer Plane)",
+    "pages": [
+      "58",
+      "61"
+    ]
+  },
+  {
+    "name": "Zhentarim",
+    "pages": [
+      "23"
+    ]
+  }
+]
