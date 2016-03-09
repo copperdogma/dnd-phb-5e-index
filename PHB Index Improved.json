@@ -332,6 +332,28 @@
         "pages": [75]
     },
     {
+        "name": "arcane focus",
+        "pages": [151],
+        "children": [
+            {
+                "name": "sorcerer equipment/spellcasing focus",
+                "pages": [101]
+            },
+            {
+                "name": "warlock equipment/spellcasing focus",
+                "pages": [107]
+            },
+            {
+                "name": "wizard equipment/spellcasing focus",
+                "pages": [114]
+            },
+            {
+                "name": "material spellcasting component",
+                "pages": [203]
+            }
+        ]
+    },
+     {
         "name": "arcane magic",
         "pages": [205],
         "children": [

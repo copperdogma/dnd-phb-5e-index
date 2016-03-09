@@ -67,6 +67,11 @@ Arborea (plane of existence), 302
 Arcadia (plane of existence), 302
 Arcana (Intelligence skill), 177
 Arcane Charge (fighter), 75
+arcane focus, 151
+	sorcerer equipment/spellcasing focus, 101
+	warlock equipment/spellcasing focus, 107
+	wizard equipment/spellcasing focus, 114
+	material spellcasting component, 203
 arcane magic, 205
 	bard, 51
 	fighter (Eldritch Knight martial archetype), 74
