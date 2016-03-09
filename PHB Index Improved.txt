@@ -132,7 +132,7 @@ automatic hit (rolling a 20), 194
 automatic miss (rolling a 1), 194
 Avatar of Battle (cleric), 63
 Avenging Angel (paladin), 88
-Awakened Mind (warlock), 11O
+Awakened Mind (warlock), 110
 background, 11, 12, 13-14,
 	125-141
 	acolyte, 127
@@ -194,7 +194,7 @@ Blessings of Knowledge (cleric), 59
 Blessing of the Trickster (cleric), 63
 blinded (condition), 290
 Blindsense (rogue), 96
-blindsignt, 183
+blindsight, 183
 bludgeoning damage (damage type), 196
 boar (creature), 304
 bonds (personality), 124
@@ -1483,7 +1483,7 @@ thieves' cant (rogue language), 96
 thieves' tools, 154
 Third Eye, The (wizard), 116-117
 Thirsting Blade (warlock eldritch invocation), 111
-Thought Shield (warlock), 11O
+Thought Shield (warlock), 110
 Thousand Forms (druid), 69
 three-quarters cover, 196
 thrown (weapon property), 147
