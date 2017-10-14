@@ -123,9 +123,8 @@ automatic hit (rolling a 20), 194
 automatic miss (rolling a 1), 194
 Avatar of Battle (cleric), 63
 Avenging Angel (paladin), 88
-Awakened Mind (warlock), 11O
-background, 11, 12, 13-14,
-	125-141
+Awakened Mind (warlock), 110
+background, 11, 12, 13-14, 125-141
 	acolyte, 127
 	charlatan, 128
 	criminal, 129-130
@@ -276,8 +275,7 @@ Charisma, 12, 178-179
 	Performance, 179
 	Persuasion, 179
 charlatan. See under background
-Charm Animals and plants
-	(cleric). See under Channel Divinity cleric options
+Charm Animals and plants (cleric). See under Channel Divinity cleric options
 charmed. See conditions
 check. See ability check
 Chondathan. See human ethnicities
@@ -511,7 +509,7 @@ Dwarvish, 20
 effect, 201
 Elder Champion (paladin), 87
 Eldritch Invocations (warlock), 107
-eldritch invocations. 110-111
+eldritch invocations, 110-111
 Eldritch Knight (fighter). See under martial archetypes
 Eldritch Master (warlock), 108
 Eldritch Sight (warlock). See eldritch invocations
@@ -688,7 +686,7 @@ half-elf traits, 39
 halfling, 26-28
 Hallfing (language), 28
 	See also language
-halfling names. 27
+halfling names, 27
 Halfling Nimbleness, 28
 halfling traits, 28
 half-orc, 40-41
@@ -1213,12 +1211,12 @@ Sacred Oath (paladin), 85
 	oath spells, 85
 sacred oaths, 85-88
 	breaking, 86
-	Oath of Devotion 85-86
+	Oath of Devotion, 85-86
 	Oath of the Ancients, 86-87
 	Oath of Vengeance, 87-88
 sacred plants and wood (druid), 66
 Sacred Weapon (paladin). See under Channel Divinity paladin options
-sage. Set under background
+sage. See under background
 sailor. See under background
 Savage Attacks (half-orc), 41
 save. See saving throw
@@ -1417,7 +1415,7 @@ thieves' cant (rogue), 96
 thieves' tools, 154
 Third Eye, The (wizard), 116-117
 Thirsting Blade (warlock). See eldritch invocations
-Thought Shield (warlock), 11O
+Thought Shield (warlock), 110
 Thousand Forms (druid), 69
 three-quarters cover. See cover
 thrown (weapon property). See weapon properties
@@ -1548,8 +1546,7 @@ weapon proficiency, 14, 146
 weapon properties, 146-147
 Weave, the, 205
 Whirlwind Attack (ranger). See Multiattack
-Whispers of the Grave (warlock).
-	See eldritch invocations
+Whispers of the Grave (warlock). See eldritch invocations
 Wholeness of Body (monk), 79-80
 wild elf. See elf
 Wild Magic (sorcerer). See under sorcerous origins

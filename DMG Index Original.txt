@@ -355,7 +355,7 @@ hoard treasure, 133, 137-139
 home base (for characters), 15, 25
 honor, 264-265
 horror, 266
-ice (hazard), 110-lll
+ice (hazard), 110-111
 ideal (NPC), 90
 identifying a magic item, 136
 immersive storytelling, 34
