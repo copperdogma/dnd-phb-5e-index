@@ -2,6 +2,7 @@
 import os
 import subprocess
 import sqlite3 as sqlite
+import json
 import tkinter
 # separate imports needed due to tkinter idiosyncrasies
 from tkinter import ttk
@@ -10,7 +11,7 @@ from tkinter import filedialog, messagebox
 
 
 class ExportForm:
-    def __init__(self, conn):
+    def __init__(self, conn, scrptdir):
         cframe = tkinter.Frame(master)
         cframe.grid()
 
@@ -19,7 +20,18 @@ class ExportForm:
         self.valuePages = []
         self.sv_idx = tkinter.StringVar()
         self.sv_ent = tkinter.StringVar()
-        self.path_to_reader = os.path.abspath(r'/usr/bin/evince')
+
+        with open(os.path.join(scrptdir, 'pdf_options.json'), 'r') as f:
+            pdf_options = json.load(f)
+        self.pdf = None
+        for i in pdf_options:
+            if os.path.isfile(i['readerpath']):
+                self.pdf = i
+            else:
+                break
+        print('pdf options:', self.pdf)
+
+        #self.path_to_reader = os.path.abspath(r'/usr/bin/evince')
 
         self.style = ttk.Style()
         self.style.configure("TButton", padding=6, relief="flat", background="#ccc", width=20)
@@ -139,7 +151,13 @@ class ExportForm:
                 rec = conn.execute("SELECT link, page_adjust FROM dnd_pub WHERE pubkey = ?;",(i[0],)).fetchone()
                 pdf_path = rec[0]
                 pg += int(rec[1])
-                process = subprocess.Popen([self.path_to_reader, ''.join(('--page-label=',str(pg))), pdf_path], shell=False,  stdout=subprocess.PIPE)
+            if self.pdf and  pdf_path:
+                pinput = [self.pdf['readerpath']]
+                if self.pdf['options'] is not None:
+                    pinput += [x  for x in self.pdf['options'] if x is not None]
+                pinput += [self.pdf['page'].format(str(pg))] + [os.path.abspath(pdf_path)]
+                print(pinput)
+                process = subprocess.Popen(pinput, shell=False,  stdout=subprocess.PIPE)
 
 
         def callback_idx(sv):
@@ -213,7 +231,7 @@ scrptpath = os.path.join(scrptdir, "dmdb.sqlite")
 conn = sqlite.connect(scrptpath)
 master = tkinter.Tk()
 master.title("D&D Index Crawler")
-mf = ExportForm(conn)
+mf = ExportForm(conn, scrptdir)
 master.mainloop()
 conn.close()
 
