@@ -1,0 +1,26 @@
+--FIXES--
+Fixed a couple minor typos in 'DMG Index Original.txt' and 'PHB Index Original.txt'
+
+--ADDITIONS--
+This update adds a Monster Manual index and a PHB Spell Index file in the main directory.
+Additionally, in the 'utils' directory the following files have been added:
+
+The following files were added to prove quick access functionality to lookup pages numbers in the indices, via interaction with an sqlite database or if preferred, though a GUI.
+
+create_db.py - Creates an sqlite database and adds information from the various indices. 
+Run via command line: python3 ./create_db.py
+
+txt_to_json.py - Contains a python function for converting txt indices to json, similar to the html version already existing.
+It can be run from the command line as well using the following command: python3 ./txt_to_json.py "/input/path/to/index.txt" "/out/path/to/index.json"
+The second argument is optional and without it the function will create a *.json file in the same dir as the original *.txt file.
+
+index_crawler.py -  This script requires the tkinter library, which should be installed by default with a Windows python3 install. Linux users may need to install it (e.g. 'sudo apt-get install python3-tk' for Debian flavors).
+This script will create a GUI that users can use to search and navigate index information in the sqlite database. 
+Assuming that the pdf_options.json file contains a valid pdf reader path and option set for the system, and assuming that the update.sql file has inserted the relevant pdf paths to local digital pdf backups of sourcebooks, will also bring up the relevant page  in a pdf reader when a page is selected.
+
+update.sql - This inserts some basic data into the created sqlite database and is called from the create_db.py script. 
+See examples in the script for updating database information with local pdf paths.
+
+pdf_options.json - This file stores information on available pdf readers for the index crawler to use. Currently Evince (Linux) and Adobe Reader (Windows) as well as options that need to be passed to each program for it to open via command line.
+Users will almost certainly need to edit this document for the correct path to their own pdf reader of choice.
+Options to be fed into the pdf reader are put under the 'options' entry. the option to open to a specific page is special and has its own entry 'page'.  The {!s} is mandatory and is how the script passes the page number to the process call.
