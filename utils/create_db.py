@@ -37,12 +37,12 @@ def insert_rows_json(c, pubkey, version, data, listpre = None):
                 for i in rng:
                     pages.append(i)
             pages = list(set(pages)) #remove duplicates
-            print(pubkey, version, d['name'], l, pages, note, sep='|')
+            #print(pubkey, version, d['name'], l, pages, note, sep='|')
             for page in pages:
                 c.execute(sql,(pubkey, version, entry, l, idx_text, page, note))
         else:
             page = None
-            print(pubkey, version, d['name'], l, page, note, sep='|')
+            #print(pubkey, version, d['name'], l, page, note, sep='|')
             c.execute(sql,(pubkey, version, entry, l, idx_text, page, note))
 
 
@@ -59,33 +59,15 @@ scrptpath = os.path.join(scrptdir, "dmdb.sqlite")
 conn = sqlite.connect(scrptpath)
 c = conn.cursor()
 
-### lets create tables and load in some data
-sql = "DROP TABLE IF EXISTS dnd_index;"
-c.execute(sql)
-sql = """CREATE TABLE dnd_index (pubkey TEXT, version TEXT, entry TEXT, idx TEXT, 
-         idx_text TEXT, page INT, notes TEXT, PRIMARY KEY (pubkey, version, idx, page));"""
-c.execute(sql)
+### lets create tables
+with open(os.path.join(scrptdir, "create_tables.sql")) as f:
+    script = f.read()
+    c.executescript(script)
 
-sql = "DROP TABLE IF EXISTS dnd_pub;"
-c.execute(sql)
-sql = "CREATE TABLE dnd_pub (pubkey TEXT PRIMARY KEY, fullname TEXT, abbr TEXT, edition TEXT, notes TEXT, link TEXT, page_adjust INTEGER DEFAULT (0));"
-c.execute(sql)
-# sql = """INSERT INTO dnd_pub (pubkey, fullname, abbr, edition, notes) VALUES (?,?,?,?,?);"""
-# recs = [('phb5e', "Player's Handbook", 'PHB', '5th', None),
-#         ('dmg5e', "Dungeon Master's Guide", 'DMG', '5th', None),
-#         ('mm5e', 'Monster Manual', 'MM', '5th', None),
-#         ('cos5e', 'Curse of Strahd', 'COS', '5th', None),
-#         ('hdq5e', 'Hoard of the Dragon Queen', 'HDQ', '5th', None),
-#         ('oota5e', 'Out of the Abyss', 'OOTA', '5th', None),
-#         ('pota5e', 'Princes of the Apocalypse', 'POTA', '5th', None),
-#         ('rot5e', 'Rise of Tiamat', 'ROT', '5th', None),
-#         ('aa5e', 'Adversaries & Allies', 'AA', '5th', None),
-#         ('tob5e', 'Tome of Beasts', 'TOB', '5th', None),
-#         ('skt5e', "Storm King's Thunder", 'SKT', '5th', None),
-#         ('vgm5e', "Volo's Guide to Monsters", 'VGM', '5th', None),
-#         ('fef5e', 'Fifth Edition Foes', 'FEF', '5th', None),
-#         ]
-# c.executemany(sql, recs)
+### lets load in some data
+with open(os.path.join(scrptdir, "load_data.sql")) as f:
+    script = f.read()
+    c.executescript(script)
 
 with open (os.path.join(scrptdir, '..', "PHB Index Improved.json")) as f:
     data = json.load(f)

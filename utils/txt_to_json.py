@@ -38,7 +38,7 @@ def list_to_json(lst, level):
                 dic['note'] = note
             if children:
                 dic['children'] = children
-            print(dic)
+            #print(dic)
             sublst.append(dic)
         elif level > levelact:
             return sublst
