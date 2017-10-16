@@ -5,7 +5,7 @@
     "page": "--page-label={!s}"
   },
   {
-    "readerpath": "C:\\Program Files (x86)\\Adobe\\Reader 10.0\\Reader\\AcroRd32.exe",
+    "readerpath": "C:\\Program Files (x86)\\Adobe\\Acrobat Reader 2017\\Reader\\AcroRd32.exe",
     "options": [
       "/A"
     ],
