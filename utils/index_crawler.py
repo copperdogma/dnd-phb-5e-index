@@ -27,11 +27,11 @@ class ExportForm:
         for i in pdf_options:
             if os.path.isfile(i['readerpath']):
                 self.pdf = i
-            else:
-                break
-        print('pdf options:', self.pdf)
-
-        #self.path_to_reader = os.path.abspath(r'/usr/bin/evince')
+                break     
+        if self.pdf is not None:
+            print('pdf reader found:', os.path.basename(self.pdf['readerpath']))
+        else:
+            print("No valid pdf reader found. Please edit pdf_options.json with the appropriate path to your pdf reader and associated command line options.")
 
         self.style = ttk.Style()
         self.style.configure("TButton", padding=6, relief="flat", background="#ccc", width=20)
@@ -151,13 +151,22 @@ class ExportForm:
                 rec = conn.execute("SELECT link, page_adjust FROM dnd_pub WHERE pubkey = ?;",(i[0],)).fetchone()
                 pdf_path = rec[0]
                 pg += int(rec[1])
-            if self.pdf and  pdf_path:
-                pinput = [self.pdf['readerpath']]
-                if self.pdf['options'] is not None:
-                    pinput += [x  for x in self.pdf['options'] if x is not None]
-                pinput += [self.pdf['page'].format(str(pg))] + [os.path.abspath(pdf_path)]
-                print(pinput)
-                process = subprocess.Popen(pinput, shell=False,  stdout=subprocess.PIPE)
+            if self.pdf:
+                if pdf_path:
+                    if os.path.isfile(pdf_path):
+                        pinput = [self.pdf['readerpath']]
+                        if self.pdf['options'] is not None:
+                            pinput += [x  for x in self.pdf['options'] if x is not None]
+                        pinput += [self.pdf['page'].format(str(pg))] + [os.path.abspath(pdf_path)]
+                        #print(pinput)
+                        process = subprocess.Popen(pinput, shell=False,  stdout=subprocess.PIPE)
+                    else:
+                        print(pdf_path, "is missing.")
+                else:
+                    print("No pdf path to this publication in database. Edit update.sql to set paths.")
+            else:
+                print("No pdf reader selected.  Edit pdf_options.json to add your pdf reader and command line options.")
+                    
 
 
         def callback_idx(sv):
