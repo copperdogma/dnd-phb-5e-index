@@ -20,96 +20,100 @@
         <label for="dest-json-file">Destination json file:</label><br/>
         <textarea id="dest-json-file" cols="100" rows="20"></textarea>
     </main>
-    <script src="http://ajax.googleapis.com/ajax/libs/jquery/2.1.4/jquery.min.js"></script>
     <script>
-        $(document).ready(function () {
-            $("#convert").on("click",processAndRenderIndex)
-           });
-           
-        function processAndRenderIndex() {
-            var textData = processTextIntoData($("#source-txt-file").val());
-            var json = JSON.stringify(textData, null, 2);
-            $("#dest-json-file").val(json);
-        }
-        
-        // Final output for each element should look like this:
-        function processTextIntoData(textData) {
-            var data = [];
-            
-            var mainItem = {};
-            mainItem.children = [];
-            var lines = textData.split('\n');
-            $.each(lines, function(index,line) {
-                var trimLine = line.trim();
-                if (trimLine.length > 0) {
-                    if (line[0] === '\u0009') {
-                        mainItem.children = addItem(mainItem.children,trimLine);
-                    }
-                    else {
-                        if (mainItem.name === undefined) {
-                            mainItem.name = trimLine; // should only ever happen once
+        document.addEventListener("DOMContentLoaded", function domContentLoaded() {
+            var sourceTxtFileTextArea = document.getElementById("source-txt-file");
+            var targetJsonFileTextArea = document.getElementById("dest-json-file");
+
+            function processAndRenderIndex() {
+                var textData = processTextIntoData(sourceTxtFileTextArea.value);
+                var json = JSON.stringify(textData, null, 2);
+                targetJsonFileTextArea.value = json;
+            }
+
+            // Final output for each element should look like this:
+            function processTextIntoData(textData) {
+                var data = [];
+
+                var mainItem = {};
+                mainItem.children = [];
+                var lines = textData.split("\n");
+                for (var lineIndex in lines) {
+                    var trimLine = lines[lineIndex].trim();
+                    if (trimLine.length > 0) {
+                        // first char is tab
+                        if (lines[lineIndex][0] === "\u0009") {
+                            mainItem.children = addItem(mainItem.children, trimLine);
                         }
                         else {
-                            // new item; save the last one and start a new one
-                            data = addItem(data,mainItem);
-    
-                            mainItem = {};
-                            mainItem.name = trimLine;
-                            mainItem.children = [];
+                            if (mainItem.name === undefined) {
+                                mainItem.name = trimLine; // should only ever happen once
+                            }
+                            else {
+                                // new item; save the last one and start a new one
+                                data = addItem(data, mainItem);
+
+                                mainItem = {};
+                                mainItem.name = trimLine;
+                                mainItem.children = [];
+                            }
                         }
                     }
                 }
-            });
-            
-            data = addItem(data,mainItem);
-            
-            return data;
-        }
-        
-        function addItem(data,item) {
-            var itemText = item.name;
-            if (itemText === undefined) {
-                itemText = item;
-                item = {};
-            }
-            var pages = splitPages(itemText);
-            item.name = pages[0];
-            pages.splice(0,1);
-            item.pages = pages;
 
-            if (item.children && item.children.length === 0) {
-                delete item.children;
-            }
-            data.push(item);
+                data = addItem(data, mainItem);
 
-            return data;
-        }
-        
-        function isNum(value) {
-            if(/^(\-|\+)?([0-9]+|Infinity)$/.test(value)) {
-                return Number(value);
+                return data;
             }
-            return NaN;
-        }
-        
-        function splitPages(item) {
-            var finalItems = ["placeholder"];
-            var mainItems = [];
-            var pages = [];
-            var items = item.split(",");
-            for(var i = 0;i<items.length;i++) {
-                var noDashItem = items[i].replace("-","").trim();
-                if (isNum(noDashItem)) {
-                    pages.push(items[i].trim());
+
+            function addItem(data, item) {
+                var itemText = item.name;
+                if (itemText === undefined) {
+                    itemText = item;
+                    item = {};
                 }
-                else {
-                    mainItems.push(items[i]);
+                var pages = splitPages(itemText);
+                item.name = pages[0];
+                pages.splice(0, 1);
+                item.pages = pages;
+
+                if (item.children && item.children.length === 0) {
+                    delete item.children;
                 }
+                data.push(item);
+
+                return data;
             }
-            finalItems[0] = mainItems.join(",");
-            finalItems = finalItems.concat(pages);
-            return finalItems;
-        }
+
+            function isNum(value) {
+                if (/^(\-|\+)?([0-9]+|Infinity)$/.test(value)) {
+                    return Number(value);
+                }
+                return NaN;
+            }
+
+            function splitPages(item) {
+                var finalItems = ["placeholder"];
+                var mainItems = [];
+                var pages = [];
+                var items = item.split(",");
+                for (var i = 0; i < items.length; i++) {
+                    var noDashItem = items[i].replace("-", "").trim();
+                    if (isNum(noDashItem)) {
+                        pages.push(items[i].trim());
+                    }
+                    else {
+                        mainItems.push(items[i]);
+                    }
+                }
+                finalItems[0] = mainItems.join(",");
+                finalItems = finalItems.concat(pages);
+                return finalItems;
+            }
+
+            document.getElementById("convert")
+                .addEventListener("click", processAndRenderIndex);
+        });
     </script>
 </body>
 </html>
