@@ -3,7 +3,6 @@
 <head>
 	<meta charset="UTF-8" />
 	<title>5e Index Converter</title>
-	<script src="http://ajax.googleapis.com/ajax/libs/jquery/2.1.3/jquery.min.js"></script>
 	<style>
 		.in-out-set .in-out {
 			display: inline-block;
@@ -43,40 +42,46 @@
 		<p>Note that this site has no affiliation with <a href="http://www.wizards.com/dnd/">Wizards of the Coast</a>, owner of Dungeons and Dragons.</p>
 	</footer>
 	<script>
-		'use strict';
-		$(document).ready(function () {
-		
-			function outputEntry(entry,level) {
+		"use strict";
+
+		document.addEventListener("DOMContentLoaded", function domContentLoaded() {
+			var inputTextarea = document.getElementById("input-json");
+			var outputTextarea = document.getElementById("output-txt");
+
+			function outputEntry(entry, level) {
 				var output = "\t".repeat(level) + entry.name;
+
 				if (entry.hasOwnProperty("pages")) {
-					$.each(entry.pages,function(index,page) {
-						output += ", " + page;
-					});
+					for (var pageIndex in entry.pages) {
+						output += ", " + entry.pages[pageIndex];
+					}
 				}
+
 				output += "\n";
 
 				if (entry.hasOwnProperty("children")) {
-					$.each(entry.children,function(index,child) {
-						output += outputEntry(child,level+1);
-					});
+					for (var childIndex in entry.children) {
+						output += outputEntry(entry.children[childIndex], level + 1);
+					}
 				}
 
 				return output;
 			}
-		
+
 			function processJsonToTxt() {
 				var output = "";
 
-				var inputJson = JSON.parse($("#input-json").val());
-				
-				$.each(inputJson,function(index,entry) {
-					output += outputEntry(entry,0);
-				});
-				
-				$("#output-txt").val(output);
+				var inputJson = JSON.parse(inputTextarea.value);
+
+				for (var index in inputJson) {
+					output += outputEntry(inputJson[index], 0);
+				}
+
+				outputTextarea.value = output;
 			}
 
-			$("#process-json-to-txt").on('click',function() { processJsonToTxt(); });
+			document.getElementById("process-json-to-txt")
+				.addEventListener("click", processJsonToTxt);
 		});
 	</script>
 </body>
